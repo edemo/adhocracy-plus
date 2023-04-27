@@ -186,7 +186,7 @@ window.onload = function () {
     '.captcheck_error_message{ color:red }' +
     '.captcheck_question_image{ display:initial }' +
     '.captcheck_question_access{ display:none }' +
-    '.captcheck_alt_question_button{ display:block; font-size:80%; cursor:pointer; color:inherit; text-decoration:inherit; border:0 }' +
+    '.captcheck_alt_question_button{ display:none; font-size:80%; cursor:pointer; color:inherit; text-decoration:inherit; border:0 }' +
     '.captcheck_alt_question_button:focus{ outline:0 }' +
     '.captcheck_alt_question_button:focus-visible{ outline: auto }' +
     '.captcheck_answer_images>a:focus{ outline:0 }' +
