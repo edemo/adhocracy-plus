@@ -3,56 +3,53 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: adhocracy-plus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-26 10:38+0100\n"
-"PO-Revision-Date: 2020-11-12 13:23+0000\n"
+"PO-Revision-Date: 2023-04-27 12:16+0200\n"
+"Last-Translator: \n"
 "Language-Team: Hungarian (https://www.transifex.com/liqd/teams/109316/hu/)\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
 
-#: adhocracy4/categories/templates/a4categories/includes/module_categories_form.html:3
 #: adhocracy4/categories/templates/a4categories/includes/module_categories_form.html:3
 msgid ""
 "In this section, you can create\n"
 "categories. If you create any, each contribution has to be assigned\n"
 "to one of them. This way, content can be classified."
 msgstr ""
+"Ebben a szakaszban létrehozhat\n"
+"kategóriákat. Ha létrehozza őket, minden egyes hozzájárulást hozzá kell "
+"rendelni \n"
+"valamelyikhez. Így a tartalom osztályozható."
 
-#: adhocracy4/categories/templates/a4categories/includes/module_categories_form.html:21
 #: adhocracy4/categories/templates/a4categories/includes/module_categories_form.html:21
 msgid "Add category"
-msgstr ""
+msgstr "Új kategória hozzáadása"
 
-#: adhocracy4/dashboard/templates/a4dashboard/base_dashboard.html:4
 #: adhocracy4/dashboard/templates/a4dashboard/base_dashboard.html:4
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:55
 msgid "Dashboard"
-msgstr ""
+msgstr "Vezérlőpult"
 
-#: adhocracy4/dashboard/templates/a4dashboard/base_dashboard_project.html:5
 #: adhocracy4/dashboard/templates/a4dashboard/base_dashboard_project.html:5
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:24
 msgid "Project Settings"
-msgstr ""
+msgstr "Projekt beállítások"
 
-#: adhocracy4/dashboard/templates/a4dashboard/base_dashboard_project.html:15
-#: adhocracy4/dashboard/templates/a4dashboard/base_dashboard_project.html:33
 #: adhocracy4/dashboard/templates/a4dashboard/base_dashboard_project.html:15
 #: adhocracy4/dashboard/templates/a4dashboard/base_dashboard_project.html:33
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:49
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:103
 msgid "Missing fields for publication"
-msgstr ""
+msgstr "Hiányzó mezők a közzétételhez"
 
-#: adhocracy4/dashboard/templates/a4dashboard/base_form_module.html:18
-#: adhocracy4/dashboard/templates/a4dashboard/base_form_project.html:18
 #: adhocracy4/dashboard/templates/a4dashboard/base_form_module.html:18
 #: adhocracy4/dashboard/templates/a4dashboard/base_form_project.html:18
 #: apps/activities/templates/a4_candy_activities/activities_dashboard.html:19
@@ -70,48 +67,38 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/base_form_module.html:23
 #: adhocracy-plus/templates/a4dashboard/base_form_project.html:23
 msgid "Save"
-msgstr ""
+msgstr "Mentés"
 
-#: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:4
-#: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:7
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:9
 #: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:4
 #: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:7
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:9
 #: adhocracy-plus/templates/a4dashboard/blueprint_list.html:4
 #: adhocracy-plus/templates/a4dashboard/project_list.html:13
 msgid "New Project"
-msgstr ""
+msgstr "Új projekt"
 
-#: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:17
 #: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:17
 msgid "Phase"
-msgstr ""
+msgstr "Fázis"
 
-#: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:23
 #: adhocracy4/dashboard/templates/a4dashboard/blueprint_list.html:23
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:15
 #: adhocracy-plus/templates/a4dashboard/includes/blueprint_list_tile.html:15
 msgid "Select"
-msgstr ""
+msgstr "Kiválasztás"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/form_field.html:6
 #: adhocracy4/dashboard/templates/a4dashboard/includes/form_field.html:6
 msgid "Missing field for publication"
-msgstr ""
+msgstr "Hiányzó mező a közzétételhez"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/preview.html:7
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:39
 #: adhocracy4/dashboard/templates/a4dashboard/includes/preview.html:7
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:39
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:59
 #: adhocracy-plus/templates/a4dashboard/includes/preview.html:7
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:34
 msgid "Preview"
-msgstr ""
+msgstr "Előnézet"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/preview.html:9
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:41
 #: adhocracy4/dashboard/templates/a4dashboard/includes/preview.html:9
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:41
 #: apps/contrib/templates/a4_candy_contrib/includes/map_filter_and_sort.html:8
@@ -122,54 +109,47 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/includes/preview.html:9
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:36
 msgid "View"
-msgstr ""
+msgstr "Nézet"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:16
 #: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:16
 #, python-format
 msgid "%(value)s from %(max)s"
-msgstr ""
+msgstr "%(value)s a %(max)s"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:17
 #: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:17
 msgid "required fields for publication"
-msgstr ""
+msgstr "a közzétételhez szükséges mezők"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:27
 #: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:27
 #: apps/dashboard/templates/a4_candy_dashboard/includes/progress.html:12
 #: apps/dashboard/templates/a4_candy_dashboard/includes/progress.html:46
 msgid "Publish"
-msgstr ""
+msgstr "Közzététel"
 
-#: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:31
 #: adhocracy4/dashboard/templates/a4dashboard/includes/progress.html:31
 #: apps/dashboard/templates/a4_candy_dashboard/includes/progress.html:19
 msgid "Unpublish"
-msgstr ""
+msgstr "Visszavonás"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:4
-#: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:7
 #: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:4
 #: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:7
 msgid "Create project based on"
-msgstr ""
+msgstr "Projekt létrehozása a következő alapján"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:23
 #: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:23
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:41
 msgid ""
 "After saving the draft project you can further customize and edit your "
 "project and eventually publish it."
 msgstr ""
+"A projekttervezet mentése után testreszabhatja és szerkesztheti projektjét, "
+"és végül közzéteheti azt."
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:25
 #: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:25
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:46
 msgid "Create draft"
-msgstr ""
+msgstr "Vázlat létrehozása"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:27
 #: adhocracy4/dashboard/templates/a4dashboard/project_create_form.html:27
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_form.html:31
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_confirm_delete.html:14
@@ -191,10 +171,8 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/topic_confirm_delete.html:13
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:45
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:4
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:7
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:4
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:7
 #: apps/projects/templates/a4_candy_projects/project_list.html:4
@@ -202,29 +180,25 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/project_list.html:4
 #: adhocracy-plus/templates/a4dashboard/project_list.html:9
 msgid "Projects"
-msgstr ""
+msgstr "Projektek"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:24
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:24
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:17
 msgid "Finished"
-msgstr ""
+msgstr "Befejeződött"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:27
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:27
 #: adhocracy4/projects/enums.py:14
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:20
 msgid "semipublic"
-msgstr ""
+msgstr "félig nyilvános"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:30
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:30
 #: adhocracy4/projects/enums.py:15
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:23
 msgid "private"
-msgstr ""
+msgstr "privát"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:48
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:48
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:103
 #: apps/debate/templates/a4_candy_debate/includes/subject_dashboard_list_item.html:19
@@ -233,71 +207,57 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_dashboard_list_item.html:19
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:42
 msgid "Edit"
-msgstr ""
+msgstr "Szerkesztés"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:57
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:57
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:65
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikálás"
 
-#: adhocracy4/dashboard/templates/a4dashboard/project_list.html:65
 #: adhocracy4/dashboard/templates/a4dashboard/project_list.html:65
 #: apps/projects/templates/a4_candy_projects/project_list.html:18
 #: adhocracy-plus/templates/a4dashboard/project_list.html:27
 msgid "We could not find any projects."
-msgstr ""
+msgstr "Nem találtunk egyetlen projektet sem."
 
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:5
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:23
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:35
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:47
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:59
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:5
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:23
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:35
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:47
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:59
 msgid "Export"
-msgstr ""
+msgstr "Exportálás"
 
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:7
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:7
 msgid ""
 "You can export the results of your participation project as an excel file."
-msgstr ""
+msgstr "A részvételi projekt eredményeit excel fájlként exportálhatja."
 
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:19
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:19
 msgid "here you can export all ideas"
-msgstr ""
+msgstr "itt exportálhatja az összes ötletet"
 
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:31
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:31
 msgid "here you can export all subjects"
-msgstr ""
+msgstr "itt exportálhatja az összes tárgyat"
 
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:43
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:43
 msgid "here you can export all answers"
-msgstr ""
+msgstr "itt exportálhatja az összes választ"
 
-#: adhocracy4/exports/templates/a4exports/export_dashboard.html:55
 #: adhocracy4/exports/templates/a4exports/export_dashboard.html:55
 msgid "here you can export all comments"
-msgstr ""
+msgstr "itt exportálhatja az összes hozzászólást"
 
 #: adhocracy4/filters/templates/a4filters/widgets/free_text_filter.html:15
-#: adhocracy4/dashboard/filter.py:11
-#: adhocracy4/filters/templates/a4filters/widgets/free_text_filter.html:15
-#: apps/debate/filters.py:12 apps/ideas/views.py:29 apps/topicprio/views.py:21
+#: adhocracy4/dashboard/filter.py:11 apps/debate/filters.py:12
+#: apps/ideas/views.py:29 apps/topicprio/views.py:21
 #: adhocracy-plus/templates/a4filters/widgets/free_text_filter.html:4
 #: adhocracy-plus/templates/a4filters/widgets/free_text_filter.html:10
 #: adhocracy-plus/templates/a4filters/widgets/free_text_filter.html:11
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
-#: adhocracy4/forms/templates/a4forms/includes/form_field.html:5
 #: adhocracy4/forms/templates/a4forms/includes/form_field.html:5
 #: apps/contrib/templates/a4_candy_contrib/includes/form_checkbox_field.html:6
 #: apps/contrib/templates/a4_candy_contrib/includes/form_field.html:5
@@ -305,38 +265,31 @@ msgstr ""
 #: adhocracy-plus/templates/account/signup.html:36
 #: adhocracy-plus/templates/socialaccount/signup.html:31
 msgid "This field is required"
-msgstr ""
+msgstr "A mező kitöltése kötelező"
 
-#: adhocracy4/forms/templates/a4forms/includes/inline_form.html:14
-#: adhocracy4/forms/templates/a4forms/includes/inline_form.html:15
-#: adhocracy4/forms/templates/a4forms/includes/inline_form.html:18
-#: adhocracy4/forms/templates/a4forms/includes/inline_form.html:19
 #: adhocracy4/forms/templates/a4forms/includes/inline_form.html:14
 #: adhocracy4/forms/templates/a4forms/includes/inline_form.html:15
 #: adhocracy4/forms/templates/a4forms/includes/inline_form.html:18
 #: adhocracy4/forms/templates/a4forms/includes/inline_form.html:19
 msgid "Remove category"
-msgstr ""
+msgstr "Kategória eltávolítása"
 
-#: adhocracy4/images/templates/a4images/image_upload_widget.html:8
 #: adhocracy4/images/templates/a4images/image_upload_widget.html:8
 #: adhocracy-plus/templates/a4images/image_upload_widget.html:10
 #: adhocracy-plus/templates/a4images/image_upload_widget.html:11
 #: adhocracy-plus/templates/a4images/image_upload_widget_simple.html:10
 #: adhocracy-plus/templates/a4images/image_upload_widget_simple.html:11
 msgid "Remove the picture"
-msgstr ""
+msgstr "Távolítsa el a képet"
 
-#: adhocracy4/images/templates/a4images/image_upload_widget.html:12
 #: adhocracy4/images/templates/a4images/image_upload_widget.html:12
 #: adhocracy-plus/templates/a4images/image_upload_widget.html:16
 #: adhocracy-plus/templates/a4images/image_upload_widget.html:17
 #: adhocracy-plus/templates/a4images/image_upload_widget_simple.html:16
 #: adhocracy-plus/templates/a4images/image_upload_widget_simple.html:17
 msgid "Upload a picture"
-msgstr ""
+msgstr "Kép feltöltése"
 
-#: adhocracy4/images/templates/a4images/image_upload_widget.html:19
 #: adhocracy4/images/templates/a4images/image_upload_widget.html:19
 msgid ""
 "\n"
@@ -344,73 +297,72 @@ msgid ""
 "            at the end of this page.\n"
 "            "
 msgstr ""
+"\n"
+"            A kép feltöltésre/eltávolításra kerül, miután elmentette a "
+"módosításokat\n"
+"            az oldal végén.\n"
+"            "
 
-#: adhocracy4/labels/templates/a4labels/includes/module_labels_form.html:3
 #: adhocracy4/labels/templates/a4labels/includes/module_labels_form.html:3
 msgid ""
 "In this section, you can create\n"
 "labels. If you create any, each contribution can be assigned\n"
 "to one or more of them. This way, content can be classified."
 msgstr ""
+"Ebben a szakaszban létrehozhat\n"
+"címkéket. Ha létrehozza őket, minden egyes hozzájáruláshoz\n"
+"egy vagy több címke is hozzárendelhető, így a tartalom osztályozható."
 
-#: adhocracy4/labels/templates/a4labels/includes/module_labels_form.html:21
 #: adhocracy4/labels/templates/a4labels/includes/module_labels_form.html:21
 msgid "Add label"
-msgstr ""
+msgstr "Címke hozzáadása"
 
-#: adhocracy4/polls/templates/a4polls/poll_404.html:8
 #: adhocracy4/polls/templates/a4polls/poll_404.html:8
 msgid ""
 "Participation is not possible at the moment. The poll has not been set up "
 "yet."
 msgstr ""
+"A részvétel jelenleg nem lehetséges. A szavazást még nem állítottuk be."
 
-#: adhocracy4/polls/templates/a4polls/poll_404.html:15
 #: adhocracy4/polls/templates/a4polls/poll_404.html:15
 msgid "Setup the poll by adding questions and answers in the dashboard."
 msgstr ""
+"Állítsa be a szavazást a kérdések és válaszok hozzáadásával a irányítópulton."
 
-#: adhocracy4/polls/templates/a4polls/poll_dashboard.html:5
 #: adhocracy4/polls/templates/a4polls/poll_dashboard.html:5
 msgid "Edit poll"
-msgstr ""
+msgstr "Szavazás szerkesztése"
 
-#: adhocracy4/categories/dashboard.py:13
-#: apps/exports/mixins.py:19
+#: adhocracy4/categories/dashboard.py:13 apps/exports/mixins.py:19
 msgid "Categories"
-msgstr ""
+msgstr "Kategóriák"
 
 #: adhocracy4/categories/dashboard.py:15
 msgid "Edit categories"
-msgstr ""
+msgstr "Kategóriák szerkesztése"
 
-#: adhocracy4/categories/fields.py:11
-#: adhocracy4/categories/filters.py:16
-#: adhocracy4/categories/forms.py:43
-#: adhocracy4/exports/mixins/items.py:15
+#: adhocracy4/categories/fields.py:11 adhocracy4/categories/filters.py:16
+#: adhocracy4/categories/forms.py:43 adhocracy4/exports/mixins/items.py:15
 msgid "Category"
-msgstr ""
+msgstr "Kategória"
 
-#: adhocracy4/categories/forms.py:37
-#: adhocracy4/labels/forms.py:14
+#: adhocracy4/categories/forms.py:37 adhocracy4/labels/forms.py:14
 msgid "Category name"
-msgstr ""
+msgstr "Kategória név"
 
 #: adhocracy4/categories/forms.py:38
 msgid "Category icon"
-msgstr ""
+msgstr "Kategória ikon"
 
-#: adhocracy4/comments/models.py:35
-#: adhocracy4/polls/exports.py:40
+#: adhocracy4/comments/models.py:35 adhocracy4/polls/exports.py:40
 #: apps/budgeting/exports.py:78 apps/debate/exports.py:68
 #: apps/documents/exports.py:41 apps/ideas/exports.py:77
 #: apps/mapideas/exports.py:78 apps/topicprio/exports.py:75
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "Megjegyzés"
 
-#: adhocracy4/comments/models.py:36
-#: adhocracy4/exports/mixins/comments.py:48
+#: adhocracy4/comments/models.py:36 adhocracy4/exports/mixins/comments.py:48
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_list_item.html:16
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_list_item.html:17
 #: apps/ideas/templates/a4_candy_ideas/includes/idea_list_item.html:18
@@ -420,42 +372,40 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_list_item.html:18
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_list_item.html:20
 msgid "Comments"
-msgstr ""
+msgstr "Hozzászólások"
 
-#: adhocracy4/comments/serializers.py:78
-#: adhocracy4/comments/serializers.py:178
+#: adhocracy4/comments/serializers.py:78 adhocracy4/comments/serializers.py:178
 msgid "Please choose a category"
-msgstr ""
+msgstr "Válassz kategóriát"
 
 #: adhocracy4/comments/serializers.py:87
 #: adhocracy4/comments_async/serializers.py:92
 msgid "unknown user"
-msgstr ""
+msgstr "ismeretlen felhasználó"
 
-#: adhocracy4/comments_async/api.py:139
-#: adhocracy4/polls/api.py:115
+#: adhocracy4/comments_async/api.py:139 adhocracy4/polls/api.py:115
 msgid "Please agree to the organisation's terms of use."
-msgstr ""
+msgstr "Kérjük, fogadja el a szervezet Felhasználási Feltételeit."
 
 #: adhocracy4/comments_async/serializers.py:15
 msgid "Please choose one or more categories."
-msgstr ""
+msgstr "Kérjük, válasszon ki egy vagy több kategóriát."
 
 #: adhocracy4/dashboard/components/forms/views.py:24
 msgid "The project has been updated."
-msgstr ""
+msgstr "A projektet frissítésre került."
 
 #: adhocracy4/dashboard/components/forms/views.py:51
 msgid "The module has been updated."
-msgstr ""
+msgstr "A modul frissítésre került."
 
 #: adhocracy4/dashboard/dashboard.py:13
 msgid "Basic settings"
-msgstr ""
+msgstr "Alapbeállítások"
 
 #: adhocracy4/dashboard/dashboard.py:15
 msgid "Edit basic settings"
-msgstr ""
+msgstr "Alapvető beállítások szerkesztése"
 
 #: adhocracy4/dashboard/dashboard.py:23
 #: apps/organisations/templates/a4_candy_organisations/organisation_information.html:4
@@ -463,61 +413,58 @@ msgstr ""
 #: apps/projects/templates/a4_candy_projects/project_detail.html:82
 #: adhocracy-plus/templates/includes/project_header_mobile_toggle.html:23
 msgid "Information"
-msgstr ""
+msgstr "Információ"
 
 #: adhocracy4/dashboard/dashboard.py:25
 msgid "Edit project information"
-msgstr ""
+msgstr "Projektinformációk szerkesztése"
 
 #: adhocracy4/dashboard/dashboard.py:33
 #: apps/projects/templates/a4_candy_projects/project_detail.html:102
 #: adhocracy-plus/templates/includes/project_header_mobile_toggle.html:41
 msgid "Result"
-msgstr ""
+msgstr "Eredmény"
 
 #: adhocracy4/dashboard/dashboard.py:35
 msgid "Edit project result"
-msgstr ""
+msgstr "Projekt eredmény szerkesztése"
 
 #: adhocracy4/dashboard/dashboard.py:43
 msgid "Basic information"
-msgstr ""
+msgstr "Alap információk"
 
 #: adhocracy4/dashboard/dashboard.py:45
 msgid "Edit basic module information"
-msgstr ""
+msgstr "Alapvető modulinformációk szerkesztése"
 
 #: adhocracy4/dashboard/dashboard.py:53
 msgid "Phases"
-msgstr ""
+msgstr "Fázisok"
 
 #: adhocracy4/dashboard/dashboard.py:55
 msgid "Edit phases information"
-msgstr ""
+msgstr "Fázisok információinak szerkesztése"
 
 #: adhocracy4/dashboard/dashboard.py:64
 msgid "Area settings"
-msgstr ""
+msgstr "Területi beállítások"
 
 #: adhocracy4/dashboard/dashboard.py:65
 msgid "Edit area settings"
-msgstr ""
+msgstr "Területi beállítások szerkesztése"
 
-#: adhocracy4/dashboard/filter.py:15
-#: apps/budgeting/views.py:27
+#: adhocracy4/dashboard/filter.py:15 apps/budgeting/views.py:27
 msgid "Archived"
-msgstr ""
+msgstr "Archiválva"
 
-#: adhocracy4/dashboard/filter.py:19
-#: adhocracy4/filters/widgets.py:33
+#: adhocracy4/dashboard/filter.py:19 adhocracy4/filters/widgets.py:33
 #: apps/budgeting/views.py:31
 msgid "All"
-msgstr ""
+msgstr "Összes"
 
-#: adhocracy4/dashboard/filter.py:20
-#: apps/budgeting/views.py:32
+#: adhocracy4/dashboard/filter.py:20 apps/budgeting/views.py:32
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: adhocracy4/dashboard/filter.py:21
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_confirm_delete.html:15
@@ -528,20 +475,20 @@ msgstr ""
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_confirm_delete.html:16
 #: apps/topicprio/templates/a4_candy_topicprio/topic_confirm_delete.html:16
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #: adhocracy4/dashboard/forms.py:79
 msgid "All users can participate (public)."
-msgstr ""
+msgstr "Minden felhasználó részt vehet (nyilvános)."
 
 #: adhocracy4/dashboard/forms.py:82
 msgid "Only invited users can participate (private)."
-msgstr ""
+msgstr "Csak meghívott felhasználók vehetnek részt (privát)."
 
 #: adhocracy4/dashboard/forms.py:91
 #: apps/projects/templates/a4_candy_projects/project_detail.html:129
 msgid "Contact for questions"
-msgstr ""
+msgstr "Kérdéseit ide küldje"
 
 #: adhocracy4/dashboard/forms.py:93
 msgid ""
@@ -549,153 +496,149 @@ msgid ""
 "this project and to whom they can address possible questions. The contact "
 "person will be shown in the information tab on the project page."
 msgstr ""
+"Kérjük, nevezzen meg egy kapcsolattartót. A felhasználó így tudni fogja, "
+"hogy ki végzi ezt a projektet, és kihez fordulhat esetleges kérdéseivel. A "
+"kapcsolattartó személy a projektoldalon az információs lapon jelenik meg."
 
 #: adhocracy4/dashboard/forms.py:99
 msgid "More contact possibilities"
-msgstr ""
+msgstr "További kapcsolattartási lehetőségek"
 
-#: adhocracy4/dashboard/forms.py:144
-#: adhocracy4/phases/models.py:66
+#: adhocracy4/dashboard/forms.py:144 adhocracy4/phases/models.py:66
 msgid "End date"
-msgstr ""
+msgstr "Befejezés dátuma"
 
 #: adhocracy4/dashboard/forms.py:144
 msgid "End time"
-msgstr ""
+msgstr "Befejezési időpont"
 
-#: adhocracy4/dashboard/forms.py:150
-#: adhocracy4/phases/models.py:64
+#: adhocracy4/dashboard/forms.py:150 adhocracy4/phases/models.py:64
 msgid "Start date"
-msgstr ""
+msgstr "Kezdő dátum"
 
 #: adhocracy4/dashboard/forms.py:150
 msgid "Start time"
-msgstr ""
+msgstr "Kezdési időpont"
 
 #: adhocracy4/dashboard/mixins.py:209
 msgid "Project successfully duplicated."
-msgstr ""
+msgstr "A projekt sikeresen megismétlődött."
 
 #: adhocracy4/dashboard/views.py:73
 msgid "Project successfully created."
-msgstr ""
+msgstr "A projekt sikeresen létrejött."
 
-#: adhocracy4/dashboard/views.py:164
-#: apps/dashboard/views.py:133
+#: adhocracy4/dashboard/views.py:164 apps/dashboard/views.py:133
 msgid "Invalid action"
-msgstr ""
+msgstr "Érvénytelen művelet"
 
 #: adhocracy4/dashboard/views.py:181
 msgid "Project is already published"
-msgstr ""
+msgstr "A projektet már közzétették"
 
 #: adhocracy4/dashboard/views.py:186
 msgid "Project cannot be published. No module is added."
-msgstr ""
+msgstr "A projekt nem tehető közzé. Nincs modul hozzáadva."
 
 #: adhocracy4/dashboard/views.py:202
 msgid "Project cannot be published. Required fields are missing."
-msgstr ""
+msgstr "A projekt nem tehető közzé. A szükséges mezők hiányoznak."
 
 #: adhocracy4/dashboard/views.py:211
 msgid "Project cannot be published."
-msgstr ""
+msgstr "A projekt nem tehető közzé."
 
 #: adhocracy4/dashboard/views.py:221
 msgid "the project has been published."
-msgstr ""
+msgstr "a projektet közzétették."
 
 #: adhocracy4/dashboard/views.py:226
 msgid "Project is already unpublished"
-msgstr ""
+msgstr "A projekt már nem publikált"
 
 #: adhocracy4/dashboard/views.py:234
 msgid "the project has been unpublished."
-msgstr ""
+msgstr "a projektet nem publikálták."
 
 #: adhocracy4/exports/mixins/comments.py:17
 msgid "Comment count"
-msgstr ""
+msgstr "Megjegyzések száma"
 
 #: adhocracy4/exports/mixins/comments.py:80
 msgid "Reply to Comment"
-msgstr ""
+msgstr "Válasz a megjegyzésre"
 
 #: adhocracy4/exports/mixins/comments.py:99
 msgid "Reply to Reference"
-msgstr ""
+msgstr "Válasz a hivatkozásra"
 
 #: adhocracy4/exports/mixins/general.py:15
 msgid "Creator"
-msgstr ""
+msgstr "Létrehozó"
 
-#: adhocracy4/exports/mixins/general.py:17
-#: adhocracy4/polls/exports.py:41
+#: adhocracy4/exports/mixins/general.py:17 adhocracy4/polls/exports.py:41
 #: apps/budgeting/exports.py:79 apps/debate/exports.py:69
 #: apps/documents/exports.py:42 apps/ideas/exports.py:78
 #: apps/mapideas/exports.py:79 apps/topicprio/exports.py:76
 msgid "Created"
-msgstr ""
+msgstr "Létrehozva"
 
 #: adhocracy4/exports/mixins/general.py:36
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: adhocracy4/exports/mixins/general.py:52
 msgid "Location (Longitude)"
-msgstr ""
+msgstr "Helyszín (földrajzi hosszúság)"
 
 #: adhocracy4/exports/mixins/general.py:54
 msgid "Location (Latitude)"
-msgstr ""
+msgstr "Helyszín (földrajzi szélesség)"
 
 #: adhocracy4/exports/mixins/general.py:56
 msgid "Location label"
-msgstr ""
+msgstr "Helycímke"
 
-#: adhocracy4/exports/mixins/items.py:31
-#: adhocracy4/labels/dashboard.py:13
+#: adhocracy4/exports/mixins/items.py:31 adhocracy4/labels/dashboard.py:13
 #: apps/ideas/models.py:46 apps/topicprio/models.py:50
 msgid "Labels"
-msgstr ""
+msgstr "Címkék"
 
 #: adhocracy4/exports/mixins/items.py:49
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:63
 msgid "Reference No."
-msgstr ""
+msgstr "Hivatkozási szám."
 
 #: adhocracy4/exports/mixins/items.py:69
 msgid "Status"
-msgstr ""
+msgstr "Állapot"
 
 #: adhocracy4/exports/mixins/items.py:71
 msgid "Feedback"
-msgstr ""
+msgstr "Visszajelzés"
 
-#: adhocracy4/exports/mixins/items.py:95
-#: apps/moderatorremark/models.py:14
+#: adhocracy4/exports/mixins/items.py:95 apps/moderatorremark/models.py:14
 #: apps/moderatorremark/templates/a4_candy_moderatorremark/includes/popover_remark.html:5
 #: apps/moderatorremark/templates/a4_candy_moderatorremark/includes/popover_remark.html:21
 msgid "Remark"
-msgstr ""
+msgstr "Megjegyzés"
 
 #: adhocracy4/exports/mixins/rates.py:16
 msgid "Positive ratings"
-msgstr ""
+msgstr "Pozitív értékelések"
 
 #: adhocracy4/exports/mixins/rates.py:18
 msgid "Negative ratings"
-msgstr ""
+msgstr "Negatív értékelések"
 
-#: adhocracy4/filters/widgets.py:76
-#: apps/contrib/widgets.py:59
+#: adhocracy4/filters/widgets.py:76 apps/contrib/widgets.py:59
 msgid "Ordering"
-msgstr ""
+msgstr "Rendezés"
 
 #: adhocracy4/forms/fields.py:19
 #, python-format
 msgid "Time of %(date_label)s"
-msgstr ""
+msgstr "Időpontja %(date_label)s"
 
 #: adhocracy4/images/fields.py:70
 #, python-brace-format
@@ -704,107 +647,109 @@ msgid ""
 "{min_resolution[1]} pixel tall. Allowed file formats are {fileformats_str}. "
 "The file size should be max. {max_size_mb} MB."
 msgstr ""
+"{help_prefix} Ez kell min. {min_resolution[0]} pixel széles és "
+"{min_resolution[1]} pixel magas. A megengedett fájlformátumok a következők: "
+"{fileformats_str}. A fájl mérete max. {max_size_mb} MB."
 
 #: adhocracy4/images/fields.py:87
 #, python-brace-format
 msgid "{image_name} copyright"
-msgstr ""
+msgstr "{image_name} szerzői jog"
 
 #: adhocracy4/images/fields.py:90
 #, python-brace-format
 msgid "Copyright shown in the {image_name}."
-msgstr ""
+msgstr "A {image_name}-ban feltüntetett szerzői jog."
 
 #: adhocracy4/images/validators.py:26
 msgid "Unsupported file format. Supported formats are {}."
-msgstr ""
+msgstr "Nem támogatott fájlformátum. A támogatott formátumok a következők {}."
 
-#: adhocracy4/images/validators.py:33
-#: apps/organisations/forms.py:362
+#: adhocracy4/images/validators.py:33 apps/organisations/forms.py:362
 #, python-brace-format
 msgid "Image should be at most {max_size} MB"
-msgstr ""
+msgstr "A kép mérete legfeljebb {max_size} MB lehet"
 
-#: adhocracy4/images/validators.py:41
-#: apps/organisations/forms.py:370
+#: adhocracy4/images/validators.py:41 apps/organisations/forms.py:370
 #, python-brace-format
 msgid "Image must be at least {min_width} pixels wide"
-msgstr ""
+msgstr "A képnek legalább {min_width} pixel szélesnek kell lennie"
 
-#: adhocracy4/images/validators.py:49
-#: apps/organisations/forms.py:380
+#: adhocracy4/images/validators.py:49 apps/organisations/forms.py:380
 #, python-brace-format
 msgid "Image must be at least {min_height} pixels high"
-msgstr ""
+msgstr "A képnek legalább {min_height} pixel magasnak kell lennie"
 
 #: adhocracy4/images/validators.py:55
 #, python-brace-format
 msgid "Image must be at most {max_width} pixels wide"
-msgstr ""
+msgstr "A képnek legfeljebb {max_width} pixel szélesnek kell lennie"
 
 #: adhocracy4/images/validators.py:58
 #, python-brace-format
 msgid "Image must be at most {max_height} pixels high"
-msgstr ""
+msgstr "A képnek legfeljebb {max_height} pixel magasnak kell lennie"
 
 #: adhocracy4/images/validators.py:67
 #, python-brace-format
 msgid "Image aspect ratio should be {aspect_width}:{aspect_height}"
-msgstr ""
+msgstr "A kép képaránya legyen {aspect_width}:{aspect_height}"
 
 #: adhocracy4/images/widgets.py:28
 msgid "Select a picture from your local folder."
-msgstr ""
+msgstr "Válasszon ki egy képet a helyi mappából."
 
 #: adhocracy4/labels/dashboard.py:15
 msgid "Edit labels"
-msgstr ""
+msgstr "Címkék szerkesztése"
 
-#: adhocracy4/labels/filters.py:10
-#: adhocracy4/labels/forms.py:16
+#: adhocracy4/labels/filters.py:10 adhocracy4/labels/forms.py:16
 msgid "Label"
-msgstr ""
+msgstr "Címke"
 
-#: adhocracy4/maps/admin.py:15
-#: adhocracy4/maps/models.py:11
+#: adhocracy4/maps/admin.py:15 adhocracy4/maps/models.py:11
 msgid "Polygon"
-msgstr ""
+msgstr "Poligon"
 
 #: adhocracy4/maps/admin.py:19
 msgid ""
 "Enter a valid GeoJSON object. To initialize a new areasetting enter the "
 "string \"false\" without quotation marks."
 msgstr ""
+"Adjon meg egy érvényes GeoJSON objektumot. Új területbeállításhoz adja meg a "
+"\"false\" karakterláncot idézőjelek nélkül."
 
 #: adhocracy4/maps/fields.py:16
 msgid "Geometry as GeoJSON"
-msgstr ""
+msgstr "Geometria GeoJSON-ként"
 
 #: adhocracy4/maps/fields.py:34
 msgid "Please add a Marker on the map"
-msgstr ""
+msgstr "Kérjük, adjon hozzá egy jelölést a térképen"
 
 #: adhocracy4/maps/fields.py:39
 msgid "Please draw a Polygon on the map"
-msgstr ""
+msgstr "Kérjük, rajzoljon egy sokszöget a térképre"
 
 #: adhocracy4/maps/models.py:11
 msgid "Please draw an area on the map."
-msgstr ""
+msgstr "Kérjük, rajzoljon egy területet a térképre."
 
 #: adhocracy4/modules/models.py:74
 msgid "Title of the module"
-msgstr ""
+msgstr "A modul címe"
 
 #: adhocracy4/modules/models.py:76
 msgid ""
 "This title will appear in the timeline and the header on the module and "
 "project detail pages. It should be max. 512 characters long"
 msgstr ""
+"Ez a cím jelenik meg az idővonalon, valamint a modul és a projekt részletes "
+"oldalainak fejlécében. Ennek a címnek hossza max. 512 karakter"
 
 #: adhocracy4/modules/models.py:85
 msgid "Short description of the module"
-msgstr ""
+msgstr "A modul rövid leírása"
 
 #: adhocracy4/modules/models.py:87
 msgid ""
@@ -812,218 +757,216 @@ msgid ""
 "detail pages. It should briefly state the goal of the module in max. 512 "
 "chars."
 msgstr ""
+"Ez a rövid leírás megjelenik a modul és a projekt részletes oldalainak "
+"fejlécében. Röviden, max. 512 karakterben."
 
 #: adhocracy4/modules/models.py:224
 msgid "day"
-msgstr ""
+msgstr "nap"
 
-#: adhocracy4/modules/models.py:224
-#: adhocracy4/modules/models.py:231
+#: adhocracy4/modules/models.py:224 adhocracy4/modules/models.py:231
 msgid "days"
-msgstr ""
+msgstr "nap"
 
 #: adhocracy4/modules/models.py:225
 msgid "hour"
-msgstr ""
+msgstr "óra"
 
-#: adhocracy4/modules/models.py:225
-#: adhocracy4/modules/models.py:232
+#: adhocracy4/modules/models.py:225 adhocracy4/modules/models.py:232
 msgid "hours"
-msgstr ""
+msgstr "óra"
 
 #: adhocracy4/modules/models.py:226
 msgid "minute"
-msgstr ""
+msgstr "perc"
 
-#: adhocracy4/modules/models.py:226
-#: adhocracy4/modules/models.py:233
+#: adhocracy4/modules/models.py:226 adhocracy4/modules/models.py:233
 msgid "minutes"
-msgstr ""
+msgstr "perc"
 
 #: adhocracy4/modules/models.py:227
 msgid "second"
-msgstr ""
+msgstr "másodperc"
 
-#: adhocracy4/modules/models.py:227
-#: adhocracy4/modules/models.py:234
+#: adhocracy4/modules/models.py:227 adhocracy4/modules/models.py:234
 msgid "seconds"
-msgstr ""
+msgstr "másodperc"
 
 #: adhocracy4/modules/models.py:231
 msgctxt "abbreviation for day(s)"
 msgid "D"
-msgstr ""
+msgstr "N"
 
 #: adhocracy4/modules/models.py:232
 msgctxt "abbreviation for hour(s)"
 msgid "H"
-msgstr ""
+msgstr "Ó"
 
 #: adhocracy4/modules/models.py:233
 msgctxt "abbreviation for minute(s)"
 msgid "M"
-msgstr ""
+msgstr "P"
 
 #: adhocracy4/modules/models.py:234
 msgctxt "abbreviation for second(s)"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: adhocracy4/phases/forms.py:24
 msgid "Phases cannot run at the same time and must follow after each other."
-msgstr ""
+msgstr "A fázisok nem futhatnak egyszerre, és egymás után kell következniük."
 
 #: adhocracy4/phases/forms.py:31
 msgid "Phases need to be in same order as in form."
-msgstr ""
+msgstr "A fázisoknak ugyanabban a sorrendben kell lenniük, mint az űrlapon."
 
-#: adhocracy4/phases/models.py:59
-#: apps/newsletters/models.py:28
+#: adhocracy4/phases/models.py:59 apps/newsletters/models.py:28
 #: apps/projects/templates/a4_candy_projects/includes/removeable_user_list.html:7
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
-#: adhocracy4/phases/models.py:60
-#: apps/activities/models.py:22 apps/debate/models.py:25
-#: apps/ideas/models.py:34 apps/offlineevents/models.py:36
-#: apps/organisations/forms.py:322 apps/topicprio/forms.py:14
-#: apps/topicprio/models.py:32
+#: adhocracy4/phases/models.py:60 apps/activities/models.py:22
+#: apps/debate/models.py:25 apps/ideas/models.py:34
+#: apps/offlineevents/models.py:36 apps/organisations/forms.py:322
+#: apps/topicprio/forms.py:14 apps/topicprio/models.py:32
 msgid "Description"
-msgstr ""
+msgstr "Leírás"
 
 #: adhocracy4/phases/models.py:84
 msgid "End date can not be before start date."
-msgstr ""
+msgstr "A végdátum nem lehet a kezdeti dátum előtt."
 
-#: adhocracy4/phases/models.py:88
-#: adhocracy4/phases/models.py:92
+#: adhocracy4/phases/models.py:88 adhocracy4/phases/models.py:92
 msgid "Either both or no date has to be set."
-msgstr ""
+msgstr "Vagy mindkettő, vagy nem kell időpontot meghatározni."
 
 #: adhocracy4/polls/api.py:155
 msgid "Please specify your answer."
-msgstr ""
+msgstr "Kérjük, adja meg válaszát."
 
 #: adhocracy4/polls/api.py:169
 msgid "Key error for {}"
-msgstr ""
+msgstr "Kulcshiba a {}"
 
 #: adhocracy4/polls/api.py:171
 msgid "Choice not found."
-msgstr ""
+msgstr "Nem található választás."
 
 #: adhocracy4/polls/api.py:190
 msgid "Duplicate choices detected."
-msgstr ""
+msgstr "Kettős választások észlelve."
 
 #: adhocracy4/polls/api.py:193
 msgid "Multiple choice disabled for question."
-msgstr ""
+msgstr "Többszörös választási lehetőség letiltva a kérdéshez."
 
-#: adhocracy4/polls/dashboard.py:15
-#: apps/dashboard/blueprints.py:98
+#: adhocracy4/polls/dashboard.py:15 apps/dashboard/blueprints.py:98
 msgid "Poll"
-msgstr ""
+msgstr "Szavazás"
 
-#: adhocracy4/polls/dashboard.py:44
-#: apps/budgeting/dashboard.py:14 apps/debate/dashboard.py:66
-#: apps/documents/dashboard.py:51 apps/ideas/dashboard.py:14
-#: apps/mapideas/dashboard.py:14 apps/topicprio/dashboard.py:66
+#: adhocracy4/polls/dashboard.py:44 apps/budgeting/dashboard.py:14
+#: apps/debate/dashboard.py:66 apps/documents/dashboard.py:51
+#: apps/ideas/dashboard.py:14 apps/mapideas/dashboard.py:14
+#: apps/topicprio/dashboard.py:66
 msgid "Export Excel"
-msgstr ""
+msgstr "Excel exportálása"
 
-#: adhocracy4/polls/exports.py:39
-#: apps/budgeting/exports.py:77 apps/debate/exports.py:67
-#: apps/documents/exports.py:40 apps/ideas/exports.py:76
-#: apps/mapideas/exports.py:77 apps/topicprio/exports.py:74
+#: adhocracy4/polls/exports.py:39 apps/budgeting/exports.py:77
+#: apps/debate/exports.py:67 apps/documents/exports.py:40
+#: apps/ideas/exports.py:76 apps/mapideas/exports.py:77
+#: apps/topicprio/exports.py:74
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: adhocracy4/polls/models.py:41
 msgid "Explanation"
-msgstr ""
+msgstr "Magyarázat"
 
 #: adhocracy4/polls/models.py:68
 msgid "Questions with open answers cannot have multiple choices."
 msgstr ""
+"A nyitott válaszokat tartalmazó kérdések nem tartalmazhatnak több választási "
+"lehetőséget."
 
 #: adhocracy4/polls/models.py:77
 msgid ""
 "Question with choices cannot become open question. Delete choices or add new "
 "open question."
 msgstr ""
+"A választható kérdés nem válhat nyitott kérdéssé. Törölje a választási "
+"lehetőségeket vagy adjon hozzá új nyitott kérdést."
 
-#: adhocracy4/polls/models.py:140
-#: adhocracy4/polls/models.py:258
+#: adhocracy4/polls/models.py:140 adhocracy4/polls/models.py:258
 msgid "Answer"
-msgstr ""
+msgstr "Válasz"
 
 #: adhocracy4/polls/models.py:151
 msgid "Only open questions can have answers."
-msgstr ""
+msgstr "Csak a nyitott kérdésekre lehet válaszolni."
 
 #: adhocracy4/polls/models.py:187
 msgid "Open questions cannot have choices."
-msgstr ""
+msgstr "A nyitott kérdéseknek nem lehet választási lehetőségük."
 
 #: adhocracy4/polls/models.py:193
 msgid ""
 "\"Other\" cannot be the only choice. Use open question or add more choices."
 msgstr ""
+"a \"más\" nem lehet az egyetlen választás. Használjon nyitott kérdést vagy "
+"adjon hozzá több választási lehetőséget."
 
 #: adhocracy4/polls/models.py:204
 msgid "Question already has \"other\" choice."
-msgstr ""
+msgstr "A kérdés már rendelkezik \"egyéb\" választási lehetőséggel."
 
 #: adhocracy4/polls/models.py:265
 msgid "Other vote can only be created for vote on \"other\" choice."
 msgstr ""
+"Egyéb szavazat csak az \"egyéb\" választásról való szavazáshoz hozható létre."
 
 #: adhocracy4/polls/models.py:287
 msgid "other"
-msgstr ""
+msgstr "egyéb"
 
 #: adhocracy4/polls/phases.py:16
 msgctxt "A4: voting phase name"
 msgid "Voting phase"
-msgstr ""
+msgstr "Szavazási szakasz"
 
 #: adhocracy4/polls/phases.py:18
 msgctxt "A4: voting phase description"
 msgid "Answer the questions and comment on the poll."
-msgstr ""
+msgstr "Válaszoljon a kérdésekre és kommentálja a szavazást."
 
 #: adhocracy4/polls/phases.py:20
 msgid "polls"
-msgstr ""
+msgstr "szavazások"
 
 #: adhocracy4/polls/validators.py:16
 #, python-format
 msgid "Item of type %(item)s for that module already exists"
-msgstr ""
+msgstr "A %(item)s típusú elem az adott modulhoz már létezik"
 
 #: adhocracy4/polls/validators.py:28
 msgid "Question has to belong to the poll set in the url."
-msgstr ""
+msgstr "A kérdésnek az url-ben meghatározott felméréshez kell tartoznia."
 
 #: adhocracy4/polls/validators.py:39
 msgid "Choice has to belong to the question set in the url."
-msgstr ""
+msgstr "A választásnak az url-ben szereplő kérdéshez kell tartoznia."
 
 #: adhocracy4/polls/validators.py:57
 msgid "Only one vote per choice is allowed per user."
-msgstr ""
+msgstr "Felhasználónként csak egy szavazat adható."
 
-#: adhocracy4/projects/admin.py:10
-#: apps/newsletters/forms.py:38
+#: adhocracy4/projects/admin.py:10 apps/newsletters/forms.py:38
 #: adhocracy-plus/templates/includes/project_header_mobile_toggle.html:12
 msgid "Project"
-msgstr ""
+msgstr "Projekt"
 
-#: adhocracy4/projects/admin.py:63
-#: apps/projects/admin.py:38
+#: adhocracy4/projects/admin.py:63 apps/projects/admin.py:38
 msgid "Information and result"
-msgstr ""
+msgstr "Információ és eredmény"
 
 #: adhocracy4/projects/admin.py:69
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:4
@@ -1031,89 +974,97 @@ msgstr ""
 #: apps/organisations/templates/a4_candy_organisations/organisation_form_legal_info.html:4
 #: apps/projects/admin.py:44
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
-#: adhocracy4/projects/admin.py:81
-#: apps/projects/admin.py:58
+#: adhocracy4/projects/admin.py:81 apps/projects/admin.py:58
 msgid "Images"
-msgstr ""
+msgstr "Képek"
 
-#: adhocracy4/projects/admin.py:93
-#: apps/projects/admin.py:70 adhocracy-plus/templates/email_base.html:112
+#: adhocracy4/projects/admin.py:93 apps/projects/admin.py:70
+#: adhocracy-plus/templates/email_base.html:112
 #: adhocracy-plus/templates/footer.html:58
 msgid "Contact"
-msgstr ""
+msgstr "Kapcsolat"
 
 #: adhocracy4/projects/enums.py:13
 msgid "public"
-msgstr ""
+msgstr "nyilvános"
 
 #: adhocracy4/projects/models.py:42
 msgid ""
 "Phone numbers can only contain digits, spaces and the following characters: "
 "-, +, (, ). It has to be between 8 and 20 characters long."
 msgstr ""
+"A telefonszámok csak számjegyeket, szóközöket és a következő karaktereket "
+"tartalmazhatják: -, +, (, ). A számnak 8 és 20 karakter közötti "
+"hosszúságúnak kell lennie."
 
 #: adhocracy4/projects/models.py:49
 msgid "Postal address"
-msgstr ""
+msgstr "Postacím"
 
 #: adhocracy4/projects/models.py:52
 #: apps/projects/templates/a4_candy_projects/includes/removeable_invite_list.html:7
 #: apps/projects/templates/a4_candy_projects/project_detail.html:141
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: adhocracy4/projects/models.py:55
 msgid "Contact person"
-msgstr ""
+msgstr "Kapcsolattartó személy"
 
 #: adhocracy4/projects/models.py:59
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: adhocracy4/projects/models.py:62
 #: apps/projects/templates/a4_candy_projects/project_detail.html:146
 msgid "Website"
-msgstr ""
+msgstr "Weboldal"
 
 #: adhocracy4/projects/models.py:72
 msgid "Can your project be located on the map?"
-msgstr ""
+msgstr "Meg lehet találni a projektjét a térképen?"
 
 #: adhocracy4/projects/models.py:74
 msgid ""
 "Locate your project. Click inside the marked area or type in an address to "
 "set the marker. A set marker can be dragged when pressed."
 msgstr ""
+"Keresse meg a projektet. Kattintson a megjelölt területre, vagy írja be a "
+"címet a jelölő beállításához. A beállított jelölő nyomásra húzható."
 
 #: adhocracy4/projects/models.py:86
 msgid "Administrative district"
-msgstr ""
+msgstr "Közigazgatási körzet"
 
 #: adhocracy4/projects/models.py:166
 msgid "Title of your project"
-msgstr ""
+msgstr "A projekt címe"
 
 #: adhocracy4/projects/models.py:168
 msgid ""
 "This title will appear on the teaser card and on top of the project detail "
 "page. It should be max. 120 characters long"
 msgstr ""
+"Ez a cím jelenik meg a teaser kártyán és a projekt részletes oldalának "
+"tetején. A cím max. 120 karakter hosszú lehet"
 
 #: adhocracy4/projects/models.py:181
 msgid "Short description of your project"
-msgstr ""
+msgstr "A projekt rövid leírása"
 
 #: adhocracy4/projects/models.py:183
 msgid ""
 "This short description will appear on the header of the project and in the "
 "teaser. It should briefly state the goal of the project in max. 250 chars."
 msgstr ""
+"Ez a rövid leírás megjelenik a projekt fejlécében és a teaserben. Röviden ki "
+"kell fejtenie a projekt célját max. 250 karakterben."
 
 #: adhocracy4/projects/models.py:192
 msgid "Description of your project"
-msgstr ""
+msgstr "A projekt leírása"
 
 #: adhocracy4/projects/models.py:194
 msgid ""
@@ -1121,10 +1072,13 @@ msgid ""
 "how the project’s participation will look like. It will be always visible in "
 "the „Info“ tab on your project’s page."
 msgstr ""
+"Ennek a leírásnak el kell mondania a résztvevőknek, hogy mi a projekt célja, "
+"hogyan fog kinézni a projektben való részvétel. Ez mindig látható lesz a "
+"projekt oldalának \"Info\" fülén."
 
 #: adhocracy4/projects/models.py:203
 msgid "Results of your project"
-msgstr ""
+msgstr "A projekt eredményei"
 
 #: adhocracy4/projects/models.py:205
 msgid ""
@@ -1132,238 +1086,247 @@ msgid ""
 "how you are planning to use the results. If the project is finished you "
 "should add a summary of the results."
 msgstr ""
+"Itt kell kifejtenie, hogy mi lesz a projekt várható eredménye, és hogyan "
+"tervezi felhasználni az eredményeket. Ha a projekt befejeződött, hozzá kell "
+"adnia az eredmények összefoglalóját."
 
 #: adhocracy4/projects/models.py:212
 msgid "Access to the project"
-msgstr ""
+msgstr "Hozzáférés a projekthez"
 
-#: adhocracy4/projects/models.py:217
-#: adhocracy4/projects/models.py:223
+#: adhocracy4/projects/models.py:217 adhocracy4/projects/models.py:223
 #: apps/organisations/models.py:97
 msgid "Header image"
-msgstr ""
+msgstr "Fejléc kép"
 
-#: adhocracy4/projects/models.py:218
-#: apps/organisations/models.py:98
+#: adhocracy4/projects/models.py:218 apps/organisations/models.py:98
 msgid "The image will be shown as a decorative background image."
-msgstr ""
+msgstr "A kép dekoratív háttérképként jelenik meg."
 
-#: adhocracy4/projects/models.py:226
-#: adhocracy4/projects/models.py:232
+#: adhocracy4/projects/models.py:226 adhocracy4/projects/models.py:232
 msgid "Tile image"
-msgstr ""
+msgstr "Csempe kép"
 
 #: adhocracy4/projects/models.py:227
 msgid "The image will be shown in the project tile."
-msgstr ""
+msgstr "A kép megjelenik a projektcsempén."
 
 #: adhocracy4/projects/models.py:245
 msgid "Project is archived"
-msgstr ""
+msgstr "A projekt archiválva van"
 
 #: adhocracy4/projects/models.py:247
 msgid ""
 "Archived projects are not shown in the project overview. For project "
 "initiators they are still visible in the dashboard."
 msgstr ""
+"Az archivált projektek nem jelennek meg a projekt áttekintésben. A projekt "
+"kezdeményezői számára továbbra is láthatóak a irányítópulton."
 
 #: adhocracy4/projects/models.py:253
 msgid "Project topics"
-msgstr ""
+msgstr "Projekt témák"
 
 #: adhocracy4/projects/models.py:253
 msgid "Add topics to your project."
-msgstr ""
+msgstr "Témák hozzáadása a projekthez."
 
 #: adhocracy4/projects/templatetags/project_tags.py:12
 #, python-format
 msgid "%(number)d day left"
 msgid_plural "%(number)d days left"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(number)d nap maradt"
+msgstr[1] "%(number)d nap maradt"
 
 #: adhocracy4/projects/templatetags/project_tags.py:17
 msgid "a few hours left"
-msgstr ""
+msgstr "néhány óra van hátra"
 
 #: adhocracy4/projects/utils.py:46
 msgid "{}. Online Participation"
-msgstr ""
+msgstr "{}. Online részvétel"
 
 #: adhocracy4/projects/utils.py:55
 msgid "Online Participation"
-msgstr ""
+msgstr "Online részvétel"
 
 #: adhocracy4/reports/templatetags/react_reports.py:28
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:114
 msgid "Report"
-msgstr ""
+msgstr "Jelentés"
 
 #: apps/account/forms.py:63 apps/organisations/mixins.py:58
 msgid "Yes, I have read and agree to this organisation's {}terms of use{}."
 msgstr ""
+"Igen, elolvastam és elfogadom a szervezet {}felhasználási feltételeit{}."
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:4
 msgid "User Dashboard"
-msgstr ""
+msgstr "Felhasználói irányítópult"
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:11
 msgid "User Dashboard navigation"
-msgstr ""
+msgstr "Felhasználói irányítópult navigáció"
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:22
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:29
 #: adhocracy-plus/templates/account/password_change.html:5
 #: adhocracy-plus/templates/account/password_change.html:40
 msgid "Change password"
-msgstr ""
+msgstr "Jelszó megváltoztatása"
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:36
 msgid "Email addresses"
-msgstr ""
+msgstr "Email címek"
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:43
 msgid "Account Connections"
-msgstr ""
+msgstr "Fiók kapcsolatok"
 
 #: apps/account/templates/a4_candy_account/account_dashboard.html:50
 #: apps/account/templates/a4_candy_account/user_agreements.html:5
 #: apps/account/templates/a4_candy_account/user_agreements.html:7
 msgid "User Agreements"
-msgstr ""
+msgstr "Felhasználói megállapodások"
 
 #: apps/account/templates/a4_candy_account/profile.html:5
 msgid "Your user profile"
-msgstr ""
+msgstr "Az Ön felhasználói profilja"
 
 #: apps/account/templates/a4_candy_account/profile.html:7
 msgid "Your profile"
-msgstr ""
+msgstr "Az Ön profilja"
 
 #: apps/account/templates/a4_candy_account/profile.html:22
 #: apps/account/templates/a4_candy_account/user_agreements.html:34
 #: apps/organisations/templates/a4_candy_organisations/organisation_form.html:47
 #: apps/organisations/templates/a4_candy_organisations/organisation_form_legal_info.html:19
 msgid "Save changes"
-msgstr ""
+msgstr "Beállítások mentése"
 
 #: apps/account/templates/a4_candy_account/user_agreements.html:8
 msgid "Here you can edit all your agreements"
-msgstr ""
+msgstr "Itt szerkesztheti az összes megállapodását"
 
 #: apps/account/views.py:27
 msgid "Your profile was successfully updated."
-msgstr ""
+msgstr "A profilodat sikeresen frissítettük."
 
 #: apps/account/views.py:49
 msgid "Your agreements were successfully updated."
-msgstr ""
+msgstr "A megállapodások sikeresen frissültek."
 
 #: apps/actions/blocks.py:8
 msgid "Heading"
-msgstr ""
+msgstr "Címsor"
 
 #: apps/actions/blocks.py:9
 msgid "Count"
-msgstr ""
+msgstr "Számláló"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:8
 #, python-format
 msgid "%(name)s added a new <a href=\"%(comment_url)s\">comment</a>"
-msgstr ""
+msgstr "%(name)s új <a href=\"%(comment_url)s\">hozzászólás</a> hozzáadása"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:10
 #, python-format
 msgid "%(name)s updated a <a href=\"%(comment_url)s\">comment</a>"
-msgstr ""
+msgstr "%(name)s frissített egy <a href=\"%(comment_url)s\">megjegyzést</a>"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:12
 #, python-format
 msgid "%(name)s added a new <a href=\"%(item_url)s\">item</a>"
-msgstr ""
+msgstr "%(name)s új <a href=\"%(item_url)s\">elemet</a> adtunk hozzá"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:14
 #, python-format
 msgid "%(name)s updated an <a href=\"%(item_url)s\">item</a>"
-msgstr ""
+msgstr "%(name)s frissített egy <a href=\"%(item_url)s\">elemet</a>"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:16
 msgid "New participation started"
-msgstr ""
+msgstr "Új részvétel kezdődött"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:18
 msgid "Participation phase will end soon:"
-msgstr ""
+msgstr "A részvételi szakasz hamarosan véget ér:"
 
 #: apps/actions/templates/a4_candy_actions/includes/action.html:23
 #, python-format
 msgid "on <a href=\"%(url)s\">%(name)s</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">%(name)s</a> oldalon"
 
 #: apps/activities/dashboard.py:14
 msgid "Face-to-Face Information"
-msgstr ""
+msgstr "Személyes tájékoztatás"
 
 #: apps/activities/models.py:12 apps/debate/models.py:20
 #: apps/ideas/models.py:33 apps/offlineevents/models.py:24
 #: apps/organisations/forms.py:313 apps/topicprio/models.py:30
 msgid "Title"
-msgstr ""
+msgstr "Cím"
 
 #: apps/activities/models.py:15
 msgid "Highlighted Info"
-msgstr ""
+msgstr "Kiemelt információ"
 
 #: apps/activities/models.py:17
 msgid ""
 "Highlight important information like the time or location of your face-to-"
 "face event"
 msgstr ""
+"Emelje ki a fontos információkat, például a személyes esemény időpontját "
+"vagy helyszínét"
 
 #: apps/activities/phases.py:14
 msgid "Face to face phase"
-msgstr ""
+msgstr "Szemtől szembe fázis"
 
 #: apps/activities/phases.py:15
 msgid "Show information about the face-to-face event/phase."
-msgstr ""
+msgstr "A személyes eseményre/fázisra vonatkozó információk megjelenítése."
 
 #: apps/activities/phases.py:16
 msgid "facetoface"
-msgstr ""
+msgstr "szemtőtszembe"
 
 #: apps/activities/templates/a4_candy_activities/activities_dashboard.html:7
 msgid "Edit face to face participation information"
-msgstr ""
+msgstr "Személyes részvételi információk szerkesztése"
 
 #: apps/budgeting/models.py:22
 msgid "Required Budget"
-msgstr ""
+msgstr "Szükséges költségvetés"
 
 #: apps/budgeting/models.py:26
 msgid "Proposal is archived"
-msgstr ""
+msgstr "A javaslat archiválva van"
 
 #: apps/budgeting/models.py:28
 msgid ""
 "Exclude this proposal from all listings by default. You can still access "
 "this proposal by using filters."
 msgstr ""
+"Alapértelmezés szerint kizárja ezt a javaslatot minden listáról. A szűrők "
+"használatával továbbra is hozzáférhet ehhez a javaslathoz."
 
 #: apps/budgeting/phases.py:15
 msgid "Request phase"
-msgstr ""
+msgstr "Kérelmi fázis"
 
 #: apps/budgeting/phases.py:17
 msgid "Post ideas with budget proposals, comment on them and rate them."
 msgstr ""
+"Tegye közzé a költségvetési javaslatokat tartalmazó ötleteket, kommentálja "
+"és értékelje azokat."
 
 #: apps/budgeting/phases.py:19 adhocracy-plus/config/settings/base.py:523
 msgid "participatory budgeting"
-msgstr ""
+msgstr "részvételi költségvetés-tervezés"
 
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_list_item.html:7
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_list_item.html:8
@@ -1374,7 +1337,7 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_list_item.html:8
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_list_item.html:10
 msgid "Positive Ratings"
-msgstr ""
+msgstr "Pozitív értékelések"
 
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_list_item.html:11
 #: apps/budgeting/templates/a4_candy_budgeting/includes/proposal_list_item.html:12
@@ -1385,21 +1348,21 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_list_item.html:12
 #: apps/topicprio/templates/a4_candy_topicprio/includes/topic_list_item.html:14
 msgid "Negative Ratings"
-msgstr ""
+msgstr "Negatív értékelések"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_confirm_delete.html:4
 msgid "Confirm Proposal Deletion"
-msgstr ""
+msgstr "A javaslat törlésének megerősítése"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_confirm_delete.html:10
 msgid "Are you sure you want to delete the proposal?"
-msgstr ""
+msgstr "Biztos, hogy törölni szeretné a javaslatot?"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_create_form.html:4
 #: apps/ideas/templates/a4_candy_ideas/idea_create_form.html:4
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_create_form.html:4
 msgid "Create a new proposal"
-msgstr ""
+msgstr "Új javaslat létrehozása"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_create_form.html:15
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_moderate_form.html:10
@@ -1420,7 +1383,7 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:9
 #: adhocracy-plus/templates/a4modules/module_detail.html:100
 msgid "breadcrumbs"
-msgstr ""
+msgstr "breadcrumbs"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_create_form.html:20
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_moderate_form.html:15
@@ -1436,11 +1399,11 @@ msgstr ""
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_update_form.html:21
 #: apps/topicprio/templates/a4_candy_topicprio/topic_detail.html:13
 msgid "go back"
-msgstr ""
+msgstr "vissza"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_create_form.html:25
 msgid "Submit a new proposal for this project"
-msgstr ""
+msgstr "Új javaslat benyújtása erre a projektre"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_create_form.html:27
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_update_form.html:33
@@ -1458,20 +1421,22 @@ msgid ""
 "An error occured while evaluating your data. Please check the data you "
 "entered again."
 msgstr ""
+"Hiba történt az adatok kiértékelése során. Kérjük, ellenőrizze újra a "
+"megadott adatokat."
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_list.html:17
 msgid "Submit proposal"
-msgstr ""
+msgstr "Javaslat benyújtása"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_list.html:35
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_list.html:35
 msgid "Zoom in"
-msgstr ""
+msgstr "Nagyítás"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_list.html:36
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_list.html:36
 msgid "Zoom out"
-msgstr ""
+msgstr "Kicsinyítés"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_list.html:58
 #: apps/debate/templates/a4_candy_debate/subject_dashboard_list.html:23
@@ -1482,20 +1447,20 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/topic_dashboard_list.html:23
 #: apps/topicprio/templates/a4_candy_topicprio/topic_list.html:19
 msgid "Nothing to show"
-msgstr ""
+msgstr "Nincs mit mutatni"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_moderate_form.html:4
 msgid "Moderate"
-msgstr ""
+msgstr "Mérsékelt"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_moderate_form.html:20
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_update_form.html:26
 msgid "back to proposal"
-msgstr ""
+msgstr "vissza a javaslathoz"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_moderate_form.html:25
 msgid "Moderate proposal"
-msgstr ""
+msgstr "Javaslat moderálása"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_update_form.html:4
 #: apps/debate/templates/a4_candy_debate/subject_update_form.html:4
@@ -1505,98 +1470,100 @@ msgstr ""
 #: apps/topicprio/templates/a4_candy_topicprio/topic_update_form.html:4
 #, python-format
 msgid "Edit %(title)s"
-msgstr ""
+msgstr "%(title)s szerkesztése"
 
 #: apps/budgeting/templates/a4_candy_budgeting/proposal_update_form.html:31
 msgid "Edit proposal"
-msgstr ""
+msgstr "Javaslat szerkesztése"
 
 #: apps/budgeting/views.py:19 apps/ideas/views.py:33 apps/mapideas/views.py:17
 msgid "Most recent"
-msgstr ""
+msgstr "Legfrissebb"
 
 #: apps/budgeting/views.py:21 apps/ideas/views.py:35 apps/mapideas/views.py:19
 #: apps/topicprio/views.py:30
 msgid "Most popular"
-msgstr ""
+msgstr "Legnépszerűbb"
 
 #: apps/budgeting/views.py:22 apps/debate/filters.py:19 apps/ideas/views.py:36
 #: apps/mapideas/views.py:20 apps/topicprio/views.py:31
 msgid "Most commented"
-msgstr ""
+msgstr "Legtöbb hozzászólás"
 
 #: apps/budgeting/views.py:86
 msgid "Your budget request has been deleted"
-msgstr ""
+msgstr "Az Ön költségvetési kérelme törlésre került"
 
 #: apps/captcha/fields.py:33 apps/captcha/fields.py:40
 msgid "Something about the answer to the captcha was wrong."
-msgstr ""
+msgstr "Valami nem stimmelt a captcha válaszával kapcsolatban."
 
 #: apps/captcha/fields.py:44
 msgid "Your answer to the captcha was wrong."
-msgstr ""
+msgstr "A captcha válaszod rossz volt."
 
 #: apps/cms/contacts/models.py:32 apps/users/forms.py:45
 msgid "I am not a robot"
-msgstr ""
+msgstr "Nem vagyok robot"
 
 #: apps/cms/contacts/models.py:34
 msgid "If you are having difficulty please contactus, details adjacent"
 msgstr ""
+"Ha nehézségei vannak, kérjük, lépjen kapcsolatba velünk, a részletek a "
+"szomszédban"
 
 #: apps/cms/contacts/models.py:133
 msgid "I want to receive a copy of my message"
-msgstr ""
+msgstr "Szeretnék másolatot kapni az üzenetemről"
 
 #: apps/cms/contacts/models.py:143
 msgid "Your message"
-msgstr ""
+msgstr "Üzenete"
 
 #: apps/cms/contacts/models.py:154
 msgid "Your email address"
-msgstr ""
+msgstr "E-mail cím"
 
 #: apps/cms/contacts/models.py:165
 msgid "Your telephone number"
-msgstr ""
+msgstr "Az Ön telefonszáma"
 
 #: apps/cms/contacts/models.py:176
 msgid "Your name"
-msgstr ""
+msgstr "Az ön neve"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:4
 #, python-format
 msgid "We received your message on %(site_name)s"
-msgstr ""
+msgstr "Megkaptuk az üzenetét a %(site_name)s"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:6
 msgid "We received your message"
-msgstr ""
+msgstr "Megkaptuk az üzenetét"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:10
 msgid "This is the data we received from you:"
-msgstr ""
+msgstr "Ezeket az adatokat kaptuk Öntől:"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:13
 #, python-format
 msgid "Your email address: %(sender_mail)s"
-msgstr ""
+msgstr "Az Ön e-mail címe: %(sender_mail)s"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:16
 #, python-format
 msgid "Your message: %(message)s"
-msgstr ""
+msgstr "Az Ön üzenete: %(message)s"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:20
 #, python-format
 msgid "Your telephone number: %(sender_phone)s"
-msgstr ""
+msgstr "Az Ön telefonszáma: %(sender_phone)s"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:25
 #, python-format
 msgid "Your Name: %(sender_name)s"
-msgstr ""
+msgstr "Az Ön neve: %(sender_name)s"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/emails/answer_to_contact_form.en.email:30
 #, python-format
@@ -1604,64 +1571,67 @@ msgid ""
 "This message was sent to %(receiver)s. It was sent because you wrote us a "
 "message via our contact form and asked us to send you a copy."
 msgstr ""
+"Ezt az üzenetet a %(receiver)s címre küldték. Azért küldtük el, mert Ön írt "
+"nekünk egy üzenetet a kapcsolatfelvételi űrlapunkon keresztül, és kérte, "
+"hogy küldjünk Önnek egy példányt."
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/includes/form.html:16
 #: apps/newsletters/templates/a4_candy_newsletters/restricted_newsletter_dashboard_form.html:30
 msgid "Send"
-msgstr ""
+msgstr "Küldés"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/includes/form.html:31
 msgid "Your contact person"
-msgstr ""
+msgstr "Az Ön kapcsolattartója"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/includes/form.html:42
 msgid "You can find us here:"
-msgstr ""
+msgstr "Itt talál minket:"
 
 #: apps/cms/contacts/templates/a4_candy_cms_contacts/includes/form.html:52
 msgid "This is how you can contact us:"
-msgstr ""
+msgstr "Így léphet kapcsolatba velünk:"
 
 #: apps/cms/news/templates/a4_candy_cms_news/blocks/news_block.html:25
 msgid "display more"
-msgstr ""
+msgstr "több megjelenítése"
 
 #: apps/cms/news/templates/a4_candy_cms_news/news_page.html:78
 msgid "Back to overview"
-msgstr ""
+msgstr "Vissza az áttekintéshez"
 
 #: apps/cms/pages/templates/a4_candy_cms_pages/blocks/download_block.html:3
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:87
 msgid "Download"
-msgstr ""
+msgstr "Letöltés"
 
 #: apps/cms/pages/templates/a4_candy_cms_pages/includes/homepage_hero.html:16
 msgid "Header image: "
-msgstr ""
+msgstr "Címlap képe: "
 
 #: apps/cms/settings/helpers.py:8
 msgid "Please look {}here{} for more information."
-msgstr ""
+msgstr "További információért nézze meg {}itt{}."
 
 #: apps/cms/use_cases/models.py:22
 msgid "Municipalities"
-msgstr ""
+msgstr "Önkormányzatok"
 
 #: apps/cms/use_cases/models.py:23
 msgid "Citizen Assemblies"
-msgstr ""
+msgstr "Polgári gyűlések"
 
 #: apps/cms/use_cases/models.py:24
 msgid "Associations & NGOs"
-msgstr ""
+msgstr "Egyesületek és nem kormányzati szervezetek"
 
 #: apps/cms/use_cases/models.py:25
 msgid "Companies & Co-Operatives"
-msgstr ""
+msgstr "Vállalatok és szövetkezetek"
 
 #: apps/cms/use_cases/models.py:26
 msgid "Politicians"
-msgstr ""
+msgstr "Politikusok"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/blocks/use_cases_block.html:19
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_index_page.html:100
@@ -1669,38 +1639,38 @@ msgstr ""
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_page.html:94
 #, python-format
 msgid "For %(category)s"
-msgstr ""
+msgstr "For %(category)s"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/blocks/use_cases_block.html:30
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_page.html:106
 msgid "Visit Demosite"
-msgstr ""
+msgstr "Látogasson el Demo oldalunkra"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/blocks/use_cases_block.html:36
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_page.html:111
 msgid "View more examples"
-msgstr ""
+msgstr "További példák megtekintése"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/includes/use_case_share_btns.html:4
 msgid "Share on Twitter"
-msgstr ""
+msgstr "Megosztás a Twitteren"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/includes/use_case_share_btns.html:4
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/includes/use_case_share_btns.html:6
 msgid "Share on Facebook"
-msgstr ""
+msgstr "Megosztás a Facebook-on"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/includes/use_case_share_btns.html:8
 msgid "Share on Linkedin"
-msgstr ""
+msgstr "Megosztás a Linkedin-en"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_index_page.html:79
 msgid "Choose Category"
-msgstr ""
+msgstr "Válasszon egy kategóriát"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_index_page.html:110
 msgid "Try it out!"
-msgstr ""
+msgstr "Próbálja ki!"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_index_page.html:111
 #, python-format
@@ -1708,43 +1678,47 @@ msgid ""
 "Instead of just reading about it, you can test all the features of "
 "%(platformname)s yourself on our demo platform."
 msgstr ""
+"Ahelyett, hogy csak olvasna róla, kipróbálhatja a %(platformname)s összes "
+"funkcióját a demó platformunkon."
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_index_page.html:112
 msgid "Visit the demo platform"
-msgstr ""
+msgstr "Látogasson el a demo platformra"
 
 #: apps/cms/use_cases/templates/a4_candy_cms_use_cases/use_case_page.html:80
 #, python-format
 msgid "More examples for %(category)s"
-msgstr ""
+msgstr "További példák a %(category)s"
 
 #: apps/contrib/django_standard_messages.py:6
 msgid "You have signed out."
-msgstr ""
+msgstr "Ön kijelentkezett."
 
 #: apps/contrib/django_standard_messages.py:7
 msgid "Verify Your E-mail Address"
-msgstr ""
+msgstr "Ellenőrizze az e-mail címét"
 
 #: apps/contrib/django_standard_messages.py:8
 msgid "You must type the same password each time."
-msgstr ""
+msgstr "Minden alkalommal ugyanazt a jelszót kell beírnia."
 
 #: apps/contrib/django_standard_messages.py:9
 #, python-format
 msgid "You have confirmed %(email)s."
-msgstr ""
+msgstr "Megerősítette a következő emailjét %(email)s."
 
 #: apps/contrib/django_standard_messages.py:10
 #, python-format
 msgid "You cannot remove your primary e-mail address (%(email)s)."
-msgstr ""
+msgstr "Az elsődleges e-mail címet (%(email)s) nem lehet eltávolítani."
 
 #: apps/contrib/django_standard_messages.py:12
 msgid ""
 "We have sent you an e-mail. Please contact us if you do not receive it "
 "within a few minutes."
 msgstr ""
+"Küldtünk Önnek egy e-mailt. Kérjük, lépjen kapcsolatba velünk, ha néhány "
+"percen belül nem kapja meg."
 
 #: apps/contrib/django_standard_messages.py:16
 msgid ""
@@ -1752,20 +1726,24 @@ msgid ""
 "finalize the signup process. Please contact us if you do not receive it "
 "within a few minutes."
 msgstr ""
+"Küldtünk Önnek egy e-mailt ellenőrzés céljából. Kövesse a megadott linket a "
+"regisztrációs folyamat véglegesítéséhez. Kérjük, lépjen kapcsolatba velünk, "
+"ha néhány percen belül nem kapja meg az e-mailt."
 
 #: apps/contrib/django_standard_messages.py:20
 #, python-format
 msgid "You must select a minimum of  %(limit_value)d choices."
-msgstr ""
+msgstr "Legalább %(limit_value)d választási lehetőséget kell kiválasztania."
 
 #: apps/contrib/django_standard_messages.py:21
 #, python-format
 msgid "You must select a maximum of  %(limit_value)d choices."
-msgstr ""
+msgstr "Legfeljebb %(limit_value)d választási lehetőséget kell kiválasztania."
 
 #: apps/contrib/django_standard_messages.py:22
 msgid "Ensure this field has no more than 4000 characters."
 msgstr ""
+"Győződjön meg róla, hogy ebbe a szövegdobozba legfeljebb 4000 karaktert írt."
 
 #: apps/contrib/mixins.py:5
 msgid ""
@@ -1773,47 +1751,52 @@ msgid ""
 "have received rights of use from the author. I also confirm that the privacy "
 "rights of depicted third persons are not violated. "
 msgstr ""
+"Ezúton igazolom, hogy a fénykép szerzői jogai nálam vannak, vagy hogy a "
+"szerzőtől megkaptam a felhasználási jogokat. Megerősítem továbbá, hogy az "
+"ábrázolt harmadik személyek személyiségi jogai nem sérülnek. "
 
 #: apps/contrib/mixins.py:29
 msgid ""
 "You want to upload an image. Please check that you have the right of use for "
 "the image."
 msgstr ""
+"Képet szeretne feltölteni. Kérjük, ellenőrizze, hogy rendelkezik-e a kép "
+"felhasználási jogával."
 
 #: apps/contrib/templates/a4_candy_contrib/includes/filter_and_sort.html:3
 msgid "Filter bar "
-msgstr ""
+msgstr "Szűrősáv "
 
 #: apps/contrib/templates/a4_candy_contrib/includes/map_filter_and_sort.html:6
 msgid "View as list"
-msgstr ""
+msgstr "Lista elrendezés"
 
 #: apps/contrib/templates/a4_candy_contrib/includes/map_filter_and_sort.html:12
 msgid "View as map"
-msgstr ""
+msgstr "Térképként való megtekintés"
 
 #: apps/contrib/templates/a4_candy_contrib/includes/pagination.html:4
 msgid "Page navigation"
-msgstr ""
+msgstr "Oldal navigáció"
 
 #: apps/contrib/templates/a4_candy_contrib/includes/pagination.html:9
 #: apps/contrib/templates/a4_candy_contrib/includes/pagination.html:10
 msgid "Previous page"
-msgstr ""
+msgstr "Előző oldal"
 
 #: apps/contrib/templates/a4_candy_contrib/includes/pagination.html:14
 msgid " of "
-msgstr ""
+msgstr " / "
 
 #: apps/contrib/templates/a4_candy_contrib/includes/pagination.html:19
 #: apps/contrib/templates/a4_candy_contrib/includes/pagination.html:20
 msgid "Next page"
-msgstr ""
+msgstr "Következő oldal"
 
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:89
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:98
 msgid "Actions"
-msgstr ""
+msgstr "Műveletek"
 
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:105
 #: apps/debate/templates/a4_candy_debate/includes/subject_dashboard_list_item.html:24
@@ -1822,49 +1805,56 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:70
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:71
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:109
 #: apps/ideas/templates/a4_candy_ideas/idea_moderate_form.html:4
 msgid "Give feedback"
-msgstr ""
+msgstr "Adjon visszajelzést"
 
 #: apps/contrib/templates/a4_candy_contrib/item_detail.html:131
 msgid "Official Statement"
-msgstr ""
+msgstr "Hivatalos nyilatkozat"
 
 #: apps/dashboard/blueprints.py:17
 msgid "Brainstorming"
-msgstr ""
+msgstr "Ötletelés"
 
 #: apps/dashboard/blueprints.py:19
 msgid ""
 "Participants can submit their own ideas and discuss the ideas of others."
 msgstr ""
+"A résztvevők benyújthatják saját ötleteiket, és megvitathatják mások "
+"ötleteit."
 
 #: apps/dashboard/blueprints.py:33
 msgid "Spatial Brainstorming"
-msgstr ""
+msgstr "Térbeli ötletelés"
 
 #: apps/dashboard/blueprints.py:35
 msgid ""
 "Participants can submit their own ideas and locate them on a map. They can "
 "also discuss the ideas of others."
 msgstr ""
+"A résztvevők benyújthatják saját ötleteiket, és elhelyezhetik azokat egy "
+"térképen. Megvitathatják mások ötleteit is."
 
 #: apps/dashboard/blueprints.py:49
 msgid "Idea Challenge"
-msgstr ""
+msgstr "Ötlet kihívás"
 
 #: apps/dashboard/blueprints.py:51
 msgid ""
 "In a first phase, participants can submit their own ideas and discuss the "
 "ideas of others. In a second phase, the ideas can be rated (pro/contra)."
 msgstr ""
+"Az első fázisban a résztvevők benyújthatják saját ötleteiket, és "
+"megvitathatják mások ötleteit. A második fázisban az ötleteket értékelni "
+"lehet (pro/kontra)."
 
 #: apps/dashboard/blueprints.py:67
 msgid "Spatial Idea Challenge"
-msgstr ""
+msgstr "Térbeli ötlet kihívás"
 
 #: apps/dashboard/blueprints.py:69
 msgid ""
@@ -1872,35 +1862,45 @@ msgid ""
 "map, and discuss the ideas of others. In a second phase, the ideas can be "
 "rated (pro/contra)."
 msgstr ""
+"Az első fázisban a résztvevők benyújthatják saját ötleteiket, megjelölhetik "
+"azokat egy térképen, és megvitathatják mások ötleteit. A második fázisban az "
+"ötleteket értékelni lehet (pro/kontra)."
 
 #: apps/dashboard/blueprints.py:82
 msgid "Text Review"
-msgstr ""
+msgstr "Szöveg felülvizsgálata"
 
 #: apps/dashboard/blueprints.py:84
 msgid ""
 "Participants can discuss the paragraphs of a text that you added beforehand."
 msgstr ""
+"A résztvevők megvitathatják egy szöveg bekezdéseit, amelyeket előzetesen "
+"hozzáadtál."
 
 #: apps/dashboard/blueprints.py:100
 msgid ""
 "Participants can answer open and multiple choice questions and comment on "
 "the poll."
 msgstr ""
+"A résztvevők válaszolhatnak nyílt és feleletválasztós kérdésekre, és "
+"kommentálhatják a szavazást."
 
 #: apps/dashboard/blueprints.py:114
 msgid "Participatory budgeting"
-msgstr ""
+msgstr "Részvételi költségvetés-tervezés"
 
 #: apps/dashboard/blueprints.py:116
 msgid ""
 "Participants can submit their own suggestions, mark them on a map, and add a "
 "budget. The ideas of others can be discussed and rated (pro/contra)."
 msgstr ""
+"A résztvevők benyújthatják saját javaslataikat, megjelölhetik azokat egy "
+"térképen, és hozzáadhatják a becsült költségvetést. A mások ötleteit meg "
+"lehet vitatni és értékelni (pro/kontra)."
 
 #: apps/dashboard/blueprints.py:129
 msgid "Interactive Event"
-msgstr ""
+msgstr "Interaktív esemény"
 
 #: apps/dashboard/blueprints.py:131
 msgid ""
@@ -1908,20 +1908,26 @@ msgid ""
 "participants can support the question. You as the moderator can sort the "
 "questions by support or affiliation."
 msgstr ""
+"A rendezvény résztvevői online tehetik fel kérdéseiket. A többi résztvevő "
+"támogathatja a kérdést. Ön mint moderátor a kérdéseket támogatás vagy "
+"hovatartozás szerint rendezheti."
 
 #: apps/dashboard/blueprints.py:147
 msgid "Prioritization"
-msgstr ""
+msgstr "Prioritások meghatározása"
 
 #: apps/dashboard/blueprints.py:149
 msgid ""
 "Participants can discuss and rate (pro/contra) previously added ideas and "
 "topics. Participants cannot add ideas or topics."
 msgstr ""
+"A résztvevők megvitathatják és értékelhetik (pro/kontra) a korábban "
+"hozzáadott ötleteket és témákat. A résztvevők nem adhatnak hozzá ötleteket "
+"vagy témákat."
 
 #: apps/dashboard/blueprints.py:164
 msgid "Debate"
-msgstr ""
+msgstr "Vita"
 
 #: apps/dashboard/blueprints.py:166
 msgid ""
@@ -1929,110 +1935,121 @@ msgid ""
 "participants comment on posted topics / questions as well as on "
 "contributions from other users."
 msgstr ""
+"A résztvevők megvitathatják a közzétett témákat vagy kérdéseket. Ehhez a "
+"résztvevők hozzászólnak a közzétett témákhoz/kérdésekhez, valamint más "
+"felhasználók hozzászólásaihoz."
 
 #: apps/dashboard/forms.py:13
 msgid "Organisation name"
-msgstr ""
+msgstr "Szervezet neve"
 
 #: apps/dashboard/forms.py:28 apps/projects/overwrites.py:13
 msgid ""
 "All users can see project tile and content and can participate (public)."
 msgstr ""
+"Minden felhasználó láthatja a projekt lapkáit és tartalmát, és részt vehet "
+"benne (nyilvános)."
 
 #: apps/dashboard/forms.py:35 apps/projects/overwrites.py:17
 msgid ""
 "All users can see project tile and content, only invited users can "
 "participate (semi-public)."
 msgstr ""
+"Minden felhasználó láthatja a projekt csempéit és tartalmát, de csak a "
+"meghívott felhasználók vehetnek részt benne (félig nyilvános)."
 
 #: apps/dashboard/forms.py:42 apps/projects/overwrites.py:9
 msgid ""
 "Only invited users can see project tile and content and can participate "
 "(private)."
 msgstr ""
+"Csak a meghívott felhasználók láthatják a projekt csempéit és tartalmát, és "
+"vehetnek részt benne (privát)."
 
 #: apps/dashboard/templates/a4_candy_dashboard/includes/module_blueprint_list_tile.html:18
 msgid "Add module"
-msgstr ""
+msgstr "Modul hozzáadása"
 
 #: apps/dashboard/templates/a4_candy_dashboard/includes/progress.html:28
 msgid "Are you sure you want to publish your project?"
-msgstr ""
+msgstr "Biztos, hogy közzé akarja tenni a projektjét?"
 
 #: apps/dashboard/templates/a4_candy_dashboard/includes/progress.html:29
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 #: apps/dashboard/templates/a4_candy_dashboard/includes/progress.html:36
 #, python-format
 msgid "One module has not been added to the project."
 msgid_plural "%(counter)s modules have not been added to the project."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Egy modul nem került hozzá a projekthez."
+msgstr[1] "%(counter)s modulok nem lettek hozzáadva a projekthez."
 
 #: apps/dashboard/templates/a4_candy_dashboard/module_blueprint_list.html:4
 #: apps/dashboard/templates/a4_candy_dashboard/module_blueprint_list.html:7
 msgid "New Module"
-msgstr ""
+msgstr "Új modul"
 
 #: apps/dashboard/templates/a4_candy_dashboard/module_blueprint_list.html:9
 msgid ""
 "Please add a module from the list. You can later add more modules to the "
 "project, edit them or remove them again."
 msgstr ""
+"Kérjük, adjon hozzá egy modult a listáról. Később további modulokat adhat "
+"hozzá a projekthez, szerkesztheti őket, vagy újra eltávolíthatja őket."
 
 #: apps/dashboard/views.py:56
 msgid "The module was created"
-msgstr ""
+msgstr "A modult a következő módon hozták létre"
 
 #: apps/dashboard/views.py:154
 msgid "Module is already added"
-msgstr ""
+msgstr "A modul már hozzá van adva"
 
 #: apps/dashboard/views.py:164
 msgid "Module cannot be added. Required fields are missing."
-msgstr ""
+msgstr "A modul nem adható hozzá. A szükséges mezők hiányoznak."
 
 #: apps/dashboard/views.py:175
 msgid "The module is displayed in the project."
-msgstr ""
+msgstr "A modul megjelenik a projektben."
 
 #: apps/dashboard/views.py:180
 msgid "Module is already removed"
-msgstr ""
+msgstr "A modul már eltávolításra került"
 
 #: apps/dashboard/views.py:184
 msgid "Module cannot be removed from a published project."
-msgstr ""
+msgstr "A modul nem távolítható el egy közzétett projektből."
 
 #: apps/dashboard/views.py:196
 msgid "The module is no longer displayed in the project."
-msgstr ""
+msgstr "A modul már nem jelenik meg a projektben."
 
 #: apps/dashboard/views.py:203
 msgid "The module has been deleted"
-msgstr ""
+msgstr "A modul törlésre került"
 
 #: apps/dashboard/views.py:210
 msgid "Module cannot be deleted. It has to be removed from the project first."
-msgstr ""
+msgstr "A modul nem törölhető. Először el kell távolítani a projektből."
 
 #: apps/dashboard/views.py:266
 msgid "Project was created."
-msgstr ""
+msgstr "A projektet létrehozták."
 
 #: apps/debate/dashboard.py:15
 msgid "Subjects"
-msgstr ""
+msgstr "Tárgyak (Témák)"
 
 #: apps/debate/filters.py:19 apps/debate/filters.py:34
 #: apps/topicprio/views.py:29 apps/topicprio/views.py:62
 msgid "Alphabetical"
-msgstr ""
+msgstr "Betűrendbe"
 
 #: apps/debate/models.py:20
 msgid "max 120 characters"
-msgstr ""
+msgstr "(javasolt kb. 120 karakter)"
 
 #: apps/debate/models.py:27
 msgid ""
@@ -2040,116 +2057,118 @@ msgid ""
 "350 char.). This field is only shown in the participation if it is filled "
 "out."
 msgstr ""
+"A cím mellett egy opcionális magyarázó szöveget is beilleszthet (max. 350 "
+"karakter). Ez a mező csak akkor jelenik meg a részvételben, ha ki van töltve."
 
 #: apps/debate/phases.py:15
 msgid "Debate phase"
-msgstr ""
+msgstr "Vita szakasz"
 
 #: apps/debate/phases.py:16
 msgid "Debate subjects."
-msgstr ""
+msgstr "Vitatémák."
 
 #: apps/debate/phases.py:17
 msgid "subject debate"
-msgstr ""
+msgstr "téma vita"
 
 #: apps/debate/templates/a4_candy_debate/includes/subject_list_item.html:30
 #, python-format
 msgid " %(count)s Contribution "
 msgid_plural " %(count)s Contributions "
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] " %(count)s Hozzájárulás "
+msgstr[1] " %(count)s Hozzájárulás "
 
 #: apps/debate/templates/a4_candy_debate/includes/subject_list_item.html:37
 msgid "Discuss with us!"
-msgstr ""
+msgstr "Beszélgessen velünk!"
 
 #: apps/debate/templates/a4_candy_debate/includes/subject_list_item.html:39
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:49
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:80
 msgid "Read more"
-msgstr ""
+msgstr "Bővebben"
 
 #: apps/debate/templates/a4_candy_debate/subject_confirm_delete.html:4
 msgid "Confirm Subject Deletion"
-msgstr ""
+msgstr "Tárgy törlésének megerősítése"
 
 #: apps/debate/templates/a4_candy_debate/subject_confirm_delete.html:8
 msgid "Are you sure you want to delete the subject?"
-msgstr ""
+msgstr "Biztos, hogy törölni akarja a témát?"
 
 #: apps/debate/templates/a4_candy_debate/subject_create_form.html:4
 #: apps/debate/templates/a4_candy_debate/subject_create_form.html:8
 msgid "Add a new subject"
-msgstr ""
+msgstr "Új téma hozzáadása"
 
 #: apps/debate/templates/a4_candy_debate/subject_dashboard_list.html:4
 #: apps/debate/templates/a4_candy_debate/subject_dashboard_list.html:9
 #: apps/newsletters/models.py:30
 msgid "Subject"
-msgstr ""
+msgstr "Tárgy"
 
 #: apps/debate/templates/a4_candy_debate/subject_dashboard_list.html:13
 msgid "Add Subject"
-msgstr ""
+msgstr "Tárgy hozzáadása"
 
 #: apps/debate/templates/a4_candy_debate/subject_update_form.html:8
 msgid "Edit subject"
-msgstr ""
+msgstr "Tárgy szerkesztése"
 
 #: apps/debate/views.py:103
 msgid "The subject has been deleted"
-msgstr ""
+msgstr "A tárgyat törölték"
 
 #: apps/documents/dashboard.py:15
 msgid "Document"
-msgstr ""
+msgstr "Dokumentum"
 
 #: apps/documents/phases.py:15
 msgid "Comment phase"
-msgstr ""
+msgstr "Megjegyzés fázis"
 
 #: apps/documents/phases.py:16
 msgid "commenting text"
-msgstr ""
+msgstr "kommentáló szöveg"
 
 #: apps/documents/phases.py:17
 msgid "Post comments on the paragraphs of the text"
-msgstr ""
+msgstr "Hozzászólás a szöveg egyes bekezdéseihez"
 
 #: apps/documents/templates/a4_candy_documents/chapter_detail.html:11
 #: apps/documents/templates/a4_candy_documents/chapter_detail.html:18
 msgid "Table of Contents"
-msgstr ""
+msgstr "Tartalomjegyzék"
 
 #: apps/documents/templates/a4_candy_documents/chapter_detail.html:53
 #, python-format
 msgid "%(count)s Comment"
 msgid_plural "%(count)s Comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)s Megjegyzés"
+msgstr[1] "%(count)s Hozzászólások"
 
 #: apps/documents/templates/a4_candy_documents/document_dashboard.html:5
 msgid "Edit document"
-msgstr ""
+msgstr "Dokumentum szerkesztése"
 
 #: apps/documents/templates/a4_candy_documents/includes/nextprev.html:10
 #: apps/documents/templates/a4_candy_documents/includes/nextprev.html:15
 msgid "Previous Chapter"
-msgstr ""
+msgstr "Előző fejezet"
 
 #: apps/documents/templates/a4_candy_documents/includes/nextprev.html:21
 #: apps/documents/templates/a4_candy_documents/includes/nextprev.html:26
 msgid "Next Chapter"
-msgstr ""
+msgstr "Következő fejezet"
 
 #: apps/documents/templates/a4_candy_documents/paragraph_detail.html:16
 msgid "back to chapter"
-msgstr ""
+msgstr "vissza a fejezethez"
 
 #: apps/documents/views.py:65
 msgid "Document has no chapters defined."
-msgstr ""
+msgstr "A dokumentumnak nincsenek meghatározott fejezetei."
 
 #: apps/embed/templates/a4_candy_embed/embed.html:24
 #: apps/embed/templates/a4_candy_embed/embed.html:46
@@ -2158,170 +2177,177 @@ msgstr ""
 #: adhocracy-plus/templates/account/login.html:7
 #: adhocracy-plus/templates/account/login.html:27
 msgid "Login"
-msgstr ""
+msgstr "Belépés"
 
 #: apps/embed/templates/a4_candy_embed/embed.html:26
 msgid "You are logged in as "
-msgstr ""
+msgstr "Belépve mint "
 
 #: apps/embed/templates/a4_candy_embed/embed.html:29
 #: apps/users/templates/a4_candy_users/indicator.html:47
 #: apps/users/templates/a4_candy_users/indicator.html:50
 msgid "Logout"
-msgstr ""
+msgstr "Kilépés"
 
 #: apps/embed/templates/a4_candy_embed/embed.html:39
 msgid "Go to platform"
-msgstr ""
+msgstr "Tovább a platformra"
 
 #: apps/embed/templates/a4_candy_embed/embed.html:41
 msgid "Confirm login"
-msgstr ""
+msgstr "Bejelentkezés megerősítése"
 
 #: apps/embed/templates/a4_candy_embed/embed.html:44
 msgid ""
 "You need to login first. By clicking \"Login\" a popup will open so you can "
 "sign in safely. Do you want to login now?"
 msgstr ""
+"Először be kell jelentkeznie. A \"Bejelentkezés\" gombra kattintva egy "
+"felugró ablak nyílik meg, így biztonságosan bejelentkezhet. Szeretne most "
+"bejelentkezni?"
 
 #: apps/ideas/models.py:37 apps/topicprio/models.py:36
 msgid "Add image"
-msgstr ""
+msgstr "Új kép"
 
 #: apps/ideas/models.py:40
 msgid "Visualize your idea."
-msgstr ""
+msgstr "Vizualizálja az ötletét."
 
 #: apps/ideas/phases.py:15 apps/interactiveevents/phases.py:15
 #: apps/mapideas/phases.py:15
 msgid "Issue phase"
-msgstr ""
+msgstr "Kiadási fázis"
 
 #: apps/ideas/phases.py:16
 msgid "Create new ideas."
-msgstr ""
+msgstr "Új ötletek létrehozása."
 
 #: apps/ideas/phases.py:17 apps/ideas/phases.py:31 apps/ideas/phases.py:46
 #: apps/ideas/phases.py:58 apps/mapideas/phases.py:17
 #: apps/mapideas/phases.py:31 apps/mapideas/phases.py:48
 #: apps/mapideas/phases.py:60 apps/mapideas/phases.py:75
 msgid "ideas collection"
-msgstr ""
+msgstr "ötletgyűjtemény"
 
 #: apps/ideas/phases.py:29 apps/mapideas/phases.py:29
 msgid "Collect phase"
-msgstr ""
+msgstr "Gyűjtési fázis"
 
 #: apps/ideas/phases.py:30
 msgid "Create and comment on new ideas."
-msgstr ""
+msgstr "Új ötletek létrehozása és kommentálása."
 
 #: apps/ideas/phases.py:44 apps/mapideas/phases.py:44
 msgid "Rating phase"
-msgstr ""
+msgstr "Értékelési fázis"
 
 #: apps/ideas/phases.py:45
 msgid "Rate the previously collected ideas."
-msgstr ""
+msgstr "Értékelje a korábban összegyűjtött ötleteket."
 
 #: apps/ideas/phases.py:56 apps/mapideas/phases.py:58
 msgid "Feedback phase"
-msgstr ""
+msgstr "Visszajelzési szakasz"
 
 #: apps/ideas/phases.py:57 apps/mapideas/phases.py:59
 msgid "Get feedback for collected ideas through rates and comments."
 msgstr ""
+"Kapjon visszajelzést az összegyűjtött ötletekről az értékelések és "
+"megjegyzések segítségével."
 
 #: apps/ideas/phases.py:68 apps/mapideas/phases.py:70
 msgid "Collect ideas and get feedback"
-msgstr ""
+msgstr "Ötletek gyűjtése és visszajelzés kérése"
 
 #: apps/ideas/phases.py:69
 msgid "Create new ideas and get feedback through rates and comments."
 msgstr ""
+"Hozzon létre új ötleteket, és kapjon visszajelzést az értékelések és "
+"megjegyzések révén."
 
 #: apps/ideas/templates/a4_candy_ideas/idea_confirm_delete.html:4
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_confirm_delete.html:4
 msgid "Confirm Idea Deletion"
-msgstr ""
+msgstr "Ötlet törlésének megerősítése"
 
 #: apps/ideas/templates/a4_candy_ideas/idea_confirm_delete.html:10
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_confirm_delete.html:10
 msgid "Are you sure you want to delete the idea?"
-msgstr ""
+msgstr "Biztos, hogy törölni akarja az ötletet?"
 
 #: apps/ideas/templates/a4_candy_ideas/idea_create_form.html:27
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_create_form.html:26
 msgid "Submit a new idea for this project"
-msgstr ""
+msgstr "Új ötlet benyújtása ehhez a projekthez"
 
 #: apps/ideas/templates/a4_candy_ideas/idea_list.html:8
 msgid "Submit idea"
-msgstr ""
+msgstr "Ötlet benyújtása"
 
 #: apps/ideas/templates/a4_candy_ideas/idea_moderate_form.html:26
 #: apps/ideas/templates/a4_candy_ideas/idea_update_form.html:26
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_moderate_form.html:25
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_update_form.html:26
 msgid "back to idea"
-msgstr ""
+msgstr "vissza az ötlethez"
 
 #: apps/ideas/templates/a4_candy_ideas/idea_moderate_form.html:31
 msgid "Feedback on this idea"
-msgstr ""
+msgstr "Visszajelzés erről az ötletről"
 
 #: apps/ideas/templates/a4_candy_ideas/idea_update_form.html:31
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_update_form.html:31
 msgid "Edit idea"
-msgstr ""
+msgstr "Ötlet szerkesztése"
 
 #: apps/ideas/views.py:158 apps/mapideas/views.py:71
 msgid "Your Idea has been deleted"
-msgstr ""
+msgstr "Az Ön ötlete törlésre került"
 
 #: apps/interactiveevents/dashboard.py:16
 msgid "Media"
-msgstr ""
+msgstr "Média"
 
 #: apps/interactiveevents/dashboard.py:47
 msgid "Affiliations"
-msgstr ""
+msgstr "Hovatartozások"
 
 #: apps/interactiveevents/dashboard.py:49
 msgid "Edit affiliations"
-msgstr ""
+msgstr "Szerkessze a hovatartozást"
 
 #: apps/interactiveevents/forms.py:21
 msgid "Affiliation"
-msgstr ""
+msgstr "Hovatartozás"
 
 #: apps/interactiveevents/models.py:41
 msgid "Question"
-msgstr ""
+msgstr "Kérdés"
 
 #: apps/interactiveevents/models.py:47
 msgid "Characteristic"
-msgstr ""
+msgstr "Taxanómiák egyedi név"
 
 #: apps/interactiveevents/models.py:79
 msgid "Event image"
-msgstr ""
+msgstr "Esemény kép"
 
 #: apps/interactiveevents/models.py:80
 msgid "The image is displayed next to the event description."
-msgstr ""
+msgstr "A kép az esemény leírása mellett jelenik meg."
 
 #: apps/interactiveevents/phases.py:16
 msgid "Add question."
-msgstr ""
+msgstr "Kérdés hozzáadása."
 
 #: apps/interactiveevents/phases.py:17
 msgid "Speak Up"
-msgstr ""
+msgstr "Beszélj hangosan"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/extrafields_dashboard_form.html:5
 msgid "Edit live stream"
-msgstr ""
+msgstr "Élő közvetítés szerkesztése"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/includes/module_affiliations_form.html:3
 msgid ""
@@ -2330,226 +2356,249 @@ msgid ""
 "evaluated in the\n"
 "    statistics."
 msgstr ""
+"Itt adhatja meg a hovatartozást. A felhasználóknak a kérdéseket eszerint "
+"kell osztályozniuk\n"
+"    A kérdéseket hovatartozás szerint lehet szűrni és értékelni a\n"
+"    statisztikában."
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/includes/module_affiliations_form.html:22
 msgid "Add affiliation"
-msgstr ""
+msgstr "Hozzáadás hovatartozás"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/livequestion_form.html:18
 msgid "post"
-msgstr ""
+msgstr "bejegyzését"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/livequestion_module_detail.html:22
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:21
 msgid " Live now"
-msgstr ""
+msgstr " Élőben most"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:9
 msgid "During this event you can ask questions live"
-msgstr ""
+msgstr "Ezen az eseményen élőben tehet fel kérdéseket"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:25
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:67
 #, python-format
 msgid " %(time_left)s remaining "
-msgstr ""
+msgstr " %(time_left)s maradt "
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:29
 msgid "finished"
-msgstr ""
+msgstr "befejezve"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:32
 msgid "Interactive"
-msgstr ""
+msgstr "Interaktív"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:50
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:81
 msgid "Read Less"
-msgstr ""
+msgstr "Kevesebb olvasása"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:62
 msgid "Type of event"
-msgstr ""
+msgstr "Az esemény típusa"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/module_detail.html:89
 msgid "Go to event"
-msgstr ""
+msgstr "Menj az eseményre"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/present_list.html:11
 msgid "join in "
-msgstr ""
+msgstr "csatlakozzon "
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/present_list.html:19
 msgid "Enter event link"
-msgstr ""
+msgstr "Adja meg az esemény linkjét"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/present_list.html:30
 msgid "Like questions"
-msgstr ""
+msgstr "Kérdések kedvelése"
 
 #: apps/interactiveevents/templates/a4_candy_interactive_events/present_list.html:41
 msgid "Ask a question yourself!"
-msgstr ""
+msgstr "Tegye fel saját maga a kérdést!"
 
 #: apps/interactiveevents/templatetags/react_interactiveevents.py:28
 msgid ""
 "I confirm that I have read and accepted the {}terms of use{} and the {}data "
 "protection policy{}."
 msgstr ""
+"Megerősítem, hogy elolvastam és elfogadtam a {}felhasználási feltételeket{} "
+"és a {}adatvédelmi szabályzatot{}."
 
 #: apps/mapideas/forms.py:26
 msgid "Please locate your proposal on the map."
-msgstr ""
+msgstr "Kérjük, keresse meg javaslatát a térképen."
 
 #: apps/mapideas/models.py:14
 msgid "Where can your idea be located on a map?"
-msgstr ""
+msgstr "Hol található az ötlete a térképen?"
 
 #: apps/mapideas/models.py:16
 msgid ""
 "Click inside the marked area or type in an address to set the marker. A set "
 "marker can be dragged when pressed."
 msgstr ""
+"Kattintson a megjelölt területre, vagy írja be a címet a jelölő "
+"beállításához. A beállított jelölő nyomásra húzható."
 
 #: apps/mapideas/models.py:26
 msgid "Label of the ideas location"
-msgstr ""
+msgstr "Az ötletek helyének címkéje"
 
 #: apps/mapideas/models.py:27
 msgid "This could be an address or the name of a landmark."
-msgstr ""
+msgstr "Ez lehet egy cím vagy egy nevezetesség neve."
 
 #: apps/mapideas/phases.py:16
 msgid "Create new ideas, locate them on a map and comment on them."
 msgstr ""
+"Hozzon létre új ötleteket, helyezze el őket egy térképen, és kommentálja "
+"őket."
 
 #: apps/mapideas/phases.py:30
 msgid "Create new ideas located on a map and comment them."
-msgstr ""
+msgstr "Hozzon létre új ötleteket egy térképen, és kommentálja őket."
 
 #: apps/mapideas/phases.py:46
 msgid "Rate the previously collected ideas to get quantitative feedback."
 msgstr ""
+"Értékelje a korábban összegyűjtött ötleteket, hogy mennyiségi visszajelzést "
+"kapjon."
 
 #: apps/mapideas/phases.py:72
 msgid ""
 "Create new ideas located on a map and get feedback through rates and "
 "comments."
 msgstr ""
+"Hozzon létre új ötleteket egy térképen, és kapjon visszajelzést az árak és "
+"megjegyzések révén."
 
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_list.html:17
 msgid "Submit Idea"
-msgstr ""
+msgstr "Ötlet beküldése"
 
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_moderate_form.html:4
 #, python-format
 msgid "Moderate %(name)s"
-msgstr ""
+msgstr "%(name)s moderálása"
 
 #: apps/mapideas/templates/a4_candy_mapideas/mapidea_moderate_form.html:30
 msgid "Moderate idea"
-msgstr ""
+msgstr "Ötlet moderálása"
 
 #: apps/maps/templates/a4_candy_maps/map_choose_polygon_with_preset_widget.html:6
 msgid "You can choose a preset for further customization."
-msgstr ""
+msgstr "A további testreszabáshoz választhat egy előbeállítást."
 
 #: apps/moderatorfeedback/fields.py:6
 msgid "Moderator feedback for items with fixed feedback choices"
 msgstr ""
+"Moderátori visszajelzés rögzített visszajelzési lehetőséggel rendelkező "
+"elemekhez"
 
 #: apps/moderatorfeedback/models.py:11
 msgid "Under consideration"
-msgstr ""
+msgstr "Mérlegelés alatt"
 
 #: apps/moderatorfeedback/models.py:12
 msgid "Rejected"
-msgstr ""
+msgstr "Elutasított"
 
 #: apps/moderatorfeedback/models.py:13
 msgid "Accepted"
-msgstr ""
+msgstr "Elfogadott"
 
 #: apps/moderatorfeedback/models.py:20
 msgid "Official feedback"
-msgstr ""
+msgstr "Hivatalos visszajelzés"
 
 #: apps/moderatorfeedback/models.py:22
 msgid ""
 "The official feedback will appear below the idea, indicating your "
 "organisation. The idea provider receives a notification."
 msgstr ""
+"A hivatalos visszajelzés az ötlet alatt jelenik meg, feltüntetve az Ön "
+"szervezetét. Az ötletadó értesítést kap."
 
 #: apps/moderatorfeedback/models.py:37
 msgid "Processing status"
-msgstr ""
+msgstr "Feldolgozási státusz"
 
 #: apps/moderatorfeedback/models.py:39
 msgid ""
 "The editing status appears below the title of the idea in red, yellow or "
 "green. The idea provider receives a notification."
 msgstr ""
+"A szerkesztési státusz az ötlet címe alatt piros, sárga vagy zöld színnel "
+"jelenik meg. Az ötletgazda értesítést kap."
 
 #: apps/moderatorremark/templates/a4_candy_moderatorremark/includes/popover_remark.html:15
 msgid "Moderator remark"
-msgstr ""
+msgstr "Moderátor megjegyzése"
 
 #: apps/moderatorremark/templates/a4_candy_moderatorremark/includes/popover_remark.html:22
 msgid "Write down your remark!"
-msgstr ""
+msgstr "Írja le a megjegyzését!"
 
 #: apps/moderatorremark/templates/a4_candy_moderatorremark/includes/popover_remark.html:24
 msgid "Note only visible internally within project."
-msgstr ""
+msgstr "Megjegyzés csak a projekten belül látható."
 
 #: apps/newsletters/forms.py:41
 msgid "Receivers are all users which follow the following project:"
 msgstr ""
+"A címzettek mindazok a felhasználók, akik a következő projektet követik:"
 
 #: apps/newsletters/forms.py:45
 msgid "Organisation"
-msgstr ""
+msgstr "Szervezet"
 
 #: apps/newsletters/forms.py:56
 msgid "Select a Project"
-msgstr ""
+msgstr "Projekt kiválasztása"
 
 #: apps/newsletters/models.py:19
 msgid "Users following a specific project"
-msgstr ""
+msgstr "Egy adott projektet követő felhasználók"
 
 #: apps/newsletters/models.py:20
 msgid "Users following your organisation"
-msgstr ""
+msgstr "Az Ön szervezetét követő felhasználók"
 
 #: apps/newsletters/models.py:21
 msgid "Every initiator of your organisation"
-msgstr ""
+msgstr "A szervezet minden kezdeményezője"
 
 #: apps/newsletters/models.py:22
 msgid "Every user of the platform"
-msgstr ""
+msgstr "A platform minden felhasználója"
 
 #: apps/newsletters/models.py:29
 msgid "Sender"
-msgstr ""
+msgstr "Feladó"
 
 #: apps/newsletters/models.py:34
 msgid "Email body"
-msgstr ""
+msgstr "Üzenet szövegtörzse"
 
 #: apps/newsletters/models.py:36
 msgid ""
 "When adding images, please ensure to set the width no larger than 600px."
 msgstr ""
+"A képek hozzáadásakor ügyeljen arra, hogy a szélesség ne legyen nagyobb "
+"600px-nél."
 
 #: apps/newsletters/models.py:40
 msgid "Sent"
-msgstr ""
+msgstr "Elküldve"
 
 #: apps/newsletters/models.py:43
 msgid "Receivers"
-msgstr ""
+msgstr "Fogadók"
 
 #: apps/newsletters/templates/a4_candy_newsletters/emails/newsletter_email.en.email:10
 #, python-format
@@ -2558,28 +2607,32 @@ msgid ""
 "you are registered on %(site_name)s. If you don't want to receive "
 "newsletters anymore, you may disable them in your user account settings."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Ezt az e-mailt azért "
+"küldtük Önnek, mert Ön a %(site_name)s-en van regisztrálva. Ha nem szeretne "
+"többé hírleveleket kapni, a felhasználói fiók beállításaiban letilthatja "
+"azokat."
 
 #: apps/newsletters/templates/a4_candy_newsletters/restricted_newsletter_dashboard_form.html:4
 #: adhocracy-plus/templates/a4dashboard/communication_form_base.html:16
 msgid "Newsletter"
-msgstr ""
+msgstr "Hírlevél"
 
 #: apps/newsletters/templates/a4_candy_newsletters/restricted_newsletter_dashboard_form.html:8
 msgid "Create Newsletter"
-msgstr ""
+msgstr "Hírlevél létrehozása"
 
 #: apps/newsletters/views.py:57
 msgid "Newsletter has been saved and will be sent to the recipients."
-msgstr ""
+msgstr "A hírlevél el lett mentve és elküldésre kerül a címzetteknek."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:4
 #, python-format
 msgid "Reaction to your contribution in project %(project_name)s"
-msgstr ""
+msgstr "Reakció a projektben való közreműködésedre %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:6
 msgid "Reaction to your contribution"
-msgstr ""
+msgstr "Reakció az Ön hozzájárulására"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:9
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:9
@@ -2588,20 +2641,20 @@ msgstr ""
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_started.en.email:9
 #, python-format
 msgid "Hello %(receiver_name)s,"
-msgstr ""
+msgstr "Hello %(receiver_name)s,"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:13
 #, python-format
 msgid "%(actor_name)s commented on your post:"
-msgstr ""
+msgstr "%(actor_name)s hozzászólt a bejegyzéshez:"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:21
 msgid "Would you like to answer?"
-msgstr ""
+msgstr "Szeretne válaszolni?"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:26
 msgid "View Post"
-msgstr ""
+msgstr "Bejegyzés megtekintése"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:26
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:31
@@ -2610,7 +2663,7 @@ msgstr ""
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:59
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:61
 msgid "Visit the project"
-msgstr ""
+msgstr "Látogasson el a projekthez"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator.en.email:28
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:33
@@ -2619,60 +2672,62 @@ msgid ""
 "This email was sent to %(receiver_mail)s. You have received the e-mail "
 "because you added a contribution to the above project."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Azért kapta ezt az e-"
+"mailt, mert hozzászólt a fenti projekthez."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:4
 #, python-format
 msgid "Feedback for your contribution on %(site_name)s"
-msgstr ""
+msgstr "A hozzájárulásához visszajelzés a %(site_name)s oldalon"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:6
 msgid "Feedback for your contribution"
-msgstr ""
+msgstr "Visszajelzés az Ön hozzájárulásáról"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:13
 #, python-format
 msgid "%(organisation_name)s reacted on your contribution."
-msgstr ""
+msgstr "%(organisation_name)s reagált a hozzájárulására."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:17
 #, python-format
 msgid "Your contribution is %(status)s."
-msgstr ""
+msgstr "Az Ön hozzájárulása %(status)s."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:22
 #, python-format
 msgid "Official feedback: %(feedback)s"
-msgstr ""
+msgstr "Hivatalos visszajelzés: %(feedback)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:26
 msgid "Do you want to answer?"
-msgstr ""
+msgstr "Akar válaszolni?"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_creator_on_moderator_feedback.en.email:31
 msgid "Check your contribution"
-msgstr ""
+msgstr "Ellenőrizze hozzájárulását"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_event_upcomming.en.email:4
 #, python-format
 msgid "Invitation to an event in project %(project_name)s"
-msgstr ""
+msgstr "Meghívás egy eseményre a projektben %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_event_upcomming.en.email:6
 msgid "Event"
-msgstr ""
+msgstr "Esemény"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_event_upcomming.en.email:13
 #, python-format
 msgid "The following event takes place on %(date)s:"
-msgstr ""
+msgstr "A következő esemény a következő időpontban történik %(date)s :"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_event_upcomming.en.email:19
 msgid "Further information about the event can be found in the project."
-msgstr ""
+msgstr "Az eseményről további információk a projektben találhatók."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_event_upcomming.en.email:24
 msgid "Show Event"
-msgstr ""
+msgstr "Esemény megjelenítése"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_event_upcomming.en.email:26
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_over_soon.en.email:23
@@ -2682,57 +2737,61 @@ msgid ""
 "This email was sent to %(receiver_mail)s. You have received the e-mail "
 "because you are following the above project."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Azért kapta az e-mailt, "
+"mert követi a fenti projektet."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_over_soon.en.email:4
 #, python-format
 msgid "Participation ends soon for %(project_name)s"
-msgstr ""
+msgstr "Részvétel hamarosan véget ér a %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_over_soon.en.email:6
 msgid "Participation ends soon!"
-msgstr ""
+msgstr "A részvétel hamarosan véget ér!"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_over_soon.en.email:13
 msgid "the online participation in the above mentioned project will end soon."
-msgstr ""
+msgstr "a fent említett projektben való online részvétel hamarosan véget ér."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_over_soon.en.email:16
 #, python-format
 msgid "You can still participate until %(end_date)s."
-msgstr ""
+msgstr "Még mindig részt vehet %(end_date)s-ig."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_over_soon.en.email:21
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_started.en.email:21
 msgid "Join now"
-msgstr ""
+msgstr "Csatlakozzon most"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_started.en.email:4
 #, python-format
 msgid "Here we go: %(project_name)s starts now!"
-msgstr ""
+msgstr "Itt is van: %(project_name)s most kezdődik!"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_started.en.email:6
 msgid "Here we go!"
-msgstr ""
+msgstr "Itt is vagyunk!"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_started.en.email:13
 msgid "Online participation for the above project has started."
-msgstr ""
+msgstr "A fenti projekt online részvétele megkezdődött."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_followers_phase_started.en.email:16
 #, python-format
 msgid "You can participate until %(end_date)s."
-msgstr ""
+msgstr "%(end_date)s-ig vehet részt."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_created.en.email:4
 #, python-format
 msgid "New project %(project_name)s on %(site_name)s"
-msgstr ""
+msgstr "Új projekt %(project_name)s a %(site_name)s oldalon"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_created.en.email:6
 #, python-format
 msgid "The new project %(project_name)s was created for %(organisation_name)s"
 msgstr ""
+"Az új %(project_name)s projektet az %(organisation_name)s számára hozták "
+"létre"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_created.en.email:10
 #, python-format
@@ -2740,10 +2799,12 @@ msgid ""
 "%(creator_name)s has created the project %(project_name)s for "
 "%(organisation_name)s."
 msgstr ""
+"%(creator_name)s létrehozta az %(project_name)s projektet "
+"%(organisation_name)s számára."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_created.en.email:15
 msgid "Show project"
-msgstr ""
+msgstr "Projekt megjelenítése"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_created.en.email:17
 #, python-format
@@ -2751,15 +2812,17 @@ msgid ""
 "This email was sent to %(receiver_mail)s. This email was sent to you because "
 "you are an intiator of %(organisation_name)s."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Ezt az e-mailt azért "
+"küldtük Önnek, mert Ön az %(organisation_name)s kezdeményezője."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_deleted.en.email:4
 msgid "Deletion of project"
-msgstr ""
+msgstr "A projekt törlése"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_deleted.en.email:6
 #, python-format
 msgid "The project %(name)s was deleted."
-msgstr ""
+msgstr "A %(name)s projektet törölték."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_deleted.en.email:10
 #, python-format
@@ -2767,6 +2830,7 @@ msgid ""
 "The project \"%(name)s\" on the participation platform %(site_name)s was "
 "deleted."
 msgstr ""
+"Az %(site_name)s részvételi platformon lévő \"%(name)s\" projektet törölték."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_initiators_project_deleted.en.email:14
 #, python-format
@@ -2775,51 +2839,55 @@ msgid ""
 "are an initiator of the organisation '%(organisation_name)s', in which a "
 "project was deleted."
 msgstr ""
+"Ezt az e-mailt a %(receiver)s címre küldték. Ezt az e-mailt azért küldtük "
+"Önnek, mert Ön a \"%(organisation_name)s\" szervezet kezdeményezője, "
+"amelyben egy projektet töröltek."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:7
 #, python-format
 msgid "A comment was added to the project %(project_name)s"
-msgstr ""
+msgstr "A projekthez egy megjegyzés került hozzáadásra %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:9
 #, python-format
 msgid "An idea was added to the project %(project_name)s"
-msgstr ""
+msgstr "Egy ötletet adtunk hozzá a projekthez %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:11
 #, python-format
 msgid "A proposal was added to the project %(project_name)s"
-msgstr ""
+msgstr "A projekthez egy javaslat került hozzáadásra %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:13
 #, python-format
 msgid "A contribution was added to the project %(project_name)s"
-msgstr ""
+msgstr "Hozzájárulás a projekthez %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:21
 #, python-format
 msgid "%(actor_name)s created a comment on the project %(project_name)s"
-msgstr ""
+msgstr "%(actor_name)s hozzászólás a projekthez %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:23
 #, python-format
 msgid "%(actor_name)s created an idea on the project %(project_name)s"
-msgstr ""
+msgstr "%(actor_name)s létrehozott egy ötletet a  %(project_name)s projektben"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:25
 #, python-format
 msgid "%(actor_name)s created a proposal on the project %(project_name)s"
-msgstr ""
+msgstr "%(actor_name)s javaslatot készített a %(project_name)s projektben"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:27
 #, python-format
 msgid "%(actor_name)s created a contribution on the project %(project_name)s"
-msgstr ""
+msgstr "%(actor_name)s hozzájárulást tett a projekthez %(project_name)s"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:36
 #, python-format
 msgid "on the project %(project_name)s a comment was added by %(actor_name)s."
 msgstr ""
+"a projekthez %(project_name)s egy megjegyzést tett hozzá %(actor_name)s."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:36
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:38
@@ -2830,6 +2898,8 @@ msgid ""
 "Checkout what happend on the project %(project_name)s on %(site_name)s by "
 "clicking the link below."
 msgstr ""
+"Nézd meg, mi történt a %(project_name)s projektben itt %(site_name)s az "
+"alábbi linkre kattintva."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:36
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:38
@@ -2840,38 +2910,42 @@ msgid ""
 "Checkout what happend on the project %(project_name)s on %(site_name)s by "
 "clicking the button below."
 msgstr ""
+"Nézze meg, mi történt a  %(project_name)s projektben itt %(site_name)s az "
+"alábbi gombra kattintva."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:38
 #, python-format
 msgid "on the project %(project_name)s an idea was added by %(actor_name)s."
-msgstr ""
+msgstr "a %(project_name)s projekthez %(actor_name)s egy ötletet adott hozzá."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:40
 #, python-format
 msgid "on the project %(project_name)s a proposal was added by %(actor_name)s."
 msgstr ""
+"a %(project_name)s projektre vonatkozóan a %(actor_name)s javaslatot tett."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:42
 #, python-format
 msgid ""
 "on the project %(project_name)s a contribution was added by %(actor_name)s."
 msgstr ""
+"a %(project_name)s projekthez a %(actor_name)s adta hozzá a hozzájárulást."
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:55
 msgid "Check the comment"
-msgstr ""
+msgstr "Ellenőrizze a megjegyzést"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:57
 msgid "Check the idea"
-msgstr ""
+msgstr "Ellenőrizze az ötletet"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:59
 msgid "Check the proposal"
-msgstr ""
+msgstr "Ellenőrizze a javaslatot"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:61
 msgid "Check the contribution"
-msgstr ""
+msgstr "Ellenőrizze a hozzájárulást"
 
 #: apps/notifications/templates/a4_candy_notifications/emails/notify_moderator.en.email:67
 #, python-format
@@ -2879,135 +2953,146 @@ msgid ""
 "This email was sent to %(receiver_mail)s. This email was sent to you because "
 "you are a moderator in the project."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Ezt az e-mailt azért "
+"küldtük  Önnek, mert Ön a projekt moderátora."
 
 #: apps/offlineevents/dashboard.py:13
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_list.html:9
 msgid "Offline Events"
-msgstr ""
+msgstr "Offline események"
 
 #: apps/offlineevents/forms.py:15 apps/offlineevents/models.py:34
 #: apps/projects/templates/a4_candy_projects/includes/removeable_invite_list.html:8
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: apps/offlineevents/forms.py:15
 msgid "Time"
-msgstr ""
+msgstr "Idő"
 
 #: apps/offlineevents/models.py:27
 msgid "Event type"
-msgstr ""
+msgstr "Esemény típusa"
 
 #: apps/offlineevents/models.py:29
 msgid ""
 "The content of this field is shown in the timeline. It should have no more "
 "than 30 characters e.g. Information event or 3rd public workshop."
 msgstr ""
+"Ennek a mezőnek a tartalma az idővonalon jelenik meg. Legfeljebb 30 karakter "
+"lehet, pl. Tájékoztató esemény vagy 3. nyilvános műhelytalálkozó."
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_confirm_delete.html:4
 msgid "Confirm Offline Event Deletion"
-msgstr ""
+msgstr "Offline esemény törlésének megerősítése"
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_confirm_delete.html:8
 msgid "Are you sure you want to delete the offline event?"
-msgstr ""
+msgstr "Biztos, hogy törölni szeretné az offline eseményt?"
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_create_form.html:4
 msgid "Create a new topic"
-msgstr ""
+msgstr "Új téma létrehozása"
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_create_form.html:7
 msgid "Add a new offline event"
-msgstr ""
+msgstr "Új offline esemény hozzáadása"
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_list.html:4
 msgid "Offlineevents"
-msgstr ""
+msgstr "Offline események"
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_list.html:13
 msgid "Add offline event"
-msgstr ""
+msgstr "Offline esemény hozzáadása"
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_list.html:18
 msgid ""
 "Here, you can include events that take place as part of the participation "
 "project."
-msgstr ""
+msgstr "Itt a részvételi projekt részeként zajló eseményeket veheti fel."
 
 #: apps/offlineevents/templates/a4_candy_offlineevents/offlineevent_update_form.html:8
 msgid "Edit offline event"
-msgstr ""
+msgstr "Offline esemény szerkesztése"
 
 #: apps/offlineevents/views.py:108
 msgid "The offline event has been deleted"
-msgstr ""
+msgstr "Az offline eseményt törölték"
 
 #: apps/organisations/forms.py:17
 msgid "Here you can find an example of an {}imprint{}."
-msgstr ""
+msgstr "Itt talál egy példát egy {}impresszum{}-ra."
 
 #: apps/organisations/forms.py:18
 msgid "Here you can find an example of {}terms of use{}."
-msgstr ""
+msgstr "Itt talál egy példát a {}felhasználási feltételek{}-re."
 
 #: apps/organisations/forms.py:20
 msgid "Here you can find an example of a {}data protection policy{}."
-msgstr ""
+msgstr "Itt talál egy példát egy {}adatvédelmi szabályzatra{}."
 
 #: apps/organisations/forms.py:22
 msgid "Here you can find an example of a {}netiquette{}."
-msgstr ""
+msgstr "Itt talál egy példát a {}netiquette{}-re."
 
 #: apps/organisations/forms.py:34
 msgid "Instagram Post 1080x1080"
-msgstr ""
+msgstr "Instagram bejegyzés 1080x1080"
 
 #: apps/organisations/forms.py:35
 msgid "Instagram Story 1080x1920"
-msgstr ""
+msgstr "Instagram történet 1080x1920"
 
 #: apps/organisations/forms.py:36
 msgid "Linkedin 1104x736"
-msgstr ""
+msgstr "Linkedin 1104x736"
 
 #: apps/organisations/forms.py:37
 msgid "Twitter 1200x675"
-msgstr ""
+msgstr "Twitter 1200x675"
 
 #: apps/organisations/forms.py:281
 #: adhocracy-plus/templates/a4dashboard/communication_form_base.html:23
 msgid "Social Media"
-msgstr ""
+msgstr "Közösségi média"
 
 #: apps/organisations/forms.py:285
 msgid ""
 "Here you can create sharepics for social media that will help you get "
 "publicity for your project. You can choose between different formats."
 msgstr ""
+"Itt létrehozhat megosztott képeket a közösségi médiához, amelyek segítenek "
+"nyilvánosságot szerezni a projektnek. Különböző formátumok közül választhat."
 
 #: apps/organisations/forms.py:292
 msgid "Select Project"
-msgstr ""
+msgstr "Projekt kiválasztása"
 
 #: apps/organisations/forms.py:297
 msgid "Please select a project of your organisation and click select."
 msgstr ""
+"Kérjük, válassza ki az Ön szervezetének projektjét, és kattintson a "
+"kiválasztás gombra."
 
 #: apps/organisations/forms.py:316
 msgid ""
 "This title will be displayed as a header. It should be max. {} characters "
 "long."
 msgstr ""
+"Ez a cím fejlécként jelenik meg. Ennek a címnek hossza max. {} karakter."
 
 #: apps/organisations/forms.py:325
 msgid ""
 "This description will be displayed below the title. It should briefly state "
 "the goal of the project in max. {} chars."
 msgstr ""
+"Ez a leírás a cím alatt jelenik meg. Röviden ki kell fejtenie a projekt "
+"célját max. {} karakterben."
 
 #: apps/organisations/forms.py:332
 msgid "Picture Upload"
-msgstr ""
+msgstr "Kép feltöltése"
 
 #: apps/organisations/forms.py:336
 msgid ""
@@ -3015,39 +3100,46 @@ msgid ""
 "and {} pixel tall. Allowed file formats are png, jpeg, gif. The file size "
 "should be max. 5 MB."
 msgstr ""
+"A kép megjelenik a sharepicben. Ennek min. {} pixel széles és {} pixel magas "
+"a mérete. A megengedett fájlformátumok: png, jpeg, gif. A fájl mérete max. 5 "
+"MB."
 
 #: apps/organisations/mixins.py:20
 msgid "You can still manage all your preferences on User Agreements."
 msgstr ""
+"Továbbra is kezelheti az összes beállítását a Felhasználói megállapodások "
+"oldalon."
 
 #: apps/organisations/mixins.py:40
 msgid ""
 "Please agree on the organisation's terms of use to be allowed to create "
 "content."
 msgstr ""
+"A tartalom létrehozásának engedélyezéséhez kérjük, fogadja el a szervezet "
+"felhasználási feltételeit."
 
 #: apps/organisations/models.py:26
 msgid "Title of your organisation"
-msgstr ""
+msgstr "Az Ön szervezetének címe"
 
 #: apps/organisations/models.py:29
 msgid ""
 "The title of your organisation will be shown on the landing page. max. 100 "
 "characters"
-msgstr ""
+msgstr "Az Ön szervezetének címe megjelenik a céloldalon. max. 100 karakter"
 
 #: apps/organisations/models.py:37
 msgid "Short description of your organisation"
-msgstr ""
+msgstr "A szervezet rövid leírása"
 
 #: apps/organisations/models.py:39
 msgid ""
 "The description will be displayed on the landing page. max. 800 characters"
-msgstr ""
+msgstr "A leírás megjelenik a céloldalon. max. 800 karakter"
 
 #: apps/organisations/models.py:47
 msgid "Slogan"
-msgstr ""
+msgstr "Szlogen"
 
 #: apps/organisations/models.py:49
 msgid ""
@@ -3055,10 +3147,12 @@ msgid ""
 "page. The slogan can provide context or additional information to the title. "
 "max. 200 characters"
 msgstr ""
+"A szlogen az Ön szervezetének címe alatt jelenik meg a céloldalon. A szlogen "
+"kontextust vagy kiegészítő információt adhat a címhez. max. 200 karakter"
 
 #: apps/organisations/models.py:60
 msgid "Information about your organisation"
-msgstr ""
+msgstr "Információk az Ön szervezetéről"
 
 #: apps/organisations/models.py:62
 msgid ""
@@ -3067,10 +3161,14 @@ msgid ""
 "inquiries. The information will be shown on a separate \"About\" page that "
 "can be reached via the main menu."
 msgstr ""
+"Általános információkat adhat látogatóinak a részvételi platformjáról. Az is "
+"hasznos, ha megnevez egy általános kapcsolattartót a megkeresésekhez. Az "
+"információk egy külön \"Rólunk\" oldalon jelennek meg, amely a főmenüből "
+"érhető el."
 
 #: apps/organisations/models.py:75
 msgid "Logo"
-msgstr ""
+msgstr "Logó"
 
 #: apps/organisations/models.py:77
 msgid ""
@@ -3079,18 +3177,23 @@ msgid ""
 "and 800 pixels tall. Allowed file formats are png, jpeg, gif. The file size "
 "should be max. 5 MB."
 msgstr ""
+"A szervezetét képviselő logó. A képnek négyzet alakúnak kell lennie, és "
+"minimum 200 pixel széles és 200 pixel magas, maximum 800 pixel széles és 800 "
+"pixel magas lehet. A megengedett fájlformátumok: png, jpeg, gif. A fájl "
+"mérete max. 5 MB."
 
 #: apps/organisations/models.py:92
 msgid "Please enter a full url which starts with https:// or http://"
 msgstr ""
+"Kérjük, adjon meg egy teljes url-t, amely https:// vagy http:// kezdetűt"
 
 #: apps/organisations/models.py:104
 msgid "Header image copyright"
-msgstr ""
+msgstr "A fejléc kép szerzői joga"
 
 #: apps/organisations/models.py:106
 msgid "Author, which is displayed in the header image."
-msgstr ""
+msgstr "Szerző, amely a fejléc képen jelenik meg."
 
 #: apps/organisations/models.py:124
 #: apps/organisations/templates/a4_candy_organisations/organisation_imprint.html:4
@@ -3100,13 +3203,15 @@ msgstr ""
 #: adhocracy-plus/templates/footer.html:38
 #: adhocracy-plus/templates/footer_upper.html:17
 msgid "Imprint"
-msgstr ""
+msgstr "Impresszum"
 
 #: apps/organisations/models.py:126
 msgid ""
 "Please provide all the legally required information of your imprint. The "
 "imprint will be shown on a separate page."
 msgstr ""
+"Kérjük, adja meg az impresszumra vonatkozó összes, jogszabályban előírt "
+"információt. Az impresszum egy külön oldalon jelenik meg."
 
 #: apps/organisations/models.py:133
 #: apps/organisations/templates/a4_candy_organisations/organisation_terms_of_use.html:4
@@ -3117,26 +3222,30 @@ msgstr ""
 #: adhocracy-plus/templates/footer.html:43
 #: adhocracy-plus/templates/footer_upper.html:25
 msgid "Terms of use"
-msgstr ""
+msgstr "Felhasználási feltételek"
 
 #: apps/organisations/models.py:135
 msgid ""
 "Please provide all the legally required information of your terms of use. "
 "The terms of use will be shown on a separate page."
 msgstr ""
+"Kérjük, adja meg a felhasználási feltételek összes, jogilag előírt "
+"információját. A felhasználási feltételek egy külön oldalon jelennek meg."
 
 #: apps/organisations/models.py:142
 #: adhocracy-plus/templates/email_base.html:106
 #: adhocracy-plus/templates/footer.html:48
 #: adhocracy-plus/templates/footer_upper.html:21
 msgid "Data protection policy"
-msgstr ""
+msgstr "Adatvédelmi politika"
 
 #: apps/organisations/models.py:144
 msgid ""
 "Please provide all the legally required information of your data protection. "
 "The data protection policy will be shown on a separate page."
 msgstr ""
+"Kérjük, adjon meg minden, az adatvédelemmel kapcsolatos, jogszabályban "
+"előírt információt. Az adatvédelmi szabályzatot külön oldalon jelenítjük meg."
 
 #: apps/organisations/models.py:152
 #: apps/organisations/templates/a4_candy_organisations/organisation_netiquette.html:4
@@ -3144,106 +3253,118 @@ msgstr ""
 #: adhocracy-plus/templates/footer.html:53
 #: adhocracy-plus/templates/footer_upper.html:30
 msgid "Netiquette"
-msgstr ""
+msgstr "Netikett"
 
 #: apps/organisations/models.py:154
 msgid ""
 "Please provide a netiquette for the participants. The netiquette helps "
 "improving the climate of online discussions and supports the moderation."
 msgstr ""
+"Kérem, adjon meg a résztvevőknek egy netikettet. A netikett segít javítani "
+"az online viták légkörét, és támogatja a moderálást."
 
 #: apps/organisations/models.py:162
 msgid "is a supporting organisation"
-msgstr ""
+msgstr "támogató szervezet"
 
 #: apps/organisations/models.py:164
 msgid ""
 "For supporting organisations, the banner asking for donations is not "
 "displayed on their pages."
 msgstr ""
+"A támogató szervezetek esetében az adományokat kérő banner nem jelenik meg "
+"az oldalukon."
 
 #: apps/organisations/models.py:169
 msgid "Default language for e-mails"
-msgstr ""
+msgstr "Az e-mailek alapértelmezett nyelve"
 
 #: apps/organisations/models.py:174
 msgid ""
 "All e-mails to unregistered users (invites) will be sent in this language."
 msgstr ""
+"A nem regisztrált felhasználóknak küldött összes e-mail (meghívók) ezen a "
+"nyelven fog érkezni."
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:8
 msgid "Create Content"
-msgstr ""
+msgstr "Tartalom létrehozása"
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:36
 msgid "Add a+ logo"
-msgstr ""
+msgstr "A+ logó hozzáadása"
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:53
 msgid "Add logo"
-msgstr ""
+msgstr "Logo hozzáadása"
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:62
 msgid "To view content changes, click refresh"
-msgstr ""
+msgstr "A tartalmi változások megtekintéséhez kattintson a frissítés gombra"
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:64
 msgid "To view the sharepic, click generate"
-msgstr ""
+msgstr "A sharepic megtekintéséhez kattintson a generálás gombra"
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:81
 msgid "Refresh"
-msgstr ""
+msgstr "Frissítés"
 
 #: apps/organisations/templates/a4_candy_organisations/communication_form_social_media.html:83
 msgid "Generate"
-msgstr ""
+msgstr "Létrehozás"
 
 #: apps/organisations/templates/a4_candy_organisations/includes/form_field.html:6
 msgid "Missing important field"
-msgstr ""
+msgstr "Hiányzó fontos mező"
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_data_protection.html:4
 #: apps/organisations/templates/a4_candy_organisations/organisation_data_protection.html:16
 #: adhocracy-plus/templates/email_base.html:77
 msgid "Data protection"
-msgstr ""
+msgstr "Adatvédelem"
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_form.html:8
 msgid "Edit your organisation information"
-msgstr ""
+msgstr "Szervezeti adatok szerkesztése"
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_form.html:24
 msgid "Language availability"
-msgstr ""
+msgstr "Nyelvi elérhetőség"
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_form.html:25
 msgid ""
 "Manage here the content of your page in the desired languages. You can add "
 "or delete them."
 msgstr ""
+"Itt kezelheti az oldal tartalmát a kívánt nyelveken. Hozzáadhatja vagy "
+"törölheti őket."
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_form_legal_info.html:8
 msgid "Edit your legal information"
-msgstr ""
+msgstr "Jogi információk szerkesztése"
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_information.html:27
 msgid "More about "
-msgstr ""
+msgstr "További információk "
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_information.html:28
 msgid "Find us on social media and share your insights of this participation."
 msgstr ""
+"Keressen meg minket a közösségi médiában, és ossza meg velünk a részvétellel "
+"kapcsolatos meglátásait."
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_landing_page.html:41
 msgid "Opens in new window"
-msgstr ""
+msgstr "Új ablakban nyílik meg"
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_landing_page.html:90
 msgid ""
 "Currently, there are no public participation processes. Please check again "
 "later."
 msgstr ""
+"Jelenleg nincsenek nyilvános részvételi eljárások. Kérjük, később "
+"ellenőrizze újra."
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_landing_page.html:95
 #, python-format
@@ -3252,6 +3373,9 @@ msgid ""
 "href=\"%(account_login_url)s?next=%(organisation_url)s\">here</a> or read "
 "more in <a href=\"%(organisation_information_url)s\">About</a>."
 msgstr ""
+"Jelenleg nincsenek nyilvános részvételi eljárások. Jelentkezzen be <a "
+"href=\"%(account_login_url)s?next=%(organisation_url)s\">itt</a>, vagy "
+"olvasson többet a <a href=\"%(organisation_information_url)s\">Rólunk</a>."
 
 #: apps/organisations/templates/a4_candy_organisations/organisation_landing_page.html:99
 #, python-format
@@ -3259,92 +3383,94 @@ msgid ""
 "Currently, there are no public participation processes. Sign in <a "
 "href=\"%(account_login_url)s?next=%(organisation_url)s\">here</a>."
 msgstr ""
+"Jelenleg nincsenek nyilvános részvételi eljárások. Jelentkezzen be <a "
+"href=\"%(account_login_url)s?next=%(organisation_url)s\">itt</a>."
 
 #: apps/organisations/views.py:43
 msgid "Participate now!"
-msgstr ""
+msgstr "Vegyen részt most!"
 
 #: apps/organisations/views.py:45
 msgid "Upcoming participation"
-msgstr ""
+msgstr "Közelgő részvétel"
 
 #: apps/organisations/views.py:47
 msgid "Ended participation"
-msgstr ""
+msgstr "Befejezett részvétel"
 
 #: apps/organisations/views.py:90
 msgid "Organisation information successfully updated."
-msgstr ""
+msgstr "A szervezeti információk sikeresen frissültek."
 
 #: apps/organisations/views.py:121
 msgid "Legal information successfully updated."
-msgstr ""
+msgstr "A jogi információk sikeresen frissültek."
 
 #: apps/projects/admin.py:12
 msgid "archive"
-msgstr ""
+msgstr "archívum"
 
 #: apps/projects/admin.py:19
 msgid "dearchive"
-msgstr ""
+msgstr "archiválás visszavonása"
 
 #: apps/projects/dashboard.py:13
 #: apps/projects/templates/a4_candy_projects/project_participants.html:4
 #: apps/projects/templates/a4_candy_projects/project_participants.html:12
 msgid "Participants"
-msgstr ""
+msgstr "Résztvevők"
 
 #: apps/projects/dashboard.py:40
 #: apps/projects/templates/a4_candy_projects/project_moderators.html:4
 #: apps/projects/templates/a4_candy_projects/project_moderators.html:12
 msgid "Moderators"
-msgstr ""
+msgstr "Moderátorok"
 
 #: apps/projects/forms.py:43 apps/projects/views.py:246
 msgid "Invite users via email"
-msgstr ""
+msgstr "Felhasználók meghívása e-mailben"
 
 #: apps/projects/forms.py:48 apps/projects/views.py:247
 msgid "Invite users via file upload"
-msgstr ""
+msgstr "Felhasználók meghívása fájlból"
 
 #: apps/projects/forms.py:49
 msgid "Upload a csv file containing email addresses."
-msgstr ""
+msgstr "Töltsön fel egy e-mail címeket tartalmazó csv-fájlt."
 
 #: apps/projects/forms.py:65
 msgid "Please enter email addresses or upload a file"
-msgstr ""
+msgstr "Kérjük, adja meg az e-mail címeket vagy töltsön fel egy fájlt"
 
 #: apps/projects/serializers.py:91
 #, python-format
 msgid "%(time_left)s remaining"
-msgstr ""
+msgstr "%(time_left)s maradt"
 
 #: apps/projects/serializers.py:95
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:69
 msgid "more than 1 year remaining"
-msgstr ""
+msgstr "több mint 1 év van hátra"
 
 #: apps/projects/serializers.py:97
 #, python-format
 msgid "Participation: from %(project_start)s"
-msgstr ""
+msgstr "Részvétel: ekkortól %(project_start)s"
 
 #: apps/projects/serializers.py:103
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:102
 msgid "Participation ended. Read result."
-msgstr ""
+msgstr "A részvétel véget ért. Olvassa el az eredményt."
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_moderator.en.email:4
 #, python-format
 msgid "Invitation to moderate the project: \"%(project_name)s\""
-msgstr ""
+msgstr "Felhívás a projekt moderálására: \"%(project_name)s\""
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_moderator.en.email:6
 #, python-format
 msgid "Invitation to moderate project: \"%(project_name)s\""
-msgstr ""
+msgstr "Meghívás a projekt moderálására: \"%(project_name)s\""
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_moderator.en.email:10
 #, python-format
@@ -3353,11 +3479,14 @@ msgid ""
 "participation platform %(site_name)s. To be able to moderate and change the "
 "project click on \"Accept invitation\"."
 msgstr ""
+"meghívjuk Önt a \"%(project_name)s\" projekt moderálására a részvételi "
+"platformon %(site_name)s. A projekt moderálásához és módosításához "
+"kattintson a \"Meghívás elfogadása\" gombra."
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_moderator.en.email:15
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:15
 msgid "Accept invitation"
-msgstr ""
+msgstr "Meghívás elfogadása"
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_moderator.en.email:17
 #, python-format
@@ -3365,18 +3494,20 @@ msgid ""
 "This email was sent to %(receiver_mail)s. This email was sent to you because "
 "you are invited to moderate a project."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Ezt az e-mailt azért "
+"küldtük Önnek, mert Önt meghívták egy projekt moderálására."
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:4
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:6
 #, python-format
 msgid "Invitation to the semi-public project: \"%(project_name)s\""
-msgstr ""
+msgstr "Meghívó a félig nyilvános projektre: \"%(project_name)s\""
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:4
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:6
 #, python-format
 msgid "Invitation to the private project: \"%(project_name)s\""
-msgstr ""
+msgstr "Meghívó a magánprojektre: \"%(project_name)s\""
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:10
 #, python-format
@@ -3385,6 +3516,9 @@ msgid ""
 "\"%(project_name)s\" on the participation platform  %(site_name)s. To "
 "participate click on \"Accept invitation\"."
 msgstr ""
+"meghívjuk Önt, hogy vegyen részt a \"%(project_name)s\" félig nyilvános "
+"projektben a %(site_name)s részvételi platformon. A részvételhez kattintson "
+"a \"Meghívás elfogadása\" gombra."
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:10
 #, python-format
@@ -3393,6 +3527,9 @@ msgid ""
 "on the participation platform  %(site_name)s. To participate click on "
 "\"Accept invitation\"."
 msgstr ""
+"meghívjuk Önt, hogy vegyen részt a \"%(project_name)s\" magánprojektben a  "
+"%(site_name)s részvételi platformon. A részvételhez kattintson a \"Meghívás "
+"elfogadása\" gombra."
 
 #: apps/projects/templates/a4_candy_projects/emails/invite_participant.en.email:17
 #, python-format
@@ -3400,26 +3537,28 @@ msgid ""
 "This email was sent to %(receiver_mail)s. This email was sent to you because "
 "you are invited to participate in a private project."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldték. Ezt az e-mailt azért "
+"küldtük Önnek, mert meghívást kapott egy magánprojektben való részvételre."
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:4
 #, python-format
 msgid "Welcome to the semi-public project: \"%(project_name)s\""
-msgstr ""
+msgstr "Üdvözöljük a \"%(project_name)s\" félig nyilvános projektben."
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:4
 #, python-format
 msgid "Welcome to the private project: \"%(project_name)s\""
-msgstr ""
+msgstr "Üdvözöljük a  \"%(project_name)s” magánprojektben"
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:6
 #, python-format
 msgid "Link to semi-public project: \"%(project_name)s\""
-msgstr ""
+msgstr "Link a félig nyilvános projekthez: \"%(project_name)s\""
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:6
 #, python-format
 msgid "Link to private project: \"%(project_name)s\""
-msgstr ""
+msgstr "Link a magánprojekthez: \"%(project_name)s\""
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:10
 #, python-format
@@ -3427,6 +3566,8 @@ msgid ""
 "you have accepted the invitation to the semi-public project "
 "\"%(project_name)s\". To participate click on \"Go to Project\"."
 msgstr ""
+"ön elfogadta a \"%(project_name)s\" félig nyilvános projektre szóló "
+"meghívást. A részvételhez kattintson a \"Tovább a projekthez\" gombra."
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:10
 #, python-format
@@ -3434,10 +3575,12 @@ msgid ""
 "you have accepted the invitation to the private project "
 "\"%(project_name)s\". To participate click on \"Go to Project\"."
 msgstr ""
+"ön elfogadta a \"%(project_name)s\" magánprojektre szóló meghívást. A "
+"részvételhez kattintson a “Irány a projekt” gombra."
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:15
 msgid "Go to project"
-msgstr ""
+msgstr "Irány a projekt"
 
 #: apps/projects/templates/a4_candy_projects/emails/welcome_participant.en.email:17
 #, python-format
@@ -3445,62 +3588,65 @@ msgid ""
 "This email was sent to %(receiver_mail)s. This email was sent to you because "
 "you accepted the invitation to participate in a private project."
 msgstr ""
+"Ezt az e-mailt a %(receiver_mail)s címre küldtük. Ezt az e-mailt azért "
+"küldtük Önnek, mert elfogadta a meghívást egy magánprojektben való "
+"részvételre."
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:19
 msgid "Project is private."
-msgstr ""
+msgstr "Ez egy magánprojekt."
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:25
 msgid "Project is semi-public."
-msgstr ""
+msgstr "A projekt félig nyilvános."
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:45
 msgid "Type of participation: "
-msgstr ""
+msgstr "A részvétel típusa: "
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:52
 #, python-format
 msgid "%(num_entries)s Contribution"
 msgid_plural "%(num_entries)s Contributions"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(num_entries)s Hozzájárulás"
+msgstr[1] "%(num_entries)s Hozzájárulások"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:77
 msgid "more than 1 year"
-msgstr ""
+msgstr "több mint 1 év"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:77
 msgctxt "abbreviation \"more than 1 year\""
 msgid "> 1 Y"
-msgstr ""
+msgstr "> 1 É"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:83
 msgid "JOIN IN"
-msgstr ""
+msgstr "CSATLAKOZZON"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:85
 msgid "READ"
-msgstr ""
+msgstr "OLVASSA EL"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:94
 #: apps/projects/templates/a4_candy_projects/includes/project_list_tile.html:96
 #, python-format
 msgid " Participation: from %(date)s"
-msgstr ""
+msgstr " Részvétel ekkortól %(date)s"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_timeline-carousel.html:12
 msgid "Timeline item"
-msgstr ""
+msgstr "Idővonal elem"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_timeline-carousel.html:18
 #, python-format
 msgid " from %(date)s"
-msgstr ""
+msgstr " ekkortól %(date)s"
 
 #: apps/projects/templates/a4_candy_projects/includes/project_timeline-carousel.html:21
 #, python-format
 msgid " on %(date)s"
-msgstr ""
+msgstr " on %(date)s"
 
 #: apps/projects/templates/a4_candy_projects/includes/removeable_invite_list.html:9
 #: apps/projects/templates/a4_candy_projects/includes/removeable_invite_list.html:21
@@ -3511,43 +3657,45 @@ msgstr ""
 #: adhocracy-plus/templates/account/email.html:41
 #: adhocracy-plus/templates/socialaccount/connections.html:31
 msgid "Remove"
-msgstr ""
+msgstr "Eltávolítás"
 
 #: apps/projects/templates/a4_candy_projects/includes/removeable_invite_list.html:31
 #: apps/projects/templates/a4_candy_projects/includes/removeable_user_list.html:29
 msgid "None"
-msgstr ""
+msgstr "Nincs"
 
 #: apps/projects/templates/a4_candy_projects/includes/users_from_email_form.html:26
 msgid "Add"
-msgstr ""
+msgstr "Hozzáadás"
 
 #: apps/projects/templates/a4_candy_projects/includes/users_from_email_form.html:47
 msgid "Upload"
-msgstr ""
+msgstr "Feltöltés"
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_detail.html:4
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_form.html:4
 #, python-format
 msgid "Invitation to %(project)s"
-msgstr ""
+msgstr "Meghívó ide %(project)s"
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_detail.html:9
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_form.html:9
 #, python-format
 msgid "Moderation invitation for %(project)s"
-msgstr ""
+msgstr "Moderációs meghívó a %(project)s projektbe"
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_detail.html:12
 msgid ""
 "Please login to procceed. If you do not have an account, register and "
 "revisit the invitation link."
 msgstr ""
+"Kérjük, jelentkezzen be a folytatáshoz. Ha még nincs fiókja, regisztráljon, "
+"és látogasson el újra a meghívó linkre."
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_detail.html:14
 #: apps/projects/templates/a4_candy_projects/participantinvite_detail.html:14
 msgid "Proceed to login"
-msgstr ""
+msgstr "Tovább a bejelentkezéshez"
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_detail.html:15
 #: apps/projects/templates/a4_candy_projects/participantinvite_detail.html:15
@@ -3558,44 +3706,48 @@ msgstr ""
 #: adhocracy-plus/templates/account/signup.html:65
 #: adhocracy-plus/templates/socialaccount/signup.html:49
 msgid "Register"
-msgstr ""
+msgstr "Regisztráció"
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_form.html:12
 msgid ""
 "You were invited by the initiator of the project. If you accept you will be "
 "able to moderate the project."
 msgstr ""
+"Önt a projekt kezdeményezője hívta meg. Ha elfogadja, akkor moderálhatod a "
+"projektet."
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_form.html:16
 #: apps/projects/templates/a4_candy_projects/participantinvite_form.html:19
 msgid "Accept"
-msgstr ""
+msgstr "Elfogadás"
 
 #: apps/projects/templates/a4_candy_projects/moderatorinvite_form.html:17
 #: apps/projects/templates/a4_candy_projects/participantinvite_form.html:20
 msgid "Decline"
-msgstr ""
+msgstr "Elutasítás"
 
 #: apps/projects/templates/a4_candy_projects/participantinvite_detail.html:4
 #: apps/projects/templates/a4_candy_projects/participantinvite_form.html:4
 #, python-format
 msgid "Project: %(project)s"
-msgstr ""
+msgstr "Projekt: %(project)s"
 
 #: apps/projects/templates/a4_candy_projects/participantinvite_detail.html:9
 #, python-format
 msgid "Invitation to participate in the project \"%(project)s\"?"
-msgstr ""
+msgstr "Felhívás a \"%(project)s\" projektben való részvételre?"
 
 #: apps/projects/templates/a4_candy_projects/participantinvite_detail.html:12
 msgid ""
 "For this you need an account. Please login with your account or register."
 msgstr ""
+"Ehhez egy fiókra van szüksége. Kérjük, jelentkezzen be fiókjával vagy "
+"regisztráljon."
 
 #: apps/projects/templates/a4_candy_projects/participantinvite_form.html:9
 #, python-format
 msgid "Do you want to join %(project)s?"
-msgstr ""
+msgstr "Szeretne csatlakozni a %(project)s projekthez?"
 
 #: apps/projects/templates/a4_candy_projects/participantinvite_form.html:12
 #, python-format
@@ -3609,52 +3761,59 @@ msgid ""
 "decline the invitation the link is not valid anymore.\n"
 "                    "
 msgstr ""
+"\n"
+"                    Önt a projekt kezdeményezője hívta meg. Ha elfogadja a "
+"meghívást, akkor a \"%(user)s\" felhasználónévvel vehet részt a projektben.\n"
+"                    Ha más profillal szeretne csatlakozni, kérjük, "
+"jelentkezzen be a másik profillal, és kövesse újra a meghívó linkjét. Ha "
+"elutasítja a meghívást, a link már nem érvényes.\n"
+"                    "
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:47
 msgid "This project is not yet published."
-msgstr ""
+msgstr "Ez a projekt még nem került közzétételre."
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:92
 #: adhocracy-plus/templates/includes/project_header_mobile_toggle.html:32
 msgid "Participation"
-msgstr ""
+msgstr "Részvétel"
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:137
 msgid "Telephone"
-msgstr ""
+msgstr "Telefon"
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:165
 msgid "Online participation"
-msgstr ""
+msgstr "Online részvétel"
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:197
 #: adhocracy-plus/templates/a4modules/module_detail.html:124
 msgid "Participation is not possible at the moment."
-msgstr ""
+msgstr "A részvétel jelenleg nem lehetséges."
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:200
 #: adhocracy-plus/templates/a4modules/module_detail.html:127
 #, python-format
 msgid "It starts on %(date)s."
-msgstr ""
+msgstr " %(date)s-kor kezdődik. "
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:203
 #: adhocracy-plus/templates/a4modules/module_detail.html:130
 #, python-format
 msgid "It continues on %(date)s."
-msgstr ""
+msgstr "%(date)s folytatódik."
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:206
 #: adhocracy-plus/templates/a4modules/module_detail.html:133
 #, python-format
 msgid "It ended on %(date)s."
-msgstr ""
+msgstr "%(date)s kor ért véget."
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:221
 #: apps/users/models.py:51
 #: adhocracy-plus/templates/a4modules/module_detail.html:148
 msgid "active"
-msgstr ""
+msgstr "aktív"
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:247
 #: adhocracy-plus/templates/a4modules/module_detail.html:172
@@ -3662,206 +3821,225 @@ msgid ""
 "This project is not publicly visible. Only invited users can see content and "
 "actively participate."
 msgstr ""
+"Ez a projekt nem nyilvánosan látható. Csak a meghívott felhasználók "
+"láthatják a tartalmat és vehetnek részt."
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:251
 #: adhocracy-plus/templates/a4modules/module_detail.html:178
 msgid ""
 "This project is publicly visible. Invited users can actively participate."
 msgstr ""
+"Ez a projekt nyilvánosan látható. A meghívott felhasználók aktívan részt "
+"vehetnek benne."
 
 #: apps/projects/templates/a4_candy_projects/project_detail.html:276
 msgid "No results yet."
-msgstr ""
+msgstr "Még nincs eredmény."
 
 #: apps/projects/templates/a4_candy_projects/project_moderators.html:7
 msgid "Edit Moderators"
-msgstr ""
+msgstr "Moderátorok szerkesztése"
 
 #: apps/projects/templates/a4_candy_projects/project_moderators.html:10
 #: apps/projects/templates/a4_candy_projects/project_participants.html:10
 msgid "Pending Invitations"
-msgstr ""
+msgstr "Függő meghívások"
 
 #: apps/projects/templates/a4_candy_projects/project_participants.html:7
 msgid "Edit Participants"
-msgstr ""
+msgstr "Résztvevők szerkesztése"
 
 #: apps/projects/views.py:124
 msgid "Invitation succesfully removed."
-msgstr ""
+msgstr "Meghívó sikeresen eltávolítva."
 
 #: apps/projects/views.py:127
 msgid "Invitation was already accepted or removed."
-msgstr ""
+msgstr "A meghívást már elfogadták vagy eltávolították."
 
 #: apps/projects/views.py:175
 msgid "Following users already accepted an invitation: "
-msgstr ""
+msgstr "A következő felhasználók már elfogadtak egy meghívást: "
 
 #: apps/projects/views.py:183
 msgid "Following users are already invited: "
-msgstr ""
+msgstr "A következő felhasználók már meghívást kaptak: "
 
 #: apps/projects/views.py:226
 msgid "Invite moderators via email"
-msgstr ""
+msgstr "Moderátorok meghívása e-mailben"
 
 #: apps/projects/views.py:227
 msgid "Invite moderators via file upload"
-msgstr ""
+msgstr "Moderátorok meghívása fájlfeltöltéssel"
 
 #: apps/projects/views.py:228
 msgid "{} moderator invited."
-msgstr ""
+msgstr "{} meghívott moderátor."
 
 #: apps/projects/views.py:228
 msgid "{} moderators invited."
-msgstr ""
+msgstr "{} meghívott moderátorok."
 
 #: apps/projects/views.py:229
 msgid "Moderator successfully removed."
-msgstr ""
+msgstr "Moderátor sikeresen eltávolította."
 
 #: apps/projects/views.py:248
 msgid "{} participant invited."
-msgstr ""
+msgstr "{} meghívott résztvevő."
 
 #: apps/projects/views.py:248
 msgid "{} participants invited."
-msgstr ""
+msgstr "{} meghívott résztvevők."
 
 #: apps/projects/views.py:249
 msgid "Participant successfully removed."
-msgstr ""
+msgstr "A résztvevőt sikeresen eltávolították."
 
 #: apps/projects/views.py:261
 #, python-format
 msgid "Project '%(name)s' was deleted successfully."
-msgstr ""
+msgstr "A '%(name)s' projektet sikeresen töröltük."
 
 #: apps/topicprio/dashboard.py:15
 #: apps/topicprio/templates/a4_candy_topicprio/topic_dashboard_list.html:4
 #: apps/topicprio/templates/a4_candy_topicprio/topic_dashboard_list.html:9
 msgid "Topics"
-msgstr ""
+msgstr "Témák"
 
 #: apps/topicprio/phases.py:15
 msgid "Prioritize phase"
-msgstr ""
+msgstr "Rangsorolási fázis"
 
 #: apps/topicprio/phases.py:16
 msgid "Prioritize and comment topics."
-msgstr ""
+msgstr "A témák rangsorolása és kommentálása."
 
 #: apps/topicprio/phases.py:17
 msgid "topic prioritization"
-msgstr ""
+msgstr "a téma rangsorolása"
 
 #: apps/topicprio/templates/a4_candy_topicprio/topic_confirm_delete.html:4
 msgid "Confirm Topic Deletion"
-msgstr ""
+msgstr "Témakör törlésének megerősítése"
 
 #: apps/topicprio/templates/a4_candy_topicprio/topic_confirm_delete.html:8
 msgid "Are you sure you want to delete the topic?"
-msgstr ""
+msgstr "Biztos, hogy törölni akarod a témakört?"
 
 #: apps/topicprio/templates/a4_candy_topicprio/topic_create_form.html:4
 #: apps/topicprio/templates/a4_candy_topicprio/topic_create_form.html:8
 msgid "Add a new topic"
-msgstr ""
+msgstr "Új téma hozzáadása"
 
 #: apps/topicprio/templates/a4_candy_topicprio/topic_dashboard_list.html:13
 msgid "Add Topic"
-msgstr ""
+msgstr "Témakör hozzáadása"
 
 #: apps/topicprio/templates/a4_candy_topicprio/topic_update_form.html:8
 msgid "Edit topic"
-msgstr ""
+msgstr "Témakör szerkesztése"
 
 #: apps/topicprio/views.py:147
 msgid "The topic has been deleted"
-msgstr ""
+msgstr "A témakör törlésre került"
 
 #: apps/users/__init__.py:8
 msgid ""
 "Enter a valid username. This value may contain only letters, digits, spaces "
 "and @/./+/-/_ characters. It must start with a digit or a letter."
 msgstr ""
+"Adjon meg egy érvényes felhasználónevet. Ez az érték csak betűket, "
+"számjegyeket, szóközöket és @/./+/-/_ karaktereket tartalmazhat. Számmal "
+"vagy betűvel kell kezdődnie."
 
 #: apps/users/admin.py:14
 msgid "Permissions"
-msgstr ""
+msgstr "Engedélyek"
 
 #: apps/users/admin.py:15
 msgid "Important dates"
-msgstr ""
+msgstr "Fontos dátumok"
 
 #: apps/users/emails.py:14
 msgid ""
 "If you no longer want to receive any notifications, change the settings for "
 "your {}account{}."
 msgstr ""
+"Ha nem szeretne többé értesítéseket kapni, módosítsa a {}fiók{} beállításait."
 
 #: apps/users/emails.py:18
 msgid ""
 "If you no longer want to receive notifications about this project, "
 "unsubscribe from the {}project{}."
 msgstr ""
+"Ha a továbbiakban nem szeretne értesítést kapni erről a projektről, "
+"iratkozzon le a {}projekt{}-ről."
 
 #: apps/users/fields.py:12
 msgid "Please enter correct email addresses, separated by commas."
-msgstr ""
+msgstr "Kérjük, adja meg a helyes e-mail címeket vesszővel elválasztva."
 
 #: apps/users/forms.py:22
 msgid "If you are having difficulty please contact us by {}email{}."
 msgstr ""
+"Ha nehézségei vannak, kérjük, lépjen kapcsolatba velünk a {}email{} címen."
 
 #: apps/users/forms.py:28
 msgid "Username/e-mail"
-msgstr ""
+msgstr "Felhasználónév/e-mail"
 
 #: apps/users/forms.py:38 apps/users/forms.py:190 apps/users/models.py:71
 msgid "I would like to receive further information"
-msgstr ""
+msgstr "További információkat szeretnék kapni"
 
 #: apps/users/forms.py:40 apps/users/forms.py:192 apps/users/models.py:74
 msgid ""
 "Projects you are following can send you additional information via email."
 msgstr ""
+"Az Ön által követett projektek további információkat küldhetnek Önnek e-"
+"mailben."
 
 #: apps/users/forms.py:50 apps/users/forms.py:202
 msgid "Your username will appear publicly next to your posts."
 msgstr ""
+"A felhasználóneved nyilvánosan fog megjelenni a hozzászólásaid mellett."
 
 #: apps/users/forms.py:74
 msgid "Membership number of IG BCE"
-msgstr ""
+msgstr "Az IG BCE tagsági száma"
 
 #: apps/users/forms.py:76
 msgid ""
 "The membership number consists of a seven-digit number and can be found on "
 "the membership card."
 msgstr ""
+"A tagsági szám egy hétjegyű számból áll, és a tagsági kártyán található."
 
 #: apps/users/forms.py:83
 msgid "Date of birth"
-msgstr ""
+msgstr "Születési dátum"
 
 #: apps/users/forms.py:85
 msgid ""
 "Please also enter your date of birth in the format MM/DD/YYYY for "
 "authentication. Only members of the IG BCE can participate."
 msgstr ""
+"Kérjük, a hitelesítéshez adja meg a születési dátumát is a HH/NN/ÉÉÉÉ "
+"formátumban. Csak az IG BCE tagjai vehetnek részt."
 
 #: apps/users/forms.py:92
 msgid ""
 "I confirm that I have read and accepted the <a href=\"/info/ig-bce-"
 "datenschutz/\" target=\"_blank\">data protection policy</a> of IG BCE."
 msgstr ""
+"Megerősítem, hogy elolvastam és elfogadom az IG BCE <a href=\"/info/ig-bce-"
+"datenschutz/\" target=\"_blank\">adatvédelmi politikáját</a>."
 
 #: apps/users/forms.py:105 apps/users/forms.py:145
 msgid "Something is wrong with the setup - please try again later"
-msgstr ""
+msgstr "Valami baj van a beállításokkal - kérjük, próbálja meg később újra"
 
 #: apps/users/forms.py:111
 msgid ""
@@ -3869,6 +4047,9 @@ msgid ""
 "your entry. If this is your membership number, please send an email to "
 "\"zukunftsgewerkschaft@igbce.de\"."
 msgstr ""
+"Már van egy résztvevő ezzel a tagsági számmal. Kérjük, ellenőrizze a "
+"bejegyzését. Ha ez az Ön tagsági száma, kérjük, küldjön egy e-mailt a "
+"\"zukunftsgewerkschaft@igbce.de\" címre."
 
 #: apps/users/forms.py:151
 msgid ""
@@ -3876,312 +4057,327 @@ msgid ""
 "to an active member account. Please check your input and try again. If you "
 "still have problems, please contact \"zukunftsgewerkschaft@igbce.de\"."
 msgstr ""
+"Sajnos a tagsági számot és/vagy a születési dátumot nem lehetett "
+"összekapcsolni egy aktív tagsági számlával. Kérjük, ellenőrizze bevitelét, "
+"és próbálja meg újra. Ha továbbra is problémái vannak, kérjük, lépjen "
+"kapcsolatba a \"zukunftsgewerkschaft@igbce.de\" címen."
 
 #: apps/users/models.py:20
 msgid "username"
-msgstr ""
+msgstr "felhasználónév"
 
 #: apps/users/models.py:24
 msgid ""
 "Required. 60 characters or fewer. Letters, digits, spaces and @/./+/-/_ only."
 msgstr ""
+"Szükséges. legfeljebb 60 karakter. Csak betűk, számjegyek, szóközök és @/./"
+"+/-/_."
 
 #: apps/users/models.py:33
 msgid "A user with that username already exists."
-msgstr ""
+msgstr "Ezzel a felhasználónévvel már létezik egy felhasználó."
 
 #: apps/users/models.py:34
 msgid "This username is invalid."
-msgstr ""
+msgstr "Ez a felhasználónév érvénytelen."
 
 #: apps/users/models.py:39
 msgid "Email address"
-msgstr ""
+msgstr "Email cím"
 
 #: apps/users/models.py:41
 msgid "Email is invalid or already taken."
-msgstr ""
+msgstr "Az e-mail cím érvénytelen vagy már foglalt."
 
 #: apps/users/models.py:45
 msgid "staff status"
-msgstr ""
+msgstr "személyzeti állapot"
 
 #: apps/users/models.py:47
 msgid "Designates whether the user can log into this admin site."
 msgstr ""
+"Meghatározza, hogy a felhasználó bejelentkezhet-e erre az admin oldalra."
 
 #: apps/users/models.py:54
 msgid ""
 "Designates whether this user should be treated as active. Unselect this "
 "instead of deleting accounts."
 msgstr ""
+"Meghatározza, hogy ez a felhasználó aktívnak tekintendő-e. A fiókok törlése "
+"helyett törölje a jelölést."
 
 #: apps/users/models.py:62
 msgid "Send me email notifications"
-msgstr ""
+msgstr "Küldjön nekem e-mail értesítést"
 
 #: apps/users/models.py:65
 msgid ""
 "Designates whether you want to receive notifications. Unselect if you do not "
 "want to receive notifications."
 msgstr ""
+"Meghatározza, hogy szeretne-e értesítéseket kapni. Törölje a jelölést, ha "
+"nem szeretne értesítéseket kapni."
 
 #: apps/users/models.py:82
 msgid "Biography"
-msgstr ""
+msgstr "Életrajz"
 
 #: apps/users/models.py:83
 msgid "Tell us about yourself in 255 characters!"
-msgstr ""
+msgstr "Meséljen magáról 255 karakterben!"
 
 #: apps/users/models.py:89
 msgid "Twitter handle"
-msgstr ""
+msgstr "Twitter kezelő"
 
 #: apps/users/models.py:95
 msgid "Facebook name"
-msgstr ""
+msgstr "Facebook név"
 
 #: apps/users/models.py:97
 msgid ""
 "Your facebook name is the last part of the URL, when you access your profile."
-msgstr ""
+msgstr "A facebook neve az URL utolsó része, amikor belép a profiljába."
 
 #: apps/users/models.py:105
 #: apps/users/templates/a4_candy_users/user_detail.html:64
 msgid "Homepage"
-msgstr ""
+msgstr "Kezdőlap"
 
 #: apps/users/models.py:112
 msgid "Avatar picture"
-msgstr ""
+msgstr "Avatár kép"
 
 #: apps/users/models.py:116
 msgid "Your preferred language"
-msgstr ""
+msgstr "Az Ön által preferált nyelv"
 
 #: apps/users/models.py:121
 msgid ""
 "Specify your preferred language for the user interface and the notifications "
 "of the platform."
 msgstr ""
+"Adja meg a felhasználói felület és a platform értesítéseinek kívánt nyelvét."
 
 #: apps/users/templates/a4_candy_users/indicator.html:13
 #: adhocracy-plus/templates/includes/header_mobile_toggle.html:9
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #: apps/users/templates/a4_candy_users/indicator.html:26
 #: adhocracy-plus/templates/email_base.html:40
 msgid "Hello"
-msgstr ""
+msgstr "Helló"
 
 #: apps/users/templates/a4_candy_users/indicator.html:35
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: apps/users/templates/a4_candy_users/indicator.html:37
 msgid "Account Settings"
-msgstr ""
+msgstr "Felhasználói fiók beállításai"
 
 #: apps/users/templates/a4_candy_users/indicator.html:39
 msgid "View your profile"
-msgstr ""
+msgstr "Profiljának megtekintése"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:19
 msgid "Info"
-msgstr ""
+msgstr "Információ"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:29
 msgid "Participations"
-msgstr ""
+msgstr "Részvételek"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:39
 msgid "Activities"
-msgstr ""
+msgstr "Tevékenységek"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:70
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:76
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:83
 msgid "Active in these platforms"
-msgstr ""
+msgstr "Aktív ezeken a platformokon"
 
 #: apps/users/templates/a4_candy_users/user_detail.html:96
 msgid "This user is not active in any platform yet."
-msgstr ""
+msgstr "Ez a felhasználó még nem aktív egyik platformon sem."
 
 #: apps/users/templates/a4_candy_users/user_detail.html:98
 msgid "Check some platforms out."
-msgstr ""
+msgstr "Nézzen meg néhány platformot."
 
 #: apps/users/templates/a4_candy_users/user_detail.html:115
 msgid "This user is not active in any projects yet."
-msgstr ""
+msgstr "Ez a felhasználó még nem aktív egyetlen projektben sem."
 
 #: apps/users/templates/a4_candy_users/user_detail.html:128
 msgid "No activity yet. "
-msgstr ""
+msgstr "Még nincs aktivitás. "
 
 #: adhocracy-plus/config/settings/base.py:192
 msgid "English"
-msgstr ""
+msgstr "Angol"
 
 #: adhocracy-plus/config/settings/base.py:193
 msgid "German"
-msgstr ""
+msgstr "Német"
 
 #: adhocracy-plus/config/settings/base.py:194
 msgid "Dutch"
-msgstr ""
+msgstr "Holland"
 
 #: adhocracy-plus/config/settings/base.py:195
 msgid "Kyrgyz"
-msgstr ""
+msgstr "Kirgiz"
 
 #: adhocracy-plus/config/settings/base.py:196
 msgid "Russian"
-msgstr ""
+msgstr "Orosz"
 
 #: adhocracy-plus/config/settings/base.py:339
 #: adhocracy-plus/config/settings/base.py:355
 msgid "Rich text editor"
-msgstr ""
+msgstr "Szövegszerkesztő"
 
 #: adhocracy-plus/config/settings/base.py:457
 msgid "suggestion"
-msgstr ""
+msgstr "javaslat"
 
 #: adhocracy-plus/config/settings/base.py:458
 msgid "note"
-msgstr ""
+msgstr "megjegyzés"
 
 #: adhocracy-plus/config/settings/base.py:459
 msgid "question"
-msgstr ""
+msgstr "kérdés"
 
 #: adhocracy-plus/config/settings/base.py:499
 msgid "Pin without icon"
-msgstr ""
+msgstr "Pin ikon nélkül"
 
 #: adhocracy-plus/config/settings/base.py:500
 msgid "Diamond"
-msgstr ""
+msgstr "Gyémánt"
 
 #: adhocracy-plus/config/settings/base.py:501
 msgid "Triangle up"
-msgstr ""
+msgstr "Háromszög felfelé"
 
 #: adhocracy-plus/config/settings/base.py:502
 msgid "Triangle down"
-msgstr ""
+msgstr "Háromszög lefelé"
 
 #: adhocracy-plus/config/settings/base.py:503
 msgid "Ellipse"
-msgstr ""
+msgstr "Ellipszis"
 
 #: adhocracy-plus/config/settings/base.py:504
 msgid "Semi circle"
-msgstr ""
+msgstr "Félkör"
 
 #: adhocracy-plus/config/settings/base.py:505
 msgid "Hexagon"
-msgstr ""
+msgstr "Hatszögletű"
 
 #: adhocracy-plus/config/settings/base.py:506
 msgid "Rhomboid"
-msgstr ""
+msgstr "Rombusz"
 
 #: adhocracy-plus/config/settings/base.py:507
 msgid "Star"
-msgstr ""
+msgstr "Csillag"
 
 #: adhocracy-plus/config/settings/base.py:508
 msgid "Square"
-msgstr ""
+msgstr "Négyzet"
 
 #: adhocracy-plus/config/settings/base.py:509
 msgid "Octothorpe"
-msgstr ""
+msgstr "Hash szimbólum"
 
 #: adhocracy-plus/config/settings/base.py:510
 msgid "Rectangle"
-msgstr ""
+msgstr "Téglalap"
 
 #: adhocracy-plus/config/settings/base.py:511
 msgid "Circle"
-msgstr ""
+msgstr "Kör"
 
 #: adhocracy-plus/config/settings/base.py:512
 msgid "Right triangle"
-msgstr ""
+msgstr "Derékszögű háromszög"
 
 #: adhocracy-plus/config/settings/base.py:513
 msgid "Zigzag"
-msgstr ""
+msgstr "Cikkcakk"
 
 #: adhocracy-plus/config/settings/base.py:517
 msgid "brainstorming"
-msgstr ""
+msgstr "ötletelés"
 
 #: adhocracy-plus/config/settings/base.py:518
 msgid "spatial brainstorming"
-msgstr ""
+msgstr "területalapú ötletelés"
 
 #: adhocracy-plus/config/settings/base.py:519
 msgid "idea challenge"
-msgstr ""
+msgstr "ötlet kihívás"
 
 #: adhocracy-plus/config/settings/base.py:520
 msgid "spatial idea challenge"
-msgstr ""
+msgstr "területalapú ötlet kihívás"
 
 #: adhocracy-plus/config/settings/base.py:521
 msgid "text review"
-msgstr ""
+msgstr "szöveges felülvizsgálat"
 
 #: adhocracy-plus/config/settings/base.py:522
 msgid "poll"
-msgstr ""
+msgstr "szavazás"
 
 #: adhocracy-plus/config/settings/base.py:524
 msgid "interactive event"
-msgstr ""
+msgstr "interaktív esemény"
 
 #: adhocracy-plus/config/settings/base.py:525
 msgid "prioritization"
-msgstr ""
+msgstr "rangsorolás"
 
 #: adhocracy-plus/config/settings/base.py:526
 msgid "debate"
-msgstr ""
+msgstr "vita"
 
 #: adhocracy-plus/templates/403.html:7
 msgid "You are not allowed to access this page."
-msgstr ""
+msgstr "Az ön számára ez az oldal nem érhető el."
 
 #: adhocracy-plus/templates/403_csrf.html:5
 msgid ""
 "The verification of your input has failed. Please reload the page and make "
 "sure that your browser settings allow setting session cookies."
 msgstr ""
+"Az Ön által megadott adatok ellenőrzése sikertelen volt. Kérjük, töltse újra "
+"az oldalt, és győződjön meg arról, hogy böngészője beállításai lehetővé "
+"teszik a munkamenet sütik beállítását."
 
 #: adhocracy-plus/templates/404.html:7
 msgid "This page could not be found."
-msgstr ""
+msgstr "Ez az oldal nem található."
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:17
 msgid "Home"
-msgstr ""
+msgstr "Főoldal"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:24
 msgid "Organisations"
-msgstr ""
+msgstr "Szervezetek"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:58
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:84
@@ -4189,14 +4385,14 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/base_project_list.html:7
 #: adhocracy-plus/templates/a4dashboard/base_project_list.html:10
 msgid "Participation projects"
-msgstr ""
+msgstr "Részvételi projektek"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:62
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:86
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:101
 #: adhocracy-plus/templates/a4dashboard/communication_form_base.html:10
 msgid "Communication"
-msgstr ""
+msgstr "Kommunikáció"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:68
 #: adhocracy-plus/templates/a4dashboard/base_dashboard.html:88
@@ -4204,201 +4400,203 @@ msgstr ""
 #: adhocracy-plus/templates/a4dashboard/organisation_form_base.html:7
 #: adhocracy-plus/templates/a4dashboard/organisation_form_base.html:10
 msgid "Organisation settings"
-msgstr ""
+msgstr "Szervezeti beállítások"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:12
 #: adhocracy-plus/templates/a4dashboard/blueprint_list.html:16
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:14
 msgid "All projects"
-msgstr ""
+msgstr "Minden projekt"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:36
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:14
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:74
 msgid "Project ready for publication"
-msgstr ""
+msgstr "A projekt készen áll a közzétételre"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:38
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:16
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:72
 msgid "Project not ready for publication"
-msgstr ""
+msgstr "A projekt nem áll készen a közzétételre"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:89
 msgid "Module ready for addition"
-msgstr ""
+msgstr "A modul készen áll a hozzáadásra"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:91
 msgid "Module not ready for addition"
-msgstr ""
+msgstr "A modul nem áll készen a hozzáadásra"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:132
 msgid "Hide from project"
-msgstr ""
+msgstr "Elrejtés a projektből"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:142
 msgid "Add to project"
-msgstr ""
+msgstr "Hozzáadás a projekthez"
 
 #: adhocracy-plus/templates/a4dashboard/base_dashboard_project.html:157
 msgid "Add Module"
-msgstr ""
+msgstr "Modul hozzáadása"
 
 #: adhocracy-plus/templates/a4dashboard/base_project_list.html:27
 #: adhocracy-plus/templates/footer.html:63
 msgid "Manual"
-msgstr ""
+msgstr "Kézi"
 
 #: adhocracy-plus/templates/a4dashboard/blueprint_list.html:27
 msgid "Create a new Project"
-msgstr ""
+msgstr "Új projekt létrehozása"
 
 #: adhocracy-plus/templates/a4dashboard/communication_form_base.html:7
 msgid "Communication options"
-msgstr ""
+msgstr "Kommunikációs lehetőségek"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:6
 msgid "Project created"
-msgstr ""
+msgstr "Létrehozott projekt"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:7
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:4
 #: adhocracy-plus/templates/a4dashboard/project_create_form.html:26
 msgid "Create project"
-msgstr ""
+msgstr "Projekt létrehozása"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:22
 msgid "Fill in project details"
-msgstr ""
+msgstr "Töltse ki a projekt adatait"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:31
 msgid "No module created"
-msgstr ""
+msgstr "Nincs létrehozott modul"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:33
 msgid "Module created"
-msgstr ""
+msgstr "Létrehozott modul"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:35
 msgid "Add participation module(s)"
-msgstr ""
+msgstr "Részvételi modul(ok) hozzáadása"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:42
 msgid "Module not ready to be filled in"
-msgstr ""
+msgstr "A modul nem áll készen a kitöltésre"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:44
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:50
 msgid "Fill in module details"
-msgstr ""
+msgstr "Töltse ki a modul adatait"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:46
 msgid "Module ready to be added to project"
-msgstr ""
+msgstr "A modul készen áll a projekthez való hozzáadásra"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:59
 msgid "Module not ready to be added to project"
-msgstr ""
+msgstr "A modul nem áll készen a projekthez való hozzáadásra"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:61
 msgid "Show module(s) in project"
-msgstr ""
+msgstr "Modul(ok) megjelenítése a projektben"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:63
 msgid "Module added to project"
-msgstr ""
+msgstr "Modul hozzáadása a projekthez"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:65
 msgid "Add module(s) to project"
-msgstr ""
+msgstr "Modul(ok) hozzáadása a projekthez"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line.html:76
 msgid "Publish project"
-msgstr ""
+msgstr "Projekt közzététele"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line_done.html:7
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line_done.html:8
 msgid "Project type has been published"
-msgstr ""
+msgstr "A projekttípus közzététele megtörtént"
 
 #: adhocracy-plus/templates/a4dashboard/includes/progress_line_done.html:13
 msgid "The project has been published. You can add further modules."
-msgstr ""
+msgstr "A projektet közzétették. További modulokat adhat hozzá."
 
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:53
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:55
 msgid "more"
-msgstr ""
+msgstr "több"
 
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:70
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:92
 msgid "delete"
-msgstr ""
+msgstr "törlés"
 
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:85
 #, python-format
 msgid " Are you sure you want to delete the project '%(project_name)s'? "
-msgstr ""
+msgstr " Biztos, hogy törölni akarja a '%(project_name)s' projektet? "
 
 #: adhocracy-plus/templates/a4dashboard/includes/project_list_item.html:91
 msgid "cancel"
-msgstr ""
+msgstr "mégsem"
 
 #: adhocracy-plus/templates/a4dashboard/organisation_form_base.html:16
 msgid "General information"
-msgstr ""
+msgstr "Általános információ"
 
 #: adhocracy-plus/templates/a4dashboard/organisation_form_base.html:18
 #: adhocracy-plus/templates/a4dashboard/organisation_form_base.html:28
 msgid "Missing important fields"
-msgstr ""
+msgstr "Hiányzó fontos mezők"
 
 #: adhocracy-plus/templates/a4dashboard/organisation_form_base.html:26
 msgid "Legal information"
-msgstr ""
+msgstr "Jogi információk"
 
 #: adhocracy-plus/templates/a4forms/includes/inline_form.html:14
 #: adhocracy-plus/templates/a4forms/includes/inline_form.html:15
 #: adhocracy-plus/templates/a4forms/includes/inline_form.html:18
 #: adhocracy-plus/templates/a4forms/includes/inline_form.html:19
 msgid "Remove item"
-msgstr ""
+msgstr "Cikk eltávolítása"
 
 #: adhocracy-plus/templates/a4images/image_upload_widget.html:32
 msgid ""
 "Your image will be uploaded/removed once you save your changes at the end of "
 "this page."
 msgstr ""
+"A képed feltöltésre/eltávolításra kerül, amint az oldal végén elmented a "
+"változtatásokat."
 
 #: adhocracy-plus/templates/a4modules/module_detail.html:46
 msgid "This project is in not published yet."
-msgstr ""
+msgstr "Ez a projekt még nem jelent meg."
 
 #: adhocracy-plus/templates/a4modules/module_detail.html:86
 msgid "Previous"
-msgstr ""
+msgstr "Előző"
 
 #: adhocracy-plus/templates/a4modules/module_detail.html:89
 msgid "of"
-msgstr ""
+msgstr "/"
 
 #: adhocracy-plus/templates/a4modules/module_detail.html:92
 msgid "Next"
-msgstr ""
+msgstr "Következő"
 
 #: adhocracy-plus/templates/a4modules/module_detail.html:195
 msgid "More questions from this online participation"
-msgstr ""
+msgstr "További kérdések ebben az online részvételi projektben"
 
 #: adhocracy-plus/templates/a4reports/emails/report_moderators.en.email:4
 #, python-format
 msgid "Moderation request in the project %(project_name)s on %(site_name)s"
-msgstr ""
+msgstr "Moderációs kérés a %(project_name)s projektben a %(site_name)s helyen"
 
 #: adhocracy-plus/templates/a4reports/emails/report_moderators.en.email:6
 #, python-format
 msgid "Moderation request in the project %(project_name)s"
-msgstr ""
+msgstr "Moderációs kérelem a  %(project_name)s projektben"
 
 #: adhocracy-plus/templates/a4reports/emails/report_moderators.en.email:10
 #, python-format
@@ -4407,10 +4605,13 @@ msgid ""
 "is possible, the message could also be spam. As a moderator, you can review "
 "the post and delete it if necessary. The following reasons were given:"
 msgstr ""
+"Felhasználó %(user_name)s jelentett egy hozzászólást a \"%(project_name)s\" "
+"projektben. Lehetséges, hogy az üzenet spam. Moderátorként felülvizsgálhatod "
+"a hozzászólást, és szükség esetén törölheted. A következő okok miatt:"
 
 #: adhocracy-plus/templates/a4reports/emails/report_moderators.en.email:18
 msgid "Review post"
-msgstr ""
+msgstr "Bejegyzés felülvizsgálata"
 
 #: adhocracy-plus/templates/a4reports/emails/report_moderators.en.email:20
 #, python-format
@@ -4418,58 +4619,60 @@ msgid ""
 "This email has been sent to %(receiver_mail)s. The email was sent to you as "
 "you are the moderator of the project."
 msgstr ""
+"Ezt az e-mailt elküldtük a %(receiver_mail)s címre. Az e-mailt Önnek "
+"küldték, mivel Ön a projekt moderátora."
 
 #: adhocracy-plus/templates/account/email.html:6
 #: adhocracy-plus/templates/account/email.html:9
 msgid "Email Addresses"
-msgstr ""
+msgstr "Email címek"
 
 #: adhocracy-plus/templates/account/email.html:12
 msgid "Main Email"
-msgstr ""
+msgstr "Fő e-mail"
 
 #: adhocracy-plus/templates/account/email.html:14
 msgid "Primary"
-msgstr ""
+msgstr "Elsődleges"
 
 #: adhocracy-plus/templates/account/email.html:15
 #: adhocracy-plus/templates/account/email.html:29
 msgid "Verified"
-msgstr ""
+msgstr "Ellenőrzött"
 
 #: adhocracy-plus/templates/account/email.html:20
 msgid "Other Emails"
-msgstr ""
+msgstr "Egyéb e-mailek"
 
 #: adhocracy-plus/templates/account/email.html:31
 msgid "Unverified"
-msgstr ""
+msgstr "Nem ellenőrzött"
 
 #: adhocracy-plus/templates/account/email.html:35
 msgid "Make Primary"
-msgstr ""
+msgstr "Elsődlegessé tétel"
 
 #: adhocracy-plus/templates/account/email.html:38
 msgid "Re-send Verification"
-msgstr ""
+msgstr "Megerősítés újraküldése"
 
 #: adhocracy-plus/templates/account/email.html:62
 msgid "Add another Email"
-msgstr ""
+msgstr "Újabb e-mail hozzáadása"
 
 #: adhocracy-plus/templates/account/email.html:67
 msgid "Add Email"
-msgstr ""
+msgstr "E-mail hozzáadása"
 
 #: adhocracy-plus/templates/account/email/email_confirmation.en.email:4
 #, python-format
 msgid "Please confirm your email address on %(current_site)s"
-msgstr ""
+msgstr "Kérjük, erősítse meg e-mail címét a %(current_site)s oldalon"
 
 #: adhocracy-plus/templates/account/email/email_confirmation.en.email:6
 #, python-format
 msgid "Your email address on %(current_site)s"
-msgstr ""
+msgstr "Az Ön e-mail címe a %(current_site)s oldalon"
 
 #: adhocracy-plus/templates/account/email/email_confirmation.en.email:10
 #, python-format
@@ -4479,10 +4682,14 @@ msgid ""
 "email address, you can ignore this email. We will not send you any further "
 "emails."
 msgstr ""
+"ez az e-mail cím hozzá lett adva a \"%(username)s\" felhasználói fiókhoz a "
+"\"%(current_site)s\" oldalon. Kérjük, erősítse meg ezt a címet. Ha nem adta "
+"hozzá ezt az e-mail címet, akkor figyelmen kívül hagyhatja ezt az e-mailt. "
+"Nem fogunk Önnek további e-maileket küldeni."
 
 #: adhocracy-plus/templates/account/email/email_confirmation.en.email:15
 msgid "Confirm your email address"
-msgstr ""
+msgstr "Erősítse meg e-mail címét"
 
 #: adhocracy-plus/templates/account/email/email_confirmation.en.email:17
 #, python-format
@@ -4490,16 +4697,18 @@ msgid ""
 "This email was sent to %(receiver)s. If you have any further questions, "
 "please contact us via %(contact_email)s"
 msgstr ""
+"Ezt az e-mailt a %(receiver)s címre küldték. Ha további kérdése van, kérjük, "
+"lépjen kapcsolatba velünk az %(contact_email)s e-mail címen"
 
 #: adhocracy-plus/templates/account/email/email_confirmation_signup.en.email:4
 #, python-format
 msgid "Please confirm your registration on %(current_site)s"
-msgstr ""
+msgstr "Kérjük, erősítse meg regisztrációját a %(current_site)s oldalon"
 
 #: adhocracy-plus/templates/account/email/email_confirmation_signup.en.email:6
 #, python-format
 msgid "Your registration on %(current_site)s"
-msgstr ""
+msgstr "Az Ön regisztrációja a %(current_site)s oldalon"
 
 #: adhocracy-plus/templates/account/email/email_confirmation_signup.en.email:10
 #, python-format
@@ -4509,10 +4718,15 @@ msgid ""
 "your registration. As soon as you are registered, you can participate on "
 "\"%(current_site)s\". If you haven't registered, you can ignore this message."
 msgstr ""
+"Ön a \"%(username)s\" felhasználónévvel regisztrált a \"%(current_site)s\" "
+"részvételi platformon. Kattintson az \"E-mail cím megerősítése\" gombra a "
+"regisztráció befejezéséhez. Amint regisztrált, részt vehet a "
+"\"%(current_site)s\" oldalon. Ha még nem regisztrált, akkor figyelmen kívül "
+"hagyhatja ezt az üzenetet."
 
 #: adhocracy-plus/templates/account/email/email_confirmation_signup.en.email:15
 msgid "Confirm email address"
-msgstr ""
+msgstr "E-mail cím megerősítése"
 
 #: adhocracy-plus/templates/account/email/email_confirmation_signup.en.email:17
 #, python-format
@@ -4520,17 +4734,19 @@ msgid ""
 "This email was sent to %(useremail)s. If you have any further questions, "
 "please contact us via %(contact_email)s"
 msgstr ""
+"Ezt az e-mailt a %(useremail)s címre küldték. Ha további kérdése van, "
+"kérjük, lépjen kapcsolatba velünk az %(contact_email)s e-mail címen"
 
 #: adhocracy-plus/templates/account/email/password_reset_key.en.email:4
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:4
 #, python-format
 msgid "Reset password request for %(current_site)s"
-msgstr ""
+msgstr "Jelszó-visszaállítási kérelem a %(current_site)s oldalon"
 
 #: adhocracy-plus/templates/account/email/password_reset_key.en.email:6
 #, python-format
 msgid "Password reset for your account %(username)s"
-msgstr ""
+msgstr "Jelszó visszaállítása a %(username)s fiókjához"
 
 #: adhocracy-plus/templates/account/email/password_reset_key.en.email:10
 #, python-format
@@ -4539,11 +4755,15 @@ msgid ""
 "set a new password. If you have not requested a password reset, you can "
 "ighnore this email and your %(current_site)s password stays unchanged."
 msgstr ""
+"ön jelszó-visszaállítást kért. Kérjük, kattintson a \"Jelszó "
+"visszaállítása\" gombra az új jelszó beállításához. Ha nem kérte a jelszó "
+"visszaállítását, akkor figyelmen kívül hagyhatja ezt az e-mailt, és a "
+"%(current_site)s jelszava változatlan marad."
 
 #: adhocracy-plus/templates/account/email/password_reset_key.en.email:15
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:6
 msgid "Reset password"
-msgstr ""
+msgstr "Új jelszó létrehozása"
 
 #: adhocracy-plus/templates/account/email/password_reset_key.en.email:17
 #, python-format
@@ -4551,6 +4771,8 @@ msgid ""
 "This email was sent to %(useremail)s. You receive this email because your "
 "password on %(current_site)s has been reset."
 msgstr ""
+"Ezt az e-mailt a %(useremail)s címre küldték. Azért kapta ezt az e-mailt, "
+"mert a jelszavát az %(current_site)s-en visszaállították."
 
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:10
 #, python-format
@@ -4559,20 +4781,27 @@ msgid ""
 "password for your user account. However, we do not have any record of a user "
 "with email %(email)s in our database."
 msgstr ""
+"Azért kapja ezt az e-mailt, mert Ön vagy valaki más jelszót kért a "
+"felhasználói fiókjához. Az adatbázisunkban azonban nincs nyilvántartásunk a "
+"%(email)s e-mail címmel rendelkező felhasználóról."
 
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:13
 msgid ""
 "This mail can be safely ignored if you did not request a password reset."
 msgstr ""
+"Ezt a levelet nyugodtan figyelmen kívül hagyhatja, ha nem kérte a jelszó "
+"visszaállítását."
 
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:16
 msgid "If it was you, you can sign up for an account using the link below."
-msgstr ""
+msgstr "Ha Ön volt az, akkor az alábbi linken regisztrálhat egy fiókot."
 
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:19
 #, python-format
 msgid "If you need assistance, please contact %(contact_email)s."
 msgstr ""
+"Ha segítségre van szüksége, kérjük, lépjen kapcsolatba a %(contact_email)s-"
+"val."
 
 #: adhocracy-plus/templates/account/email/unknown_account.en.email:26
 #, python-format
@@ -4580,11 +4809,13 @@ msgid ""
 "This email was sent to %(email)s. You have received the e-mail because the "
 "reset of your password has been requested on %(current_site)s."
 msgstr ""
+"Ezt az e-mailt a %(email)s címre küldték. Azért kapta meg az e-mailt, mert a "
+"jelszava visszaállítását kérte %(current_site)s."
 
 #: adhocracy-plus/templates/account/email_confirm.html:4
 #: adhocracy-plus/templates/account/email_confirm.html:7
 msgid "Confirm Email Address"
-msgstr ""
+msgstr "E-mail cím megerősítése"
 
 #: adhocracy-plus/templates/account/email_confirm.html:11
 #, python-format
@@ -4593,10 +4824,14 @@ msgid ""
 "            confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an\n"
 "            email address for user %(user_display)s."
 msgstr ""
+"Kérem,\n"
+"            erősítse meg, hogy a <a href=\"mailto:%(email)s\">%(email)s</"
+"a> \n"
+"            a %(user_display)s felhasználó e-mail címe."
 
 #: adhocracy-plus/templates/account/email_confirm.html:17
 msgid "Confirm"
-msgstr ""
+msgstr "Megerősítés"
 
 #: adhocracy-plus/templates/account/email_confirm.html:21
 #, python-format
@@ -4605,6 +4840,10 @@ msgid ""
 "            Please <a href=\"%(email_url)s\">issue a new email confirmation\n"
 "                request</a>."
 msgstr ""
+"Ez az e-mail megerősítő link lejárt vagy érvénytelen.\n"
+"            Kérjük, <a href=\"%(email_url)s\">kérjen újbóli e-mail "
+"megerősítést\n"
+"                </a>."
 
 #: adhocracy-plus/templates/account/login.html:9
 #, python-format
@@ -4612,61 +4851,67 @@ msgid ""
 "If you have not created an account yet, then please <a "
 "href=\"%(signup_url)s\">register</a> first."
 msgstr ""
+"Ha még nem hozott létre fiókot, akkor kérjük, először a <a "
+"href=\"%(signup_url)s\">oldalon regisztráljon</a>."
 
 #: adhocracy-plus/templates/account/login.html:30
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Elfelejtette jelszavát?"
 
 #: adhocracy-plus/templates/account/logout.html:4
 #: adhocracy-plus/templates/account/logout.html:7
 #: adhocracy-plus/templates/account/logout.html:15
 msgid "Sign Out"
-msgstr ""
+msgstr "Kijelentkezés"
 
 #: adhocracy-plus/templates/account/logout.html:8
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Biztos, hogy ki akar jelentkezni?"
 
 #: adhocracy-plus/templates/account/password_change.html:8
 msgid "Change your password"
-msgstr ""
+msgstr "Változtassa meg a jelszavát"
 
 #: adhocracy-plus/templates/account/password_change.html:22
 #: adhocracy-plus/templates/account/password_change.html:28
 msgid "Password"
-msgstr ""
+msgstr "Jelszó"
 
 #: adhocracy-plus/templates/account/password_change.html:34
 msgid "Repeat password"
-msgstr ""
+msgstr "Jelszó megismétlése"
 
 #: adhocracy-plus/templates/account/password_reset.html:4
 #: adhocracy-plus/templates/account/password_reset.html:7
 msgid "Password Reset"
-msgstr ""
+msgstr "Jelszó visszaállítása"
 
 #: adhocracy-plus/templates/account/password_reset.html:12
 msgid ""
 "Forgotten your password? Enter your email address below, and we'll send you "
 "an email allowing you to reset it."
 msgstr ""
+"Elfelejtette jelszavát? Írja be az alábbiakban az e-mail címét, és mi "
+"küldünk egy e-mailt, amellyel visszaállíthatja azt."
 
 #: adhocracy-plus/templates/account/password_reset.html:18
 msgid "Reset My Password"
-msgstr ""
+msgstr "A saját jelszó alaphelyzetbe állítása"
 
 #: adhocracy-plus/templates/account/password_reset.html:20
 msgid "Please contact us if you have any trouble resetting your password."
 msgstr ""
+"Kérjük, lépjen kapcsolatba velünk, ha bármilyen problémája van a jelszava "
+"visszaállításával."
 
 #: adhocracy-plus/templates/account/password_reset_from_key.html:4
 #: adhocracy-plus/templates/account/password_reset_from_key.html:7
 msgid "Change Password"
-msgstr ""
+msgstr "Jelszó megváltoztatása"
 
 #: adhocracy-plus/templates/account/password_reset_from_key.html:7
 msgid "Bad Token"
-msgstr ""
+msgstr "Rossz Token"
 
 #: adhocracy-plus/templates/account/password_reset_from_key.html:11
 #, python-format
@@ -4675,14 +4920,17 @@ msgid ""
 "used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
 "a>."
 msgstr ""
+"A jelszó-visszaállítási link érvénytelen volt, valószínűleg azért, mert már "
+"használták.  Kérjen itt <a href=\"%(passwd_reset_url)s\">új jelszó "
+"visszaállítást</a>."
 
 #: adhocracy-plus/templates/account/password_reset_from_key.html:20
 msgid "change password"
-msgstr ""
+msgstr "jelszó módosítása"
 
 #: adhocracy-plus/templates/account/password_reset_from_key.html:23
 msgid "Your password is now changed."
-msgstr ""
+msgstr "A jelszava mostantól megváltozott."
 
 #: adhocracy-plus/templates/account/signup.html:9
 #, python-format
@@ -4690,6 +4938,8 @@ msgid ""
 "Already have an account? Then please\n"
 "        <a href=\"%(login_url)s\">login</a>."
 msgstr ""
+"Már van fiókja? Akkor kérjük\n"
+"       <a href=\"%(login_url)s\">jelentkezzen be</a>."
 
 #: adhocracy-plus/templates/account/signup.html:24
 #: adhocracy-plus/templates/socialaccount/signup.html:28
@@ -4702,6 +4952,12 @@ msgid ""
 "policy</a>.\n"
 "                "
 msgstr ""
+"\n"
+"                Megerősítem, hogy elolvastam és elfogadtam a <a "
+"href=\"%(terms_of_use_url)s\" target=\"_blank\">felhasználási feltételeket</"
+"a> és az <a href=\"%(data_protection_policy)s\" "
+"target=\"_blank\">adatvédelmi szabályzatot</a>.\n"
+"                "
 
 #: adhocracy-plus/templates/account/signup.html:58
 #, python-format
@@ -4715,42 +4971,52 @@ msgid ""
 "target=\"_blank\">further information here</a>.\n"
 "        "
 msgstr ""
+"\n"
+"            A %(platformname)s oldalon található fiókkal részt vehet a "
+"platform minden nyilvános részvételi projektjében. Ez a platform lehetővé "
+"teszi, hogy különféle szervezetek digitális részvételi projekteket hajtsanak "
+"végre.\n"
+"            Ha bármilyen kérdése van a platform adatvédelmével kapcsolatban, "
+"<a href=\"%(data_protection_url)s\" target=\"_blank\">itt</a> talál <a "
+"href=\"%(data_protection_url)s\" target=\"_blank\">további információkat</"
+"a>.\n"
+"        "
 
 #: adhocracy-plus/templates/base.html:57
 msgid "Skip to content "
-msgstr ""
+msgstr "Ugrás a tartalomra "
 
 #: adhocracy-plus/templates/base.html:98
 #, python-format
 msgid "%(platformname)s is funded by donations."
-msgstr ""
+msgstr "%(platformname)s adományokból finanszírozzuk."
 
 #: adhocracy-plus/templates/base.html:100
 msgid "Donate now"
-msgstr ""
+msgstr "Adományozzon most"
 
 #: adhocracy-plus/templates/base.html:103
 #, python-format
 msgid "Donate now to %(platformname)s"
-msgstr ""
+msgstr "Adományozzon most a %(platformname)s számára"
 
 #: adhocracy-plus/templates/base_errors.html:4
 msgid "Error"
-msgstr ""
+msgstr "Hiba"
 
 #: adhocracy-plus/templates/base_errors.html:12
 #, python-format
 msgid "Back to %(platformname)s"
-msgstr ""
+msgstr "Vissza a %(platformname)s platformra"
 
 #: adhocracy-plus/templates/email_base.html:64
 msgid "Responsible for the participation project:"
-msgstr ""
+msgstr "Felelős a részvételi projektért:"
 
 #: adhocracy-plus/templates/email_base.html:93
 #, python-format
 msgid "%(platformname)s is a participation platform operated by"
-msgstr ""
+msgstr "%(platformname)s egy részvételi platform, amelyet a"
 
 #: adhocracy-plus/templates/footer.html:10
 #, python-format
@@ -4758,49 +5024,52 @@ msgid ""
 "<a href=\"/\">%(platformname)s</a> is a platform provided by <a "
 "href=\"https://liqd.net/de/\">Liquid Democracy e.V.</a> in Berlin."
 msgstr ""
+"<a href=\"/\">%(platformname)s</a> a <a href=\"https://www.kdea.hu/"
+"\">Közösségi Digitális Eszközök Alapítvány </a> által szolgáltatott "
+"részvételi platform."
 
 #: adhocracy-plus/templates/footer.html:10
 msgid ""
 "Only the respective operator of the offer is responsible for the editorial "
 "content."
-msgstr ""
+msgstr "A részvételi projektek tartalmáért csak a kezdeményező felel."
 
 #: adhocracy-plus/templates/footer_upper.html:6
 msgid "Responsible for the content of this page:"
-msgstr ""
+msgstr "Az oldal tartalmáért felelős:"
 
 #: adhocracy-plus/templates/header.html:4
 msgid "Header"
-msgstr ""
+msgstr "Fejléc"
 
 #: adhocracy-plus/templates/includes/header_language_switch.html:9
 msgid "Language selector, "
-msgstr ""
+msgstr "Nyelvválasztó, "
 
 #: adhocracy-plus/templates/includes/header_language_switch.html:15
 msgid " selected"
-msgstr ""
+msgstr " kiválasztott"
 
 #: adhocracy-plus/templates/includes/header_language_switch.html:30
 msgid "select "
-msgstr ""
+msgstr "válassza ki a  címet "
 
 #: adhocracy-plus/templates/includes/header_lower_org_items.html:6
 msgid "Our projects"
-msgstr ""
+msgstr "Projektjeink"
 
 #: adhocracy-plus/templates/includes/header_lower_org_items.html:11
 msgid "About"
-msgstr ""
+msgstr "Rólunk"
 
 #: adhocracy-plus/templates/socialaccount/connections.html:5
 #: adhocracy-plus/templates/socialaccount/connections.html:8
 msgid "Social Connections"
-msgstr ""
+msgstr "Közösségi kapcsolatok"
 
 #: adhocracy-plus/templates/socialaccount/connections.html:9
 msgid "Remove existing connections"
-msgstr ""
+msgstr "A meglévő kapcsolatok eltávolítása"
 
 #: adhocracy-plus/templates/socialaccount/connections.html:11
 msgid ""
@@ -4808,19 +5077,24 @@ msgid ""
 "        accounts. To remove them mark the one you would like to remove and "
 "click the remove button"
 msgstr ""
+"Bejelentkezhet fiókjába a következő bármely harmadik fél által biztosított  "
+"szolgáltatás használatával.\n"
+"        Eltávolításukhoz jelölje meg azt, amelyet el szeretne távolítani, és "
+"kattintson az eltávolítás gombra"
 
 #: adhocracy-plus/templates/socialaccount/connections.html:35
 msgid ""
 "You currently have no social network accounts connected to this account."
 msgstr ""
+"Jelenleg nincsenek ehhez a fiókhoz kapcsolódó közösségi hálózati fiókok."
 
 #: adhocracy-plus/templates/socialaccount/signup.html:5
 msgid "Signup"
-msgstr ""
+msgstr "Regisztráció"
 
 #: adhocracy-plus/templates/socialaccount/signup.html:8
 msgid "Sign Up"
-msgstr ""
+msgstr "Regisztráció"
 
 #: adhocracy-plus/templates/socialaccount/signup.html:10
 #, python-format
@@ -4828,12 +5102,14 @@ msgid ""
 "You are about to use your %(provider_name)s account to login to\n"
 "%(site_name)s. As a final step, please complete the following form:"
 msgstr ""
+"Ön most a %(provider_name)s fiókját  fogja használni, hogy bejelentkezzen a\n"
+"%(site_name)s oldalra. Utolsó lépésként kérjük, töltse ki az alábbi űrlapot:"
 
 #: adhocracy-plus/templates/socialaccount/snippets/provider_list.html:6
 msgid "Login with social media account"
-msgstr ""
+msgstr "Bejelentkezés közösségi média fiókkal"
 
 #: adhocracy-plus/templates/socialaccount/snippets/provider_list.html:20
 #: adhocracy-plus/templates/socialaccount/snippets/provider_list.html:23
 msgid "Login with "
-msgstr ""
+msgstr "Bejelentkezés "
