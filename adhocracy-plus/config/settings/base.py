@@ -193,6 +193,7 @@ LANGUAGES = [
     ("nl", _("Dutch")),
     ("ky", _("Kyrgyz")),
     ("ru", _("Russian")),
+    ("hu", _("Hungarian"))
 ]
 
 # adding language info for ky
