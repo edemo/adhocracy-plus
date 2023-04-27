@@ -3,71 +3,60 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-26 11:27+0100\n"
-"PO-Revision-Date: 2020-11-12 13:23+0000\n"
-"Language-Team: Hungarian (https://www.transifex.com/liqd/teams/109316/hu/)\n"
+"POT-Creation-Date: 2023-04-26 15:17+0200\n"
+"PO-Revision-Date: 2023-04-27 17:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: Hungarian (https://app.transifex.com/liqd/teams/109316/hu/)\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
 
-#: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:12
 #: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:12
 msgid "Insert Collapsible Item"
-msgstr ""
+msgstr "Összecsukható elem beillesztése"
 
-#: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:14
 #: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:14
 msgid "Title"
-msgstr ""
+msgstr "Cím"
 
-#: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:15
 #: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:15
 msgid "Body text"
-msgstr ""
+msgstr "Törzsszöveg"
 
-#: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:37
 #: adhocracy4/ckeditor/static/ckeditor_collapsible/plugin.js:37
 msgid "Collapsible element"
-msgstr ""
+msgstr "Összecsukható elem"
 
-#: adhocracy4/comments/static/comments/Comment.jsx:22
 #: adhocracy4/comments/static/comments/Comment.jsx:22
 #, javascript-format
 msgid "hide one reply"
 msgid_plural "hide %s replies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "egy válasz elrejtése"
+msgstr[1] "hide %s válaszok"
 
-#: adhocracy4/comments/static/comments/Comment.jsx:24
 #: adhocracy4/comments/static/comments/Comment.jsx:24
 #, javascript-format
 msgid "view one reply"
 msgid_plural "view %s replies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "egy válasz megtekintése"
+msgstr[1] "megtekintés %s válaszok"
 
-#: adhocracy4/comments/static/comments/Comment.jsx:29
 #: adhocracy4/comments/static/comments/Comment.jsx:29
 msgid "Answer"
-msgstr ""
+msgstr "Válasz"
 
-#: adhocracy4/comments/static/comments/Comment.jsx:30
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:21
 #: adhocracy4/comments/static/comments/Comment.jsx:30
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:21
 msgid "Your reply here"
-msgstr ""
+msgstr "Az Ön válasza itt"
 
-#: adhocracy4/comments/static/comments/Comment.jsx:31
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:18
-#: adhocracy4/reports/static/reports/react_reports.jsx:22
 #: adhocracy4/comments/static/comments/Comment.jsx:31
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:18
 #: adhocracy4/reports/static/reports/react_reports.jsx:22
@@ -76,53 +65,38 @@ msgid ""
 "moderation. The moderation will look at the reported content. The content "
 "will be deleted if it does not meet our discussion rules (netiquette)."
 msgstr ""
+"Jelenteni szeretné ezt a tartalmat? Üzenetedet a moderációra küldjük. A "
+"moderátor megnézi a bejelentett tartalmat. A tartalom törlésre kerül, ha "
+"nem felel meg a vitaszabályainknak (netikett)."
 
 #: adhocracy4/comments/static/comments/Comment.jsx:95
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:36
-#: adhocracy4/comments/static/comments/Comment.jsx:95
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:36
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:37
 msgid "Moderator"
-msgstr ""
+msgstr "Moderátor"
 
 #: adhocracy4/comments/static/comments/Comment.jsx:104
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:35
-#: adhocracy4/comments/static/comments/Comment.jsx:104
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:35
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:36
 msgid "Latest edit on"
-msgstr ""
+msgstr "Legutóbb szerkesztve"
 
 #: adhocracy4/comments/static/comments/Comment.jsx:109
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:32
-#: adhocracy4/comments/static/comments/Comment.jsx:109
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:32
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:33
 msgid "Deleted by creator on"
-msgstr ""
+msgstr "Törölte az készítő ekkor"
 
 #: adhocracy4/comments/static/comments/Comment.jsx:111
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:33
-#: adhocracy4/comments/static/comments/Comment.jsx:111
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:33
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:34
 msgid "Deleted by moderator on"
-msgstr ""
+msgstr "Moderátor törölte ekkor"
 
-#: adhocracy4/comments/static/comments/Comment.jsx:152
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:29
 #: adhocracy4/comments/static/comments/Comment.jsx:152
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:29
 msgid "Do you really want to delete this comment?"
-msgstr ""
+msgstr "Tényleg törölni akarod ezt a hozzászólást?"
 
 #: adhocracy4/comments/static/comments/Comment.jsx:153
 #: adhocracy4/comments/static/comments/CommentManageDropdown.jsx:6
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:30
-#: adhocracy4/comments_async/static/comments_async/comment_manage_dropdown.jsx:6
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:72
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:77
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:154
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:159
-#: adhocracy4/comments/static/comments/Comment.jsx:153
-#: adhocracy4/comments/static/comments/CommentManageDropdown.jsx:6
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:30
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:31
 #: adhocracy4/comments_async/static/comments_async/comment_manage_dropdown.jsx:6
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:72
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:77
@@ -133,499 +107,411 @@ msgstr ""
 #: apps/documents/assets/ParagraphForm.jsx:133
 #: apps/documents/assets/ParagraphForm.jsx:138
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: adhocracy4/comments/static/comments/Comment.jsx:154
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:31
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:54
-#: adhocracy4/static/Modal.jsx:53
-#: adhocracy4/comments/static/comments/Comment.jsx:154
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:31
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:54
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:32
+#: adhocracy4/static/Modal.jsx:6
 msgid "Abort"
-msgstr ""
+msgstr "Megszakítás"
 
-#: adhocracy4/comments/static/comments/CommentBox.jsx:164
-#: adhocracy4/comments/static/comments/CommentEditForm.jsx:33
 #: adhocracy4/comments/static/comments/CommentBox.jsx:164
 #: adhocracy4/comments/static/comments/CommentEditForm.jsx:33
 msgid "Your comment here"
-msgstr ""
+msgstr "Az Ön megjegyzése itt"
 
 #: adhocracy4/comments/static/comments/CommentBox.jsx:167
-#: adhocracy4/comments/static/comments/CommentBox.jsx:167
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:25
 msgid "comment"
 msgid_plural "comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "hozzászólás"
+msgstr[1] "hozzászólások"
 
-#: adhocracy4/comments/static/comments/CommentEditForm.jsx:34
-#: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:11
-#: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:10
 #: adhocracy4/comments/static/comments/CommentEditForm.jsx:34
 #: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:11
 #: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:10
 msgid "save changes"
-msgstr ""
+msgstr "változtatások mentése"
 
-#: adhocracy4/comments/static/comments/CommentEditForm.jsx:35
-#: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:12
-#: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:11
 #: adhocracy4/comments/static/comments/CommentEditForm.jsx:35
 #: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:12
 #: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:11
 msgid "cancel"
-msgstr ""
+msgstr "mégsem"
 
-#: adhocracy4/comments/static/comments/CommentForm.jsx:39
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:14
 #: adhocracy4/comments/static/comments/CommentForm.jsx:39
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:14
 msgid "post"
-msgstr ""
+msgstr "bejegyzését"
 
-#: adhocracy4/comments/static/comments/CommentForm.jsx:40
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:16
 #: adhocracy4/comments/static/comments/CommentForm.jsx:40
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:16
 msgid "Please login to comment"
-msgstr ""
+msgstr "Kérjük, jelentkezzen be a hozzászóláshoz"
 
-#: adhocracy4/comments/static/comments/CommentForm.jsx:41
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:18
 #: adhocracy4/comments/static/comments/CommentForm.jsx:41
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:18
 msgid "The currently active phase doesn't allow to comment."
-msgstr ""
+msgstr "A jelenleg aktív fázis nem teszi lehetővé a hozzászólást."
 
-#: adhocracy4/comments/static/comments/CommentForm.jsx:42
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:17
 #: adhocracy4/comments/static/comments/CommentForm.jsx:42
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:17
 msgid "Only invited users can actively participate."
-msgstr ""
+msgstr "Csak a meghívott felhasználók vehetnek részt aktívan."
 
-#: adhocracy4/comments/static/comments/CommentManageDropdown.jsx:5
-#: adhocracy4/comments_async/static/comments_async/comment_manage_dropdown.jsx:5
 #: adhocracy4/comments/static/comments/CommentManageDropdown.jsx:5
 #: adhocracy4/comments_async/static/comments_async/comment_manage_dropdown.jsx:5
 msgid "Edit"
-msgstr ""
+msgstr "Szerkesztés"
 
-#: adhocracy4/comments/static/comments/CommentManageDropdown.jsx:7
 #: adhocracy4/comments/static/comments/CommentManageDropdown.jsx:7
 msgid "Report"
-msgstr ""
+msgstr "Jelentés"
 
-#: adhocracy4/comments_async/static/comments_async/category_list.jsx:5
 #: adhocracy4/comments_async/static/comments_async/category_list.jsx:5
 msgid "Choose categories for your comment"
-msgstr ""
+msgstr "Válasszon kategóriákat a megjegyzéséhez"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:19
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:19
 msgid "Share link"
-msgstr ""
+msgstr "Megosztás link"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:20
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:20
 msgid "Categories: "
-msgstr ""
+msgstr "Kategóriák: "
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:22
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:22
 msgid "Entry successfully created"
-msgstr ""
+msgstr "Sikeresen létrehozott bejegyzés"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:23
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:23
 msgid "Read more..."
-msgstr ""
+msgstr "Bővebben..."
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:24
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:24
 msgid "Read less"
-msgstr ""
+msgstr "Olvasd el a kevesebbet"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:25
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:25
 msgid "Share"
-msgstr ""
+msgstr "Megosztás"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:26
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:26
 msgid " Report"
-msgstr ""
+msgstr " Jelentés"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:27
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:27
 msgid "Show moderator's feedback"
-msgstr ""
+msgstr "Moderátor visszajelzéseinek megjelenítése"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:28
 #: adhocracy4/comments_async/static/comments_async/comment.jsx:28
 msgid "Hide moderator's feedback"
-msgstr ""
+msgstr "Moderátor visszajelzésének elrejtése"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:34
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:34
-msgid "Blocked by moderator on"
-msgstr ""
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:30
+msgid "Delete comment"
+msgstr "Hozzászólás törlése"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:37
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:37
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:35
+msgid "Blocked by moderator"
+msgstr "Moderátor által blokkolva"
+
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:38
 msgid "hide replies"
-msgstr ""
+msgstr "válaszok elrejtése"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:38
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:38
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:39
 msgctxt "verb"
 msgid "Reply"
-msgstr ""
+msgstr "Válasz"
 
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:47
-#: adhocracy4/comments_async/static/comments_async/comment.jsx:47
+#: adhocracy4/comments_async/static/comments_async/comment.jsx:48
 #, javascript-format
 msgid "1 reply"
 msgid_plural "%s replies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 válasz"
+msgstr[1] "%s válasz"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:15
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:15
 msgid "Newest"
-msgstr ""
+msgstr "Legújabb"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:16
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:16
 msgid "Most up votes"
-msgstr ""
+msgstr "A legtöbb szavazat"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:17
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:17
 msgid "Most down votes"
-msgstr ""
+msgstr "A legtöbb elutasító szavazat"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:18
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:18
 msgid "Most answers"
-msgstr ""
+msgstr "A legtöbb válasz"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:19
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:19
 msgid "Last discussed"
-msgstr ""
+msgstr "Utoljára tárgyalt"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:23
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:23
 msgid "Show filters"
-msgstr ""
+msgstr "Szűrő mutatása"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:24
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:24
 msgid "Filters"
-msgstr ""
+msgstr "Szűrők"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:25
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:25
 msgid "Hide filters"
-msgstr ""
+msgstr "Szűrő elrejtése"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:26
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:26
 msgid "Search contributions"
-msgstr ""
+msgstr "Hozzájárulások keresése"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:27
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:27
 msgid "Clear search"
-msgstr ""
+msgstr "Tiszta keresés"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:28
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:28
 msgid "display: "
-msgstr ""
+msgstr "megjelenítés:"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:29
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:48
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:276
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:29
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:48
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:276
 #: apps/interactiveevents/assets/Filters.jsx:32
 #: apps/interactiveevents/assets/QuestionBox.jsx:57
 msgid "all"
-msgstr ""
+msgstr "összes"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:30
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:30
 msgid "sorted by: "
-msgstr ""
+msgstr "rendezve: "
 
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:71
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:71
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:14
 msgid "Highlighted"
-msgstr ""
+msgstr "Kiemelve"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:100
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:100
 msgid "entry"
 msgid_plural "entries"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "belépés"
+msgstr[1] "bejegyzések"
 
-#: adhocracy4/comments_async/static/comments_async/comment_box.jsx:406
 #: adhocracy4/comments_async/static/comments_async/comment_box.jsx:406
 msgid "entry found for "
 msgid_plural "entries found for "
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "bejegyzés található "
+msgstr[1] "bejegyzés található "
 
-#: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:9
-#: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:8
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:11
 #: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:9
 #: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:8
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:11
 msgid "Your comment"
-msgstr ""
+msgstr "Hozzászólásod"
 
-#: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:10
-#: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:9
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:12
 #: adhocracy4/comments_async/static/comments_async/comment_category_edit_form.jsx:10
 #: adhocracy4/comments_async/static/comments_async/comment_edit_form.jsx:9
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:12
 msgid "Your reply"
-msgstr ""
+msgstr "Az Ön válasza"
 
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:13
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:13
 #: apps/interactiveevents/assets/QuestionForm.jsx:79
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedbackForm.jsx:10
 msgid " characters"
-msgstr ""
+msgstr " karakter"
 
-#: adhocracy4/comments_async/static/comments_async/comment_form.jsx:15
 #: adhocracy4/comments_async/static/comments_async/comment_form.jsx:15
 msgid "Comment"
-msgstr ""
+msgstr "Megjegyzés"
 
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:31
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:31
-msgid "Recommend comment"
-msgstr ""
-
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:35
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:35
-msgid "Is recommended"
-msgstr ""
-
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:53
-#: adhocracy4/comments_async/static/modals/moderate_modal.jsx:53
-msgid "Submit"
-msgstr ""
-
-#: adhocracy4/comments_async/static/modals/url_modal.jsx:23
-#: adhocracy4/comments_async/static/modals/url_modal.jsx:23
+#: adhocracy4/comments_async/static/modals/UrlModal.jsx:8
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
-#: adhocracy4/comments_async/static/modals/url_modal.jsx:24
-#: adhocracy4/comments_async/static/modals/url_modal.jsx:24
+#: adhocracy4/comments_async/static/modals/UrlModal.jsx:9
 msgid "Copied"
-msgstr ""
+msgstr "Másolva"
 
-#: adhocracy4/follows/static/follows/FollowButton.jsx:26
 #: adhocracy4/follows/static/follows/FollowButton.jsx:26
 msgid "You will no longer be updated via email."
-msgstr ""
+msgstr "A továbbiakban nem kapja meg az e-mailben küldött frissítéseket."
 
-#: adhocracy4/follows/static/follows/FollowButton.jsx:28
 #: adhocracy4/follows/static/follows/FollowButton.jsx:28
 msgid "You will be updated via email."
-msgstr ""
+msgstr "E-mailben értesítjük Önt."
 
-#: adhocracy4/follows/static/follows/FollowButton.jsx:62
 #: adhocracy4/follows/static/follows/FollowButton.jsx:62
 msgid "Follow"
-msgstr ""
+msgstr "Követés"
 
-#: adhocracy4/follows/static/follows/FollowButton.jsx:63
 #: adhocracy4/follows/static/follows/FollowButton.jsx:63
 msgid "Following"
-msgstr ""
+msgstr "Követés"
 
-#: adhocracy4/maps/static/a4maps/a4maps_address.js:87
 #: adhocracy4/maps/static/a4maps/a4maps_address.js:87
 #: apps/maps/assets/map-address.js:87
 msgid "No matches found within the project area"
-msgstr ""
+msgstr "A projekt területén nem találtunk ilyet. "
 
-#: adhocracy4/maps/static/a4maps/a4maps_address.js:90
 #: adhocracy4/maps/static/a4maps/a4maps_address.js:90
 #: apps/maps/assets/map-address.js:90
 msgid "Did you mean:"
-msgstr ""
+msgstr "Úgy értette:"
 
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:70
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:70
 #: apps/maps/assets/map_choose_polygon_with_preset.js:68
 msgid "Export polygon as GeoJSON"
-msgstr ""
+msgstr "Poligon exportálása GeoJSON-ként"
 
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:71
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:81
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:93
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:71
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:81
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:93
 #: apps/maps/assets/map_choose_polygon_with_preset.js:69
 #: apps/maps/assets/map_choose_polygon_with_preset.js:79
-#: apps/maps/assets/map_choose_polygon_with_preset.js:91
+#: apps/maps/assets/map_choose_polygon_with_preset.js:92
 msgid "Import polygon via file upload"
-msgstr ""
+msgstr "Poligon importálása fájlfeltöltéssel"
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:88
-#: adhocracy4/static/Alert.jsx:6
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:88
-#: apps/dashboard/assets/ajax_modal.js:12 apps/embed/assets/embed.js:57
-#: apps/embed/assets/embed.js:58
-#: apps/maps/assets/map_choose_polygon_with_preset.js:86
+#: adhocracy4/static/Alert.jsx:6 apps/dashboard/assets/ajax_modal.js:12
+#: apps/maps/assets/map_choose_polygon_with_preset.js:87
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:95
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:95
-#: apps/maps/assets/map_choose_polygon_with_preset.js:93
+#: apps/maps/assets/map_choose_polygon_with_preset.js:94
 msgid ""
 "Upload a polygon from a GeoJSON (.geojson) or a zipped Shapefile (.zip)."
 msgstr ""
+"Töltsön fel egy poligont egy GeoJSON (.geojson) vagy egy zippelt Shapefile "
+"(.zip) fájlból."
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:96
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:96
-#: apps/maps/assets/map_choose_polygon_with_preset.js:94
+#: apps/maps/assets/map_choose_polygon_with_preset.js:95
 msgid ""
 "Note that uploading Shapefiles is not supported with Internet Explorer 10"
 msgstr ""
+"Vegye figyelembe, hogy a Shapefile-ok feltöltése nem támogatott az Internet "
+"Explorer 10 alatt"
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:97
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:97
-#: apps/maps/assets/map_choose_polygon_with_preset.js:95
+#: apps/maps/assets/map_choose_polygon_with_preset.js:96
 msgid "Attention importing a file will delete the existing polygons."
-msgstr ""
+msgstr "Figyelem a fájl importálása törli a meglévő poligonokat."
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:102
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:102
-#: apps/maps/assets/map_choose_polygon_with_preset.js:100
+#: apps/maps/assets/map_choose_polygon_with_preset.js:101
 msgid "Upload"
-msgstr ""
+msgstr "Feltöltés"
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:110
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:110
-#: apps/maps/assets/map_choose_polygon_with_preset.js:107
+#: apps/maps/assets/map_choose_polygon_with_preset.js:108
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:145
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:148
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:145
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:148
-#: apps/maps/assets/map_choose_polygon_with_preset.js:142
-#: apps/maps/assets/map_choose_polygon_with_preset.js:144
+#: apps/maps/assets/map_choose_polygon_with_preset.js:143
+#: apps/maps/assets/map_choose_polygon_with_preset.js:145
 msgid "The uploaded file is not a valid shapefile."
-msgstr ""
+msgstr "A feltöltött fájl nem érvényes shapefile."
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:150
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:150
-#: apps/maps/assets/map_choose_polygon_with_preset.js:146
+#: apps/maps/assets/map_choose_polygon_with_preset.js:147
 msgid "The uploaded file could not be imported."
-msgstr ""
+msgstr "A feltöltött fájlt nem sikerült importálni."
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:164
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:164
-#: apps/maps/assets/map_choose_polygon_with_preset.js:161
+#: apps/maps/assets/map_choose_polygon_with_preset.js:162
 msgid "The uploaded file is not a valid geojson file."
-msgstr ""
+msgstr "A feltöltött fájl nem érvényes geojson fájl."
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:169
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:169
-#: apps/maps/assets/map_choose_polygon_with_preset.js:166
+#: apps/maps/assets/map_choose_polygon_with_preset.js:167
 msgid "Invalid file format."
-msgstr ""
+msgstr "Hibás fájlformátum."
 
 #: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:286
-#: adhocracy4/maps/static/a4maps/a4maps_choose_polygon_with_preset.js:286
-#: apps/maps/assets/map_choose_polygon_with_preset.js:285
+#: apps/maps/assets/map_choose_polygon_with_preset.js:286
 msgid "Do you want to load this preset and delete all the existing polygons?"
 msgstr ""
+"Szeretné betölteni ezt az előbeállítást, és törölni az összes meglévő "
+"poligont?"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollChoice.jsx:9
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:70
+#: adhocracy4/maps/static/a4maps/a4maps_display_points.js:101
+msgid "person supports this proposal."
+msgid_plural "persons support this proposal."
+msgstr[0] "személy támogatja ezt a javaslatot."
+msgstr[1] "személyek támogatják ezt a javaslatot."
+
+#: adhocracy4/maps/static/a4maps/a4maps_display_points.js:114
+msgid "person voted for this proposal."
+msgid_plural "persons voted for this proposal."
+msgstr[0] "személy a javaslat mellett szavazott."
+msgstr[1] "a javaslat mellett szavaztak."
+
+#: adhocracy4/maps/static/a4maps/a4maps_display_points.js:127
+msgid "person commented on this proposal."
+msgid_plural "persons commented on this proposal."
+msgstr[0] "a javaslattal kapcsolatban észrevételeket tett."
+msgstr[1] "a javaslattal kapcsolatban észrevételeket tettek."
+
 #: adhocracy4/polls/static/PollDashboard/EditPollChoice.jsx:9
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:70
 msgctxt "noun"
 msgid "Answer"
-msgstr ""
+msgstr "Válasz"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollChoice.jsx:29
-#: adhocracy4/polls/static/PollDashboard/EditPollChoice.jsx:35
 #: adhocracy4/polls/static/PollDashboard/EditPollChoice.jsx:29
 #: adhocracy4/polls/static/PollDashboard/EditPollChoice.jsx:35
 msgid "remove"
-msgstr ""
+msgstr "eltávolítás"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollDropdown.jsx:5
 #: adhocracy4/polls/static/PollDashboard/EditPollDropdown.jsx:5
 msgid " New Question"
-msgstr ""
+msgstr " Új kérdés"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollDropdown.jsx:6
 #: adhocracy4/polls/static/PollDashboard/EditPollDropdown.jsx:6
 msgid "Multiple Choice question"
-msgstr ""
+msgstr "Többszörös választási kérdés"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollDropdown.jsx:7
 #: adhocracy4/polls/static/PollDashboard/EditPollDropdown.jsx:7
 msgid "Open question"
 msgstr ""
+"a \"más\" nem lehet az egyetlen választás. Használjon nyitott kérdést vagy "
+"adjon hozzá több választási lehetőséget. "
 
-#: adhocracy4/polls/static/PollDashboard/EditPollManagement.jsx:179
 #: adhocracy4/polls/static/PollDashboard/EditPollManagement.jsx:179
 msgid "The poll has been updated."
-msgstr ""
+msgstr "A szavazást frissítettük."
 
 #: adhocracy4/polls/static/PollDashboard/EditPollManagement.jsx:195
-#: adhocracy4/polls/static/PollDashboard/EditPollManagement.jsx:195
-msgid "The poll could not be updated. Please check the data you entered again."
+msgid ""
+"The poll could not be updated. Please check the data you entered again."
 msgstr ""
+"A szavazást nem lehetett frissíteni. Kérjük, ellenőrizze újra a megadott "
+"adatokat."
 
-#: adhocracy4/polls/static/PollDashboard/EditPollManagement.jsx:262
 #: adhocracy4/polls/static/PollDashboard/EditPollManagement.jsx:262
 #: apps/documents/assets/DocumentManagement.jsx:324
 msgid "Save"
-msgstr ""
+msgstr "Mentés"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:17
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:19
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:17
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:19
 #: apps/interactiveevents/assets/QuestionForm.jsx:67
 msgid "Question"
-msgstr ""
+msgstr "Kérdés"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:39
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:120
-#: adhocracy4/polls/static/PollDashboard/HelptextForm.jsx:11
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:39
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:120
 #: adhocracy4/polls/static/PollDashboard/HelptextForm.jsx:11
 msgid "Explanation"
-msgstr ""
+msgstr "Magyarázat"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:49
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:54
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:131
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:136
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:49
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:54
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:131
@@ -635,12 +521,8 @@ msgstr ""
 #: apps/documents/assets/ParagraphForm.jsx:110
 #: apps/documents/assets/ParagraphForm.jsx:115
 msgid "Move up"
-msgstr ""
+msgstr "Mozgatás felfelé"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:61
-#: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:66
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:143
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:148
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:61
 #: adhocracy4/polls/static/PollDashboard/EditPollOpenQuestion.jsx:66
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:143
@@ -650,410 +532,634 @@ msgstr ""
 #: apps/documents/assets/ParagraphForm.jsx:122
 #: apps/documents/assets/ParagraphForm.jsx:127
 msgid "Move down"
-msgstr ""
+msgstr "Mozgatás lefelé"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:47
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:47
 msgid "Participants can vote for more than one option (multiple choice)"
 msgstr ""
+"A résztvevők egynél több lehetőségre is szavazhatnak (többszörös választás)"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:62
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:62
 msgid "Participants can add their own answer"
-msgstr ""
+msgstr "A résztvevők hozzáadhatják saját válaszukat"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:95
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:96
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:95
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:96
 msgid "Other"
-msgstr ""
+msgstr "Egyéb"
 
-#: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:113
 #: adhocracy4/polls/static/PollDashboard/EditPollQuestion.jsx:113
 msgid "New answer"
-msgstr ""
+msgstr "Új válasz"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestion.jsx:7
 #: adhocracy4/polls/static/PollDetail/PollQuestion.jsx:7
 msgid "Multiple answers are possible."
-msgstr ""
+msgstr "Több válasz is lehetséges."
 
 #: adhocracy4/polls/static/PollDetail/PollQuestion.jsx:8
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:111
-#: adhocracy4/polls/static/PollDetail/PollQuestion.jsx:8
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:111
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:110
 msgid "other"
-msgstr ""
+msgstr "egyéb"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:16
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:16
 msgid "Your answer has been saved."
-msgstr ""
+msgstr "A válaszát elmentettük."
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:22
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:22
 msgid ""
 "Your answer could not be saved. Please check the data you entered again."
 msgstr ""
+"A válaszát nem lehetett megmenteni. Kérjük, ellenőrizze újra a megadott "
+"adatokat."
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:28
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:28
 msgid "Your answer is invalid or empty. Please try again."
-msgstr ""
+msgstr "A válasz érvénytelen vagy üres. Kérjük, próbálja meg újra."
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:53
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:53
 msgid "To poll"
-msgstr ""
+msgstr "Szavazásra"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:63
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:143
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:63
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:143
 msgid "Change answer"
-msgstr ""
+msgstr "Válasz megváltoztatása"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:143
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:143
 msgid "Submit answer"
-msgstr ""
+msgstr "Válasz beküldése"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:149
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:149
 msgid "Please login to answer"
-msgstr ""
+msgstr "Kérjük, jelentkezzen be a válaszadáshoz"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:159
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:159
 msgid "Show results"
-msgstr ""
+msgstr "Találatok megjelenítése"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:165
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:165
 msgid "Show preliminary results"
-msgstr ""
+msgstr "Előzetes eredmények megjelenítése"
 
-#: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:186
 #: adhocracy4/polls/static/PollDetail/PollQuestions.jsx:186
 msgid "Please enter your answer in this field."
-msgstr ""
+msgstr "Kérjük, írja be a választ ebbe a mezőbe."
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:45
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:45
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:44
 msgid "Hide other answers"
-msgstr ""
+msgstr "Egyéb válaszok elrejtése"
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:47
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:47
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:46
 msgid "Show other answers"
-msgstr ""
+msgstr "További válaszok megjelenítése"
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:61
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:61
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:60
 #, javascript-format
 msgid "%s participant gave 1 answer."
-msgstr ""
+msgstr "%s résztvevő 1 választ adott."
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:63
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:63
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:62
 #, javascript-format
 msgid "%s participant gave %s answers."
 msgid_plural "%s participants gave %s answers."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s résztvevő %s választ adott."
+msgstr[1] "%s résztvevő adott %s választ."
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:65
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:65
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:64
 msgid ""
 " For multiple choice questions the percentages may add up to more than 100%."
 msgstr ""
+" Feleletválasztós kérdések esetén a százalékos arányok összege "
+"meghaladhatja a 100%-ot."
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:67
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:76
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:67
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:76
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:66
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:75
 #, javascript-format
 msgid "1 person has answered."
 msgid_plural "%s people have answered."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 személy válaszolt."
+msgstr[1] "%s személy válaszolt."
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:78
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:78
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:77
 msgid "no one has answered this question"
-msgstr ""
+msgstr "senki sem válaszolt erre a kérdésre"
 
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:108
-#: adhocracy4/polls/static/PollDetail/PollResults.jsx:108
+#: adhocracy4/polls/static/PollDetail/PollResults.jsx:107
 msgid "Your choice"
-msgstr ""
+msgstr "Az ön választása"
 
-#: adhocracy4/ratings/static/ratings/react_ratings.jsx:9
 #: adhocracy4/ratings/static/ratings/react_ratings.jsx:9
 msgid "Click to vote up"
-msgstr ""
+msgstr "Kattintson a szavazáshoz"
 
-#: adhocracy4/ratings/static/ratings/react_ratings.jsx:10
 #: adhocracy4/ratings/static/ratings/react_ratings.jsx:10
 msgid "Click to vote down"
-msgstr ""
+msgstr "Kattintson a lefelé szavazáshoz"
 
-#: adhocracy4/reports/static/reports/ReportModal.jsx:55
-#: adhocracy4/reports/static/reports/ReportModal.jsx:55
+#: adhocracy4/reports/static/reports/ReportModal.jsx:7
+msgid "Report sent"
+msgstr "Elküldött jelentés"
+
+#: adhocracy4/reports/static/reports/ReportModal.jsx:8
 msgid "Thank you! We are taking care of it."
-msgstr ""
+msgstr "Köszönöm! Gondoskodunk róla."
 
-#: adhocracy4/reports/static/reports/ReportModal.jsx:56
-#: adhocracy4/reports/static/reports/ReportModal.jsx:56
+#: adhocracy4/reports/static/reports/ReportModal.jsx:9
 msgid "Your message"
-msgstr ""
+msgstr "Üzenete"
 
-#: adhocracy4/reports/static/reports/ReportModal.jsx:57
-#: adhocracy4/reports/static/reports/ReportModal.jsx:57
+#: adhocracy4/reports/static/reports/ReportModal.jsx:10
 msgid "Send Report"
-msgstr ""
+msgstr "Jelentés küldése"
 
 #: adhocracy4/static/TermsOfUseCheckbox.jsx:5
 msgid ""
-"Yes, I have read and agree to this organisation's %(linkStart)s terms of use "
-"%(linkEnd)s."
+"Yes, I have read and agree to this organisation's %(linkStart)s terms of "
+"use %(linkEnd)s."
 msgstr ""
+"Igen, elolvastam és elfogadom a szervezet %(linkStart)s felhasználási "
+"feltételeit %(linkEnd)s."
 
 #: adhocracy4/static/TermsOfUseCheckbox.jsx:6
 msgid "You can still manage all your preferences on User Agreements."
 msgstr ""
+"Továbbra is kezelheti az összes beállítását a Felhasználói megállapodások "
+"oldalon."
 
 #: apps/captcha/assets/captcheck.js:29
 msgid "Image mode"
-msgstr ""
+msgstr "Kép üzemmód"
 
 #: apps/captcha/assets/captcheck.js:30
 msgid "Text mode"
-msgstr ""
+msgstr "Szöveges üzemmód"
 
 #: apps/captcha/assets/captcheck.js:31
 msgid "Captcha: switch between image and text question"
-msgstr ""
+msgstr "Captcha: váltás a kép és a szöveges kérdés között"
 
 #: apps/documents/assets/ChapterForm.jsx:13
 msgid "Chapter title"
-msgstr ""
+msgstr "Fejezet címe"
 
 #: apps/documents/assets/ChapterForm.jsx:55
 msgid "Add a new paragraph"
-msgstr ""
+msgstr "Új bekezdés hozzáadása"
 
 #: apps/documents/assets/ChapterNav.jsx:9
 msgid "Chapter navigation"
-msgstr ""
+msgstr "Fejezet navigáció"
 
 #: apps/documents/assets/ChapterNav.jsx:38
 msgid "Add a new chapter"
-msgstr ""
+msgstr "Új fejezet hozzáadása"
 
 #: apps/documents/assets/DocumentManagement.jsx:18
 msgid "first chapter"
-msgstr ""
+msgstr "első fejezet"
 
 #: apps/documents/assets/DocumentManagement.jsx:98
 msgid "new chapter"
-msgstr ""
+msgstr "új fejezet"
 
 #: apps/documents/assets/DocumentManagement.jsx:261
 msgid "The document has been updated."
-msgstr ""
+msgstr "A dokumentumot frissítették."
 
 #: apps/documents/assets/DocumentManagement.jsx:279
 msgid "The document could not be updated."
-msgstr ""
+msgstr "A dokumentumot nem lehetett frissíteni."
 
 #: apps/documents/assets/DocumentManagement.jsx:295
 msgid "Contents"
-msgstr ""
+msgstr "Tartalmak"
 
 #: apps/documents/assets/DocumentManagement.jsx:307
 msgid "Edit chapter"
-msgstr ""
+msgstr "Fejezet szerkesztése"
 
 #: apps/documents/assets/ParagraphForm.jsx:71
 msgid "Headline"
-msgstr ""
+msgstr "Cím"
 
 #: apps/documents/assets/ParagraphForm.jsx:88
 msgid "Paragraph"
-msgstr ""
-
-#: apps/embed/assets/embed.js:111
-msgid "We couldn't find what you were looking for."
-msgstr ""
-
-#: apps/embed/assets/embed.js:115
-msgid "You don't have the permission to view this page."
-msgstr ""
-
-#: apps/embed/assets/embed.js:118
-msgid "Something went wrong!"
-msgstr ""
-
-#: apps/embed/assets/embed.js:218
-msgid ""
-"You have third party cookies disabled. You can still view the content of "
-"this project but won't be able to login."
-msgstr ""
+msgstr "Bekezdés"
 
 #: apps/interactiveevents/assets/CategorySelect.jsx:10
 msgid "Affiliation"
-msgstr ""
+msgstr "Hovatartozás"
 
 #: apps/interactiveevents/assets/CategorySelect.jsx:11
 msgid ""
 "Answered questions will be displayed in the statistics according to the "
 "chosen affiliation."
 msgstr ""
+"A megválaszolt kérdések a statisztikában a kiválasztott hovatartozásnak "
+"megfelelően jelennek meg."
 
 #: apps/interactiveevents/assets/Filters.jsx:27
 msgid " Filters"
-msgstr ""
+msgstr " Szűrők"
 
 #: apps/interactiveevents/assets/Filters.jsx:28
 msgid "Click to view filters"
-msgstr ""
+msgstr "Kattintson a szűrők megtekintéséhez"
 
 #: apps/interactiveevents/assets/Filters.jsx:29
 msgid "Click to only display marked questions"
 msgstr ""
+"Kattintson a gombra, ha csak a megjelölt kérdéseket szeretné megjeleníteni"
 
 #: apps/interactiveevents/assets/Filters.jsx:30
 msgid "Click to only display questions which are not hidden"
-msgstr ""
+msgstr "Kattintson a gombra a nem rejtett kérdések megjelenítéséhez"
 
 #: apps/interactiveevents/assets/Filters.jsx:31
 msgid "Click to order list by likes"
-msgstr ""
+msgstr "Kattintson a listára a tetszés szerinti rendeléshez"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:4
 msgid "Info"
-msgstr ""
+msgstr "Információ"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:5
 msgid "display question on screen"
-msgstr ""
+msgstr "kérdés megjelenítése a képernyőn"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:6
 msgid "add question to shortlist"
-msgstr ""
+msgstr "kérdés hozzáadása a listához"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:7
 msgid "hide question from audience"
-msgstr ""
+msgstr "elrejteni a közönség kérdését"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:8
 msgid "mark question as answered"
-msgstr ""
+msgstr "jelölje meg a kérdést megválaszoltnak"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:9
 msgid "is shown in front of a question? It has been marked by the moderation."
-msgstr ""
+msgstr "jelenik meg egy kérdés előtt? Ezt a moderáció jelölte meg."
 
 #: apps/interactiveevents/assets/InfoBox.jsx:10
 msgid "Close information"
-msgstr ""
+msgstr "Információ bezárása"
 
 #: apps/interactiveevents/assets/InfoBox.jsx:11
 msgid "Open information"
-msgstr ""
+msgstr "Információ megnyitása"
 
 #: apps/interactiveevents/assets/QuestionBox.jsx:10
 msgid "Statistics"
-msgstr ""
+msgstr "Statisztika"
 
 #: apps/interactiveevents/assets/QuestionBox.jsx:11
 msgid "Entries"
-msgstr ""
+msgstr "Bejegyzések"
 
 #: apps/interactiveevents/assets/QuestionBox.jsx:12
 msgid "Click to view statistics of answered questions"
 msgstr ""
+"Kattintson ide a megválaszolt kérdések statisztikájának megtekintéséhez"
 
 #: apps/interactiveevents/assets/QuestionBox.jsx:13
 msgid "display on screen"
-msgstr ""
+msgstr "megjelenítés a képernyőn"
 
 #: apps/interactiveevents/assets/QuestionBox.jsx:14
 msgid "Click to view list of marked questions screen"
-msgstr ""
+msgstr "Kattintson a megjelölt kérdések listájának megtekintéséhez"
 
 #: apps/interactiveevents/assets/QuestionBox.jsx:27
 msgid "select affiliation"
-msgstr ""
+msgstr "válassza ki a tagságot"
 
 #: apps/interactiveevents/assets/QuestionForm.jsx:61
 msgid "Here you can ask your question"
-msgstr ""
+msgstr "Itt teheti fel kérdését"
 
 #: apps/interactiveevents/assets/QuestionForm.jsx:69
 #: apps/interactiveevents/assets/QuestionForm.jsx:88
 msgid "Add Question"
-msgstr ""
+msgstr "Kérdés hozzáadása"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:97
 msgid "mark as hidden"
-msgstr ""
+msgstr "rejtettnek jelölni"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:98
 msgid "undo mark as hidden"
-msgstr ""
+msgstr "rejtve jelölés visszavonása"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:99
 msgid "mark as done"
-msgstr ""
+msgstr "késznek jelölni"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:100
 msgid "add to live list"
-msgstr ""
+msgstr "hozzáadni az élő listához"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:101
 msgid "remove from live list"
-msgstr ""
+msgstr "eltávolítani az élő listáról"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:102
 msgid "add to shortlist"
-msgstr ""
+msgstr "hozzáadni a rövid listához"
 
 #: apps/interactiveevents/assets/QuestionModerator.jsx:103
 msgid "remove from shortlist"
-msgstr ""
+msgstr "eltávolítani a listáról"
 
 #: apps/interactiveevents/assets/QuestionPresent.jsx:29
 #: apps/interactiveevents/assets/QuestionUser.jsx:52
 msgid "likes"
-msgstr ""
+msgstr "kedvelések"
 
 #: apps/interactiveevents/assets/QuestionUser.jsx:51
 msgid "on shortlist"
-msgstr ""
+msgstr "a szűkített listán"
 
 #: apps/interactiveevents/assets/QuestionUser.jsx:53
 msgid "add like"
-msgstr ""
+msgstr "hozzáadni, mint"
 
 #: apps/interactiveevents/assets/QuestionUser.jsx:54
 msgid "undo like"
-msgstr ""
+msgstr "kedvelés visszavonása"
 
 #: apps/interactiveevents/assets/StatisticsBox.jsx:46
 msgid "Questions Answered"
+msgstr "Megválaszolt kérdések"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedback.jsx:8
+msgid "delete"
+msgstr "törlés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedback.jsx:9
+msgid "edit"
+msgstr "szerkesztés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedback.jsx:10
+msgid "Moderator's feedback"
+msgstr "Moderátor visszajelzése"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedback.jsx:11
+msgid "Last edit was on "
+msgstr "Utolsó szerkesztés volt ekkor:"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedbackForm.jsx:9
+msgid "Write feedback"
+msgstr "Visszajelzés írása"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedbackForm.jsx:11
+msgid "submit feedback"
+msgstr "visszajelzés küldése"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationFeedbackForm.jsx:12
+msgid "update feedback"
+msgstr "frissítés visszajelzés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:12
+msgid "Your feedback was successfully delivered."
+msgstr "Visszajelzését sikeresen kézbesítettük."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:13
+msgid "Your feedback was successfully updated."
+msgstr "Visszajelzését sikeresen frissítettük."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:14
+msgid "Your feedback was successfully deleted."
+msgstr "Visszajelzését sikeresen töröltük."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:15
+msgid ""
+"The comment has already been moderated. Your feedback could not be saved."
 msgstr ""
+"A hozzászólást már moderálták. A visszajelzést nem lehetett elmenteni."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:16
+msgid "Go to discussion"
+msgstr "Tovább a megbeszélésre"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:17
+msgid "Comment blocked successfully."
+msgstr "A megjegyzés sikeresen blokkolva."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:18
+msgid "Comment unblocked successfully."
+msgstr "Megjegyzés feloldása sikeresen."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:19
+msgid "Comment highlighted successfully."
+msgstr "Sikeresen kiemelt megjegyzés."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:20
+msgid "Comment unhighlighted successfully."
+msgstr "Sikeresen kiemeletlen megjegyzés."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:21
+msgid "Notification successfully marked as read."
+msgstr "Az értesítést sikeresen olvasottnak jelölték."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:22
+msgid "Notification successfully marked as unread."
+msgstr "Az értesítést sikeresen olvashatatlannak jelölték."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:23
+msgid "AI"
+msgstr "AI"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:24
+msgid "posted a"
+msgstr "postázott egy"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:222
+#, javascript-format
+msgid "'s {}comment{} has been reported 1 time since it's creation"
+msgid_plural "'s {}comment{} has been reported %s times since it's creation"
+msgstr[0] "'s {}comment{} 1 alkalommal jelentették létrehozása óta"
+msgstr[1] "'s {}komment{} már jelentették %s alkalommal létrehozása óta"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:241
+msgid "Mark as read"
+msgstr "Megjelölés olvasottként"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:242
+msgid "Mark as unread"
+msgstr "Megjelölés olvasatlanként"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:254
+msgid "Last edited on "
+msgstr "Utoljára szerkesztve: "
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotification.jsx:256
+msgid "Created on "
+msgstr "Létrehozva "
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:7
+msgid "Block"
+msgstr "Blokk"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:8
+msgid "Unblock"
+msgstr "Tiltás feloldása"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:9
+msgid "Blocked"
+msgstr "Blokkolva"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:10
+msgid "Add feedback"
+msgstr "Visszajelzés hozzáadása"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:11
+msgid "This comment was blocked"
+msgstr "Ezt a megjegyzést blokkolták"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:12
+msgid "Highlight"
+msgstr "Kiemelés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:13
+msgid "Unhighlight"
+msgstr "Kiemelés visszavonása"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:15
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:11
+msgid "Unread"
+msgstr "Olvasatlan"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:16
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:10
+msgid "Read"
+msgstr "Olvasás"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationActionsBar.jsx:17
+msgid "Edit feedback"
+msgstr "Visszajelzés szerkesztése"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:12
+msgid "View all"
+msgstr "Összes megtekintése"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:16
+msgid "Reported"
+msgstr "Jelentve"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:17
+msgid "All comments"
+msgstr "Minden megjegyzés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:21
+msgid "Most reported"
+msgstr "A legtöbb jelentett"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:22
+msgid "Oldest"
+msgstr "Legrégebbi"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:23
+msgid "Most recent"
+msgstr "Legfrissebb"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:159
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:70
+msgid "By "
+msgstr "Szerző: "
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:160
+msgid "Load more"
+msgstr "Továbbiak betöltése"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:161
+msgid "Go to top"
+msgstr "Ugrás felülre"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:162
+msgid "Notifications of comments from project"
+msgstr "Értesítések a projekt észrevételeiről"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:163
+msgid "Notification filters and sorting"
+msgstr "Értesítési szűrők és rendezés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:164
+msgid "Moderation project"
+msgstr "Moderációs projekt"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:191
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:200
+msgid "Filter"
+msgstr "Szűrő"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationNotificationList.jsx:209
+msgid "Sorting"
+msgstr "Rendezés"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:44
+msgid "Over 1 year left"
+msgstr "Több mint 1 év maradt"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:48
+msgid "left"
+msgstr "bal"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:58
+msgid "1 year"
+msgstr "1 év"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:69
+msgid "Loading..."
+msgstr "Betöltés..."
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:71
+msgid " comments"
+msgstr "hozzászólások"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:72
+msgid " reports"
+msgstr " jelentések"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:73
+msgid "public"
+msgstr "nyilvános"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:74
+msgid "private"
+msgstr "privát"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:75
+msgid "semi-public"
+msgstr "félig nyilvános"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:76
+msgid "Notifications has unread comments"
+msgstr "Értesítések olvasatlan hozzászólások"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:77
+msgid "Moderation dashboard overview"
+msgstr "Moderációs irányítópult áttekintése"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:78
+msgid "Projects"
+msgstr "Projektek"
+
+#: apps/userdashboard/assets/js/a4_candy_userdashboard/ModerationProjects.jsx:79
+msgid "Projects I am moderating"
+msgstr "Projektek, amelyeket moderálok"
 
 #: adhocracy-plus/assets/js/unload_warning.js:20
 msgid "If you leave this page changes you made will not be saved."
 msgstr ""
+"Ha elhagyja ezt az oldalt, az elvégzett módosítások nem kerülnek mentésre."
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:13
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:18
 msgid "External Video"
-msgstr ""
+msgstr "Külső videó"
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:14
 msgid ""
@@ -1061,28 +1167,36 @@ msgid ""
 "content will only be loaded after you give your consent. Only then will "
 "YouTube set Cookies that collect information on user behaviour."
 msgstr ""
+"Itt talál egy videót a Google-tól (YouTube). Az Ön adatainak védelme "
+"érdekében a tartalom csak az Ön hozzájárulása után kerül betöltésre. A "
+"YouTube csak ezután állít be olyan sütiket, amelyek a felhasználói "
+"viselkedésre vonatkozó információkat gyűjtenek."
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:15
 msgid "More information can be found in the privacy policy of Google under: "
-msgstr ""
+msgstr "További információ a Google adatvédelmi szabályzatában található: "
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:17
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:22
 msgid "Link to Video: "
-msgstr ""
+msgstr "Link a videóhoz: "
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:17
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:22
 msgid "Play video"
-msgstr ""
+msgstr "Videó lejátszása"
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:19
 msgid ""
 "Here you can find a video from Vimeo. To protect your data the content will "
-"only be loaded after you give your consent. Only then will Vimeo set Cookies "
-"that collect information on user behaviour."
+"only be loaded after you give your consent. Only then will Vimeo set "
+"Cookies that collect information on user behaviour."
 msgstr ""
+"Itt talál egy videót a Vimeo-ról. Az Ön adatainak védelme érdekében a "
+"tartalom csak az Ön hozzájárulása után kerül betöltésre. A Vimeo csak "
+"ezután állít be olyan sütiket, amelyek a felhasználói viselkedésre "
+"vonatkozó információkat gyűjtenek."
 
 #: dsgvo-video-embed/js/dsgvo-video-embed.js:20
 msgid "More information can be found in the privacy policy of Vimeo under: "
-msgstr ""
+msgstr "További információ a Vimeo adatvédelmi szabályzatában található: "
